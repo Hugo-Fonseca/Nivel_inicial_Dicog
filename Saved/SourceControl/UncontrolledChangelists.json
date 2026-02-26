@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset",
 				"C:/Users/User/Documents/Unreal Projects/Juego_Dicog/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Down_Right.uasset",
 				"C:/Users/User/Documents/Unreal Projects/Juego_Dicog/Content/FreeAnimationLibrary/Animations/Climbing_Animations/Climbing/anim_Climb_Up_Left.uasset",
@@ -175,6 +176,8 @@
 				"C:/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Unreal Projects/Nivel_Inicial/Content/TestGame/Blueprints/BP_Player.uasset",
 				"C:/Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/BP_Guardia.uasset",
+=======
+>>>>>>> bee09613b514def3dbc112b9e20ec3a00b75adbc
 				"C:/Users/User/OneDrive/Documentos/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/N_inicial.umap",
 				"C:/Users/User/OneDrive/Documentos/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/Mapa_incial.umap",
 				"C:/Users/User/OneDrive/Documentos/Unreal Projects/Nivel_Inicial/Content/ThirdPerson/Blueprints/Niveles/_GENERATED/User/CubeGridToolOutput_2B316325.uasset",
