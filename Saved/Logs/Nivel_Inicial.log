@@ -2284,3 +2284,9 @@ FPackageName: Skipped package /Interchange/gltf/Textures/T_White_srgb has a vali
 [2026.04.04-17.15.28:665][808]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
 		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
 		NumGeometrySegments changed: current: 0 - new: 512
+[2026.04.04-17.19.27:604][195]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5817.263184
+[2026.04.04-17.19.28:602][198]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.04-17.19.28:602][198]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5817.935059, Update Interval: 320.916779
+[2026.04.04-17.25.24:783][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6174.445312
+[2026.04.04-17.25.25:783][615]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.04-17.25.25:783][615]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6175.112305, Update Interval: 307.569824
