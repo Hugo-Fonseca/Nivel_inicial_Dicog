@@ -2124,3 +2124,910 @@ Script call stack:
 [2026.05.07-02.25.46:887][136]AssetCheck: /Game/ThirdPerson/Matirials_Download/Roca_Terreno/textures/rocky_terrain_nor_gl_4k Validating asset
 [2026.05.07-02.25.46:887][136]AssetCheck: /Game/ThirdPerson/Matirials_Download/Roca_Terreno/textures/rocky_terrain_rough_4k Validating asset
 [2026.05.07-02.25.46:939][136]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/Projectos_Coompañeros/Nivel_inicial_Dicog/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.07-02.32.02:321][339]LogHttp: Warning: 000001E9C053E000: request failed, libcurl error: 26 (Failed to open/read local data from file/application)
+[2026.05.07-02.32.02:321][339]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 0 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2026.05.07-02.32.02:321][339]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 1 (upload completely sent off: 440 bytes)
+[2026.05.07-02.32.02:321][339]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 2 (TLSv1.3 (IN), TLS alert, close notify (256):)
+[2026.05.07-02.32.02:321][339]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2026.05.07-02.32.02:322][339]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 4 (shutting down connection #14)
+[2026.05.07-02.32.02:322][339]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 5 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2026.05.07-02.32.02:322][339]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 6 (necessary data rewind was not possible)
+[2026.05.07-02.32.02:322][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 7 (rewind of client reader 'cr-in' failed: 65)
+[2026.05.07-02.32.02:322][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEBC55966-4605-ED9E-E9F9-56AC11A4D3AF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=953a307a402ac84c8b8acfa4add27c66%7C357b3cbff17c4c14bcee9434bd772e88%7C9a4ab650-f32f-4b7c-aa03-0d71afadb5e5&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2026.05.07-02.32.02:322][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 9 (necessary data rewind was not possible)
+[2026.05.07-02.32.02:322][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 10 (rewind of client reader 'cr-in' failed: 65)
+[2026.05.07-02.32.02:322][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 11 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.05.07-02.32.02:322][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 12 (IPv6: (none))
+[2026.05.07-02.32.02:322][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 13 (IPv4: 52.0.7.168, 34.226.162.43, 35.169.158.160, 3.211.59.132, 32.194.215.172, 107.21.29.102, 3.234.46.94, 3.221.193.140)
+[2026.05.07-02.32.02:322][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 14 (  Trying 52.0.7.168:443...)
+[2026.05.07-02.32.02:322][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 15 (SSL reusing session)
+[2026.05.07-02.32.02:322][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 16 (ALPN: curl offers http/1.1)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 17 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 18 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 19 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 20 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 21 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 22 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 23 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 24 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 25 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256 / [blank] / UNDEF)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 26 (ALPN: server accepted http/1.1)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 27 (Server certificate:)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 28 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 29 ( start date: Jan  3 00:00:00 2026 GMT)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 30 ( expire date: Feb  1 23:59:59 2027 GMT)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 31 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 32 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M04)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 33 ( SSL certificate verify ok.)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 34 (  Certificate level 0: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 35 (  Certificate level 1: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 36 (  Certificate level 2: Public key type ? (2048/112 Bits/secBits), signed using sha256WithRSAEncryption)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 37 (Connected to datarouter.ol.epicgames.com (52.0.7.168) port 443)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 38 (using HTTP/1.x)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 39 (client read function EOF fail, only 0/440 of needed bytes read)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000: libcurl info message cache 40 (closing connection #15)
+[2026.05.07-02.32.02:324][340]LogHttp: Warning: 000001E9C053E000 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEBC55966-4605-ED9E-E9F9-56AC11A4D3AF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=953a307a402ac84c8b8acfa4add27c66%7C357b3cbff17c4c14bcee9434bd772e88%7C9a4ab650-f32f-4b7c-aa03-0d71afadb5e5&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'Other' after 23.61s
+[2026.05.07-02.37.37:342][344]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.05.07-02.37.39:413][349]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:58140'.
+[2026.05.07-02.37.39:425][349]LogUdpMessaging: Display: Added local interface '10.175.224.240' to multicast group '230.0.0.1:6666'
+[2026.05.07-02.37.39:436][349]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.05.07-02.38.26:893][493]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.07-02.40.18:496][827]LogSlate: Window 'BP_Player' being destroyed
+[2026.05.07-02.40.18:503][827]LogSlate: Window 'BP_Player' being destroyed
+[2026.05.07-02.40.46:185][ 13]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.40.46:185][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.40.46:230][ 13]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.40.46:230][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.40.46:529][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2026.05.07-02.40.50:099][211]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.07-02.40.50:099][211]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.40.50:099][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.40.50:625][211]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2026.05.07-02.40.52:174][293]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.40.52:174][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.40.52:525][293]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2026.05.07-02.40.57:748][589]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.40.57:748][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.40.58:126][589]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2026.05.07-02.40.59:631][667]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.40.59:631][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.40.59:896][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2026.05.07-02.41.04:647][834]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPerson/Matirials_Download/M_MasterMateriall.M_MasterMateriall
+[2026.05.07-02.41.04:690][834]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2026.05.07-02.41.04:723][834]LogStreaming: Display: FlushAsyncLoading(856): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.07-02.41.04:831][834]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2026.05.07-02.41.06:818][834]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.41.06:818][834]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.41.06:818][834]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.41.06:818][834]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.41.07:057][836]MaterialEditorStats: Base pass shader: 171 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.07-02.41.07:057][836]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.41.07:058][836]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.07-02.41.07:058][836]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.41.07:058][836]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.41.07:058][836]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.41.08:668][876]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.07-02.41.08:669][876]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.41.08:669][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.41.09:342][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2026.05.07-02.41.09:991][908]LogSlate: Window 'M_MasterMateriall' being destroyed
+[2026.05.07-02.41.29:712][399]LogContentBrowser: Deferred new asset file creation: NewMaterialFunction
+[2026.05.07-02.41.29:738][399]LogContentBrowser: Creating deferred item: NewMaterialFunction
+[2026.05.07-02.41.29:777][400]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterialFunction).
+[2026.05.07-02.41.37:441][708]LogContentBrowser: Attempting asset rename: NewMaterialFunction -> MF_UVControl
+[2026.05.07-02.41.37:453][708]LogContentBrowser: End creating deferred item NewMaterialFunction
+[2026.05.07-02.41.37:458][708]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.05.07-02.41.39:455][778]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Game/ThirdPerson/Matirials_Download/MF_UVControl.MF_UVControl
+[2026.05.07-02.41.39:468][778]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.05.07-02.41.40:202][778]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2026.05.07-02.41.40:209][778]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2026.05.07-02.41.41:265][778]MaterialEditorStats: Error: [SM6] Missing function output 'Result'
+[2026.05.07-02.41.55:205][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureCoordinate'MaterialGraphNode_2.MaterialExpressionTextureCoordinate_1'",InputName="UVs"))'
+[2026.05.07-02.41.55:205][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionFunctionInput'MaterialGraphNode_3.MaterialExpressionFunctionInput_1'",InputName="Rotation Angle (0-1)"))'
+[2026.05.07-02.41.55:207][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialGraphNode_1.MaterialExpressionMaterialFunctionCall_0'")'
+[2026.05.07-02.41.55:208][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialGraphNode_1.MaterialExpressionMaterialFunctionCall_0'")'
+[2026.05.07-02.41.55:209][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionComponentMask'MaterialGraphNode_4.MaterialExpressionComponentMask_0'")'
+[2026.05.07-02.41.55:209][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionFunctionInput'MaterialGraphNode_8.MaterialExpressionFunctionInput_2'")'
+[2026.05.07-02.41.55:209][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionComponentMask'MaterialGraphNode_5.MaterialExpressionComponentMask_1'")'
+[2026.05.07-02.41.55:209][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionFunctionInput'MaterialGraphNode_9.MaterialExpressionFunctionInput_3'")'
+[2026.05.07-02.41.55:212][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_6.MaterialExpressionMultiply_1'")'
+[2026.05.07-02.41.55:212][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_7.MaterialExpressionMultiply_2'")'
+[2026.05.07-02.41.55:213][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAppendVector'MaterialGraphNode_10.MaterialExpressionAppendVector_0'")'
+[2026.05.07-02.41.55:213][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAppendVector'MaterialGraphNode_10.MaterialExpressionAppendVector_0'")'
+[2026.05.07-02.41.55:215][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionComponentMask'MaterialGraphNode_11.MaterialExpressionComponentMask_2'")'
+[2026.05.07-02.41.55:215][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionFunctionInput'MaterialGraphNode_13.MaterialExpressionFunctionInput_4'")'
+[2026.05.07-02.41.55:216][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionComponentMask'MaterialGraphNode_12.MaterialExpressionComponentMask_3'")'
+[2026.05.07-02.41.55:216][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionFunctionInput'MaterialGraphNode_14.MaterialExpressionFunctionInput_5'")'
+[2026.05.07-02.41.55:217][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAdd'MaterialGraphNode_15.MaterialExpressionAdd_0'")'
+[2026.05.07-02.41.55:217][308]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAdd'MaterialGraphNode_16.MaterialExpressionAdd_1'")'
+[2026.05.07-02.41.55:244][308]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Result'
+
+[2026.05.07-02.42.08:812][ 34]LogMaterialEditor: Saving and Compiling material MF_UVControl
+[2026.05.07-02.42.13:710][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.07-02.42.13:826][ 34]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Matirials_Download/MF_UVControl] ([1] browsable assets)...
+[2026.05.07-02.42.13:849][ 34]OBJ SavePackage:     Rendered thumbnail for [MaterialFunction /Game/ThirdPerson/Matirials_Download/MF_UVControl.MF_UVControl]
+[2026.05.07-02.42.13:849][ 34]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Matirials_Download/MF_UVControl]
+[2026.05.07-02.42.13:874][ 34]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Matirials_Download/MF_UVControl
+[2026.05.07-02.42.13:874][ 34]LogSavePackage: Moving '../../../../../../Users/User/Documents/Projectos_Coompañeros/Nivel_inicial_Dicog/Saved/MF_UVControlA4768DB045B757ED6A047C8E8B33E56F.tmp' to '../../../../../../Users/User/Documents/Projectos_Coompañeros/Nivel_inicial_Dicog/Content/ThirdPerson/Matirials_Download/MF_UVControl.uasset'
+[2026.05.07-02.42.13:889][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 179.024 ms (total: 3.45 sec)
+[2026.05.07-02.42.13:975][ 34]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.07-02.42.13:975][ 34]LogContentValidation: Enabled validators:
+[2026.05.07-02.42.13:975][ 34]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.07-02.42.13:975][ 34]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.07-02.42.13:975][ 34]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.07-02.42.13:975][ 34]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.07-02.42.13:975][ 34]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.07-02.42.13:975][ 34]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.07-02.42.13:976][ 34]AssetCheck: /Game/ThirdPerson/Matirials_Download/MF_UVControl Validating asset
+[2026.05.07-02.42.14:015][ 34]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/Projectos_Coompañeros/Nivel_inicial_Dicog/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.07-02.42.30:093][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_4 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_4 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_4
+[2026.05.07-02.42.30:093][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialGraphNode_4.MaterialExpressionMaterialFunctionCall_3'")'
+[2026.05.07-02.42.30:093][506]LogStreaming: Display: FlushAsyncLoading(861): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.07-02.42.30:103][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to '"/Script/Engine.Texture2D'/Game/ThirdPerson/Materials_Download/Arena/textures/coast_sand_01_diff_4k.coast_sand_01_diff_4k'"'
+[2026.05.07-02.42.30:103][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:105][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_14 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_14 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_14
+[2026.05.07-02.42.30:105][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_14.MaterialExpressionScalarParameter_0'")'
+[2026.05.07-02.42.30:105][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_15 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_15 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_15
+[2026.05.07-02.42.30:105][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_15.MaterialExpressionScalarParameter_1'")'
+[2026.05.07-02.42.30:105][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionReroute'MaterialGraphNode_Knot_0.MaterialExpressionReroute_0'")'
+[2026.05.07-02.42.30:105][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:106][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_17 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_17 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_17
+[2026.05.07-02.42.30:106][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_17.MaterialExpressionMultiply_1'")'
+[2026.05.07-02.42.30:106][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_18 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_18 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_18
+[2026.05.07-02.42.30:106][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionComponentMask'MaterialGraphNode_18.MaterialExpressionComponentMask_2'")'
+[2026.05.07-02.42.30:106][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:107][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_13 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_13 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_13
+[2026.05.07-02.42.30:107][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSampleParameter2D'MaterialGraphNode_13.MaterialExpressionTextureSampleParameter2D_3'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2026.05.07-02.42.30:107][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_20.MaterialExpressionScalarParameter_3'")'
+[2026.05.07-02.42.30:107][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:108][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionMaterialFunctionCall:MaterialFunction: unresolved reference to '"/Script/Engine.MaterialFunction'/Game/ThirdPerson/Materials_Download/MF_UVControl.MF_UVControl'"'
+[2026.05.07-02.42.30:108][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_6 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_6 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_6
+[2026.05.07-02.42.30:108][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_6.MaterialExpressionScalarParameter_8'",InputName="U"))'
+[2026.05.07-02.42.30:108][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_7 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_7 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_7
+[2026.05.07-02.42.30:108][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_7.MaterialExpressionScalarParameter_9'",InputName="V"))'
+[2026.05.07-02.42.30:108][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_8 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_8 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_8
+[2026.05.07-02.42.30:108][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_8.MaterialExpressionScalarParameter_10'",InputName="U - offset"))'
+[2026.05.07-02.42.30:108][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_9 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_9 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_9
+[2026.05.07-02.42.30:108][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_9.MaterialExpressionScalarParameter_11'",InputName="V - offset"))'
+[2026.05.07-02.42.30:108][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_5 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_5 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_5
+[2026.05.07-02.42.30:108][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_5.MaterialExpressionScalarParameter_7'",InputName="Rotarion"))'
+[2026.05.07-02.42.30:108][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:110][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:110][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:111][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:112][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:112][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:113][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_4 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_4 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_4
+[2026.05.07-02.42.30:113][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialGraphNode_4.MaterialExpressionMaterialFunctionCall_3'")'
+[2026.05.07-02.42.30:115][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to '"/Script/Engine.Texture2D'/Game/ThirdPerson/Materials_Download/Arena/textures/coast_sand_01_rough_4k.coast_sand_01_rough_4k'"'
+[2026.05.07-02.42.30:115][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:116][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_4 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_4 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_4
+[2026.05.07-02.42.30:116][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialGraphNode_4.MaterialExpressionMaterialFunctionCall_3'")'
+[2026.05.07-02.42.30:117][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to '"/Script/Engine.Texture2D'/Game/ThirdPerson/Materials_Download/Arena/textures/coast_sand_01_nor_dx_4k.coast_sand_01_nor_dx_4k'"'
+[2026.05.07-02.42.30:117][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:118][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_4 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_4 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_4
+[2026.05.07-02.42.30:118][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialGraphNode_4.MaterialExpressionMaterialFunctionCall_3'")'
+[2026.05.07-02.42.30:120][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to '"/Script/Engine.Texture2D'/Game/ThirdPerson/Materials_Download/Arena/textures/coast_sand_01_ao_4k.coast_sand_01_ao_4k'"'
+[2026.05.07-02.42.30:120][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:121][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:122][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:123][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_11 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_11 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_11
+[2026.05.07-02.42.30:123][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSampleParameter2D'MaterialGraphNode_11.MaterialExpressionTextureSampleParameter2D_1'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2026.05.07-02.42.30:123][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:124][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_12 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_12 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_12
+[2026.05.07-02.42.30:124][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSampleParameter2D'MaterialGraphNode_12.MaterialExpressionTextureSampleParameter2D_2'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2026.05.07-02.42.30:124][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:126][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_16 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_16 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_16
+[2026.05.07-02.42.30:126][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionComponentMask'MaterialGraphNode_16.MaterialExpressionComponentMask_0'")'
+[2026.05.07-02.42.30:126][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_19.MaterialExpressionScalarParameter_2'")'
+[2026.05.07-02.42.30:126][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:126][506]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_12 while ResolveName, will return /Engine/Transient.Material_0:MaterialGraph_0.MaterialGraphNode_12 but could also be: /Engine/Transient.M_MasterMateriall:MaterialGraph_0.MaterialGraphNode_12
+[2026.05.07-02.42.30:126][506]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSampleParameter2D'MaterialGraphNode_12.MaterialExpressionTextureSampleParameter2D_2'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2026.05.07-02.42.30:126][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:127][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:128][506]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.42.30:225][506]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.42.30:225][506]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.42.30:225][506]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.42.30:225][506]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.42.30:392][508]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.07-02.42.30:393][508]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.42.30:393][508]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.07-02.42.30:393][508]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.42.30:393][508]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.42.30:393][508]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.42.38:064][865]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.42.38:064][865]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.42.38:064][865]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.42.38:064][865]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.42.38:235][867]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.07-02.42.38:235][867]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.42.38:235][867]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.07-02.42.38:235][867]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.42.38:235][867]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.42.38:235][867]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.02:136][626]LogStreaming: Display: FlushAsyncLoading(892): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.07-02.45.02:137][626]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionMaterialFunctionCall:MaterialFunction: unresolved reference to '"/Script/Engine.MaterialFunction'/Game/ThirdPerson/Materials_Download/MF_UVControl.MF_UVControl'"'
+[2026.05.07-02.45.02:137][626]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_MasterMatirial'"'
+[2026.05.07-02.45.02:174][626]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.45.02:175][626]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.02:175][626]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.45.02:175][626]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.02:333][628]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.07-02.45.02:334][628]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.45.02:334][628]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.07-02.45.02:334][628]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.02:334][628]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.45.02:334][628]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.12:774][ 85]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.45.12:774][ 85]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.12:774][ 85]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.45.12:774][ 85]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.12:915][ 87]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.07-02.45.12:915][ 87]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.45.12:915][ 87]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.07-02.45.12:915][ 87]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.12:915][ 87]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.45.12:915][ 87]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.18:897][394]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.45.18:897][394]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.18:897][394]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.45.18:897][394]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.18:947][396]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.07-02.45.18:947][396]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.45.18:947][396]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.07-02.45.18:947][396]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.18:947][396]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.45.18:947][396]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.24:869][532]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.45.24:870][532]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.24:870][532]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.45.24:870][532]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.24:922][534]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.07-02.45.24:922][534]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.45.24:922][534]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.07-02.45.24:922][534]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.24:922][534]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.45.24:922][534]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.26:816][623]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.45.26:816][623]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.26:816][623]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.45.26:816][623]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.26:869][625]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.07-02.45.26:869][625]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.45.26:869][625]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.07-02.45.26:869][625]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.26:869][625]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.45.26:869][625]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.28:864][720]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.45.28:864][720]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.28:864][720]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.45.28:864][720]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.28:918][722]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.07-02.45.28:918][722]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.45.28:919][722]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.07-02.45.28:919][722]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.28:919][722]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.45.28:919][722]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.32:988][924]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.45.32:989][924]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.32:989][924]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.45.32:989][924]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.33:053][927]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.07-02.45.33:054][927]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.45.33:054][927]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.07-02.45.33:054][927]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.33:054][927]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.45.33:054][927]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.36:351][ 87]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.45.36:351][ 87]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.36:351][ 87]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.45.36:351][ 87]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.36:397][ 89]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.45.36:398][ 89]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.45.36:398][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.36:398][ 89]MaterialEditorStats: Shader Count: 1
+[2026.05.07-02.45.36:398][ 89]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.36:419][ 90]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.07-02.45.36:420][ 90]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.45.36:420][ 90]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.07-02.45.36:420][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.36:420][ 90]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.45.36:420][ 90]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.38:990][209]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.45.38:990][209]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.38:990][209]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.45.38:990][209]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.39:044][211]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.45.39:044][211]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.45.39:044][211]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.39:044][211]MaterialEditorStats: Shader Count: 1
+[2026.05.07-02.45.39:044][211]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.39:068][212]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.07-02.45.39:068][212]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.45.39:068][212]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.07-02.45.39:068][212]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.39:068][212]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.45.39:068][212]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.44:711][469]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.45.44:711][469]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.44:711][469]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.45.44:711][469]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.44:779][472]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.07-02.45.44:779][472]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.45.44:779][472]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.07-02.45.44:779][472]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.44:779][472]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.45.44:779][472]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.48:965][661]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.45.48:965][661]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.48:965][661]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.45.48:965][661]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.49:019][663]MaterialEditorStats: Base pass shader: 173 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.05.07-02.45.49:019][663]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.45.49:019][663]MaterialEditorStats: Texture samplers: 1/16
+[2026.05.07-02.45.49:020][663]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.05.07-02.45.49:020][663]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.45.49:020][663]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2026.05.07-02.45.57:043][905]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_MasterMateriall: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2026.05.07-02.45.57:063][905]MaterialEditorStats: Error: [SM6] (Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2026.05.07-02.46.28:035][181]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.46.28:035][181]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.07-02.46.28:035][181]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.07-02.46.28:035][181]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.46.28:035][181]MaterialEditorStats: Preshaders: 8  (10 param fetches, 28 ops)
+[2026.05.07-02.46.28:244][183]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.07-02.46.28:244][183]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.46.28:244][183]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.07-02.46.28:244][183]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.07-02.46.28:244][183]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.07-02.46.28:244][183]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.46.28:244][183]MaterialEditorStats: Preshaders: 8  (10 param fetches, 28 ops)
+[2026.05.07-02.46.57:828][ 60]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.46.57:828][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.07-02.46.57:828][ 60]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.07-02.46.57:828][ 60]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.46.57:829][ 60]MaterialEditorStats: Preshaders: 8  (10 param fetches, 28 ops)
+[2026.05.07-02.46.57:891][ 62]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.07-02.46.57:891][ 62]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.46.57:891][ 62]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.07-02.46.57:891][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.07-02.46.57:891][ 62]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.07-02.46.57:892][ 62]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.46.57:892][ 62]MaterialEditorStats: Preshaders: 8  (10 param fetches, 28 ops)
+[2026.05.07-02.47.14:532][478]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.47.14:533][478]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.07-02.47.14:533][478]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.07-02.47.14:533][478]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.47.14:533][478]MaterialEditorStats: Preshaders: 8  (10 param fetches, 28 ops)
+[2026.05.07-02.47.14:627][480]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.07-02.47.14:627][480]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.47.14:627][480]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.07-02.47.14:628][480]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.07-02.47.14:628][480]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.07-02.47.14:628][480]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.47.14:628][480]MaterialEditorStats: Preshaders: 8  (10 param fetches, 28 ops)
+[2026.05.07-02.47.20:907][756]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.47.20:908][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.07-02.47.20:908][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.07-02.47.20:908][756]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.47.20:908][756]MaterialEditorStats: Preshaders: 8  (10 param fetches, 28 ops)
+[2026.05.07-02.47.20:994][758]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2026.05.07-02.47.20:995][758]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.47.20:995][758]MaterialEditorStats: Texture samplers: 2/16
+[2026.05.07-02.47.20:995][758]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.05.07-02.47.20:995][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.07-02.47.20:995][758]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.47.20:995][758]MaterialEditorStats: Preshaders: 8  (10 param fetches, 28 ops)
+[2026.05.07-02.47.28:677][137]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.47.28:677][137]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.05.07-02.47.28:677][137]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.07-02.47.28:677][137]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.47.28:677][137]MaterialEditorStats: Preshaders: 10  (12 param fetches, 30 ops)
+[2026.05.07-02.47.28:772][139]MaterialEditorStats: Base pass shader: 191 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2026.05.07-02.47.28:772][139]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.47.28:772][139]MaterialEditorStats: Texture samplers: 3/16
+[2026.05.07-02.47.28:772][139]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2026.05.07-02.47.28:772][139]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.07-02.47.28:772][139]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.47.28:772][139]MaterialEditorStats: Preshaders: 10  (12 param fetches, 30 ops)
+[2026.05.07-02.47.35:458][463]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.47.35:458][463]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.07-02.47.35:458][463]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.07-02.47.35:458][463]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.47.35:458][463]MaterialEditorStats: Preshaders: 11  (13 param fetches, 31 ops)
+[2026.05.07-02.47.35:513][465]MaterialEditorStats: Base pass shader: 200 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2026.05.07-02.47.35:513][465]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.47.35:513][465]MaterialEditorStats: Texture samplers: 4/16
+[2026.05.07-02.47.35:513][465]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2026.05.07-02.47.35:513][465]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.07-02.47.35:513][465]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.47.35:513][465]MaterialEditorStats: Preshaders: 11  (13 param fetches, 31 ops)
+[2026.05.07-02.47.40:221][690]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.47.40:221][690]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.05.07-02.47.40:221][690]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.07-02.47.40:221][690]MaterialEditorStats: Shader Count: 0
+[2026.05.07-02.47.40:221][690]MaterialEditorStats: Preshaders: 12  (14 param fetches, 32 ops)
+[2026.05.07-02.47.40:309][692]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.47.40:309][692]MaterialEditorStats: Texture samplers: 0/16
+[2026.05.07-02.47.40:309][692]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.05.07-02.47.40:309][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.07-02.47.40:309][692]MaterialEditorStats: Shader Count: 1
+[2026.05.07-02.47.40:309][692]MaterialEditorStats: Preshaders: 12  (14 param fetches, 32 ops)
+[2026.05.07-02.47.40:337][693]MaterialEditorStats: Base pass shader: 204 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2026.05.07-02.47.40:337][693]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.05.07-02.47.40:337][693]MaterialEditorStats: Texture samplers: 5/16
+[2026.05.07-02.47.40:337][693]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2026.05.07-02.47.40:337][693]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.05.07-02.47.40:338][693]MaterialEditorStats: Shader Count: 2
+[2026.05.07-02.47.40:338][693]MaterialEditorStats: Preshaders: 12  (14 param fetches, 32 ops)
+[2026.05.07-02.47.48:385][908]LogMaterialEditor: Saving and Compiling material M_MasterMateriall
+[2026.05.07-02.47.49:147][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2026.05.07-02.47.56:009][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2026.05.07-02.47.56:157][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.07-02.47.56:237][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Matirials_Download/M_MasterMateriall] ([1] browsable assets)...
+[2026.05.07-02.47.56:270][908]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPerson/Matirials_Download/M_MasterMateriall.M_MasterMateriall]
+[2026.05.07-02.47.56:270][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Matirials_Download/M_MasterMateriall]
+[2026.05.07-02.47.56:295][908]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Matirials_Download/M_MasterMateriall
+[2026.05.07-02.47.56:296][908]LogSavePackage: Moving '../../../../../../Users/User/Documents/Projectos_Coompañeros/Nivel_inicial_Dicog/Saved/M_MasterMateriall5442E58E45AD83CFB41E91AB94D30B82.tmp' to '../../../../../../Users/User/Documents/Projectos_Coompañeros/Nivel_inicial_Dicog/Content/ThirdPerson/Matirials_Download/M_MasterMateriall.uasset'
+[2026.05.07-02.47.56:311][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 154.914 ms (total: 3.60 sec)
+[2026.05.07-02.47.56:387][908]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.07-02.47.56:388][908]LogContentValidation: Enabled validators:
+[2026.05.07-02.47.56:388][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.07-02.47.56:388][908]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.07-02.47.56:388][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.07-02.47.56:388][908]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.07-02.47.56:388][908]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.07-02.47.56:388][908]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.07-02.47.56:388][908]AssetCheck: /Game/ThirdPerson/Matirials_Download/M_MasterMateriall Validating asset
+[2026.05.07-02.48.43:011][265]LogContentBrowser: Deferred new asset file creation: M_MasterMateriall_Inst
+[2026.05.07-02.48.43:029][265]LogContentBrowser: Creating deferred item: M_MasterMateriall_Inst
+[2026.05.07-02.48.43:059][266]LogContentBrowser: Renaming the item being created (Deferred Item: M_MasterMateriall_Inst).
+[2026.05.07-02.48.52:864][624]LogContentBrowser: Attempting asset rename: M_MasterMateriall_Inst -> M_Arena
+[2026.05.07-02.48.52:875][624]LogContentBrowser: End creating deferred item M_MasterMateriall_Inst
+[2026.05.07-02.48.54:648][681]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ThirdPerson/Matirials_Download/M_Arena.M_Arena
+[2026.05.07-02.48.54:658][681]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.05.07-02.49.04:878][183]LogShaderCompilers: Display: ================================================
+[2026.05.07-02.49.04:878][183]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.07-02.49.04:878][183]LogShaderCompilers: Display: Total job queries 681, among them cache hits 176 (25.84%), DDC hits 422 (61.97%), Duplicates 82 (12.04%)
+[2026.05.07-02.49.04:878][183]LogShaderCompilers: Display: Tracking 423 distinct input hashes that result in 312 distinct outputs (73.76%)
+[2026.05.07-02.49.04:880][183]LogShaderCompilers: Display: RAM used: 3,89 MiB of 716,80 MiB budget. Usage: 0.54%
+[2026.05.07-02.49.04:880][183]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.07-02.49.04:880][183]LogShaderCompilers: Display: Shaders Compiled: 1
+[2026.05.07-02.49.04:880][183]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2026.05.07-02.49.04:881][183]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2026.05.07-02.49.04:881][183]LogShaderCompilers: Display: Job execution time: average 6.10 s, max 6.10 s
+[2026.05.07-02.49.04:881][183]LogShaderCompilers: Display: Job life time (pending + execution): average 6.12 s, max 6.12
+[2026.05.07-02.49.04:881][183]LogShaderCompilers: Display: Shader code size: total 14,715 KiB, numShaders 1, average 14,715 KiB, min 14,715 KiB, max 14,715 KiB
+[2026.05.07-02.49.04:881][183]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.12 s
+[2026.05.07-02.49.04:881][183]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.05.07-02.49.04:881][183]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.05.07-02.49.04:881][183]LogShaderCompilers: Display: Average processing rate: 0.16 jobs/sec
+[2026.05.07-02.49.04:881][183]LogShaderCompilers: Display: Total thread time: 2,517 s
+[2026.05.07-02.49.04:881][183]LogShaderCompilers: Display: Total thread preprocess time: 25,91 s
+[2026.05.07-02.49.04:881][183]LogShaderCompilers: Display: Percentage time preprocessing: 1029.50%
+[2026.05.07-02.49.04:881][183]LogShaderCompilers: Display: Effective parallelization: 0.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.051363
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.52 sec, max 2.52 sec, min 2.52 sec)
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display:                                             FDebugViewModePS - 100.00% of total time (compiled    1 times, average 2.52 sec, max 2.52 sec, min 2.52 sec)
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display: === Material stats ===
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display: Materials Translated:    249
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display: Material Total Translate Time: 0.42 s
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display: Material Translation Only: 0.17 s (41%)
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (2%)
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display: Material Cache Hits: 27 (11%)
+[2026.05.07-02.49.04:882][183]LogShaderCompilers: Display: ================================================
+[2026.05.07-02.49.50:030][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.07-02.49.50:128][558]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Matirials_Download/M_Arena] ([1] browsable assets)...
+[2026.05.07-02.49.50:162][558]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ThirdPerson/Matirials_Download/M_Arena.M_Arena]
+[2026.05.07-02.49.50:162][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Matirials_Download/M_Arena]
+[2026.05.07-02.49.50:260][558]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2026.05.07-02.49.50:325][558]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2026.05.07-02.49.50:348][558]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Matirials_Download/M_Arena
+[2026.05.07-02.49.50:349][558]LogSavePackage: Moving '../../../../../../Users/User/Documents/Projectos_Coompañeros/Nivel_inicial_Dicog/Saved/M_ArenaF647BCCD46C22FF266E248AD76B623A1.tmp' to '../../../../../../Users/User/Documents/Projectos_Coompañeros/Nivel_inicial_Dicog/Content/ThirdPerson/Matirials_Download/M_Arena.uasset'
+[2026.05.07-02.49.50:367][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 336.530 ms (total: 3.94 sec)
+[2026.05.07-02.49.50:440][558]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.07-02.49.50:440][558]LogContentValidation: Enabled validators:
+[2026.05.07-02.49.50:440][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.07-02.49.50:440][558]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.07-02.49.50:440][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.07-02.49.50:440][558]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.07-02.49.50:440][558]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.07-02.49.50:440][558]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.07-02.49.50:440][558]AssetCheck: /Game/ThirdPerson/Matirials_Download/M_Arena Validating asset
+[2026.05.07-02.49.50:474][558]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/Projectos_Coompañeros/Nivel_inicial_Dicog/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.07-02.49.59:994][893]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.05.07-02.50.42:488][125]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.07-02.50.42:764][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.05.07-02.50.42:874][125]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Niveles/Mapa_incial
+[2026.05.07-02.50.42:875][125]LogSavePackage: Moving '../../../../../../Users/User/Documents/Projectos_Coompañeros/Nivel_inicial_Dicog/Saved/Mapa_incial23FEB84B499739616BFCF98FEF78CD0D.tmp' to '../../../../../../Users/User/Documents/Projectos_Coompañeros/Nivel_inicial_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_incial.umap'
+[2026.05.07-02.50.42:934][125]LogFileHelpers: Saving map 'Mapa_incial' took 0.335
+[2026.05.07-02.50.42:948][125]LogFileHelpers: InternalPromptForCheckoutAndSave took 459.899 ms (total: 4.40 sec)
+[2026.05.07-02.50.43:038][125]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.07-02.50.43:038][125]LogContentValidation: Enabled validators:
+[2026.05.07-02.50.43:038][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.07-02.50.43:038][125]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.07-02.50.43:038][125]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.07-02.50.43:038][125]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.07-02.50.43:038][125]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.07-02.50.43:038][125]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.07-02.50.43:038][125]AssetCheck: /Game/ThirdPerson/Blueprints/Niveles/Mapa_incial Validating asset
+[2026.05.07-02.50.43:083][125]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/Projectos_Coompañeros/Nivel_inicial_Dicog/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.07-02.50.45:897][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.07-02.50.46:037][200]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Matirials_Download/M_Arena] ([1] browsable assets)...
+[2026.05.07-02.50.46:049][200]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ThirdPerson/Matirials_Download/M_Arena.M_Arena]
+[2026.05.07-02.50.46:050][200]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Matirials_Download/M_Arena]
+[2026.05.07-02.50.46:097][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.05.07-02.50.46:150][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.05.07-02.50.46:168][200]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Matirials_Download/M_Arena
+[2026.05.07-02.50.46:170][200]LogSavePackage: Moving '../../../../../../Users/User/Documents/Projectos_Coompañeros/Nivel_inicial_Dicog/Saved/M_Arena03A843DF4158E55804094A8D136996F2.tmp' to '../../../../../../Users/User/Documents/Projectos_Coompañeros/Nivel_inicial_Dicog/Content/ThirdPerson/Matirials_Download/M_Arena.uasset'
+[2026.05.07-02.50.46:183][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 287.216 ms (total: 4.68 sec)
+[2026.05.07-02.50.46:254][200]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.07-02.50.46:254][200]LogContentValidation: Enabled validators:
+[2026.05.07-02.50.46:254][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.07-02.50.46:254][200]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.07-02.50.46:254][200]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.07-02.50.46:254][200]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.07-02.50.46:254][200]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.07-02.50.46:254][200]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.07-02.50.46:254][200]AssetCheck: /Game/ThirdPerson/Matirials_Download/M_Arena Validating asset
+[2026.05.07-02.50.47:574][235]LogSlate: Window 'M_Arena' being destroyed
+[2026.05.07-02.50.47:647][235]LogSlate: Window 'M_Arena' being destroyed
+[2026.05.07-02.50.47:765][235]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.50.47:765][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.50.47:847][235]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2026.05.07-02.51.35:121][814]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2026.05.07-02.51.35:455][814]LogStall: Shutdown...
+[2026.05.07-02.51.35:455][814]LogStall: Shutdown complete.
+[2026.05.07-02.51.35:647][814]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.35:647][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.35:839][814]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.35:839][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.36:060][814]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.07-02.51.36:060][814]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.36:060][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.36:578][814]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.36:578][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.36:906][814]LogSlate: Window 'Nivel_Inicial - Unreal Editor' being destroyed
+[2026.05.07-02.51.38:651][814]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2026.05.07-02.51.38:703][814]Cmd: QUIT_EDITOR
+[2026.05.07-02.51.38:703][814]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.07-02.51.38:737][815]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.07-02.51.38:738][815]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.07-02.51.38:738][815]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.07-02.51.38:751][815]LogWorld: UWorld::CleanupWorld for Mapa_incial, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.38:752][815]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.07-02.51.38:752][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.38:818][815]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.05.07-02.51.38:818][815]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.05.07-02.51.38:824][815]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.07-02.51.38:874][815]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.38:874][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.38:882][815]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.38:882][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.38:888][815]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.38:889][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.38:895][815]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.38:895][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.38:903][815]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.38:903][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.38:913][815]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.38:913][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.38:919][815]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.38:919][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.38:929][815]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.38:929][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.38:935][815]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.38:935][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.38:942][815]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.38:942][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.38:948][815]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.38:948][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.38:956][815]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.38:956][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.38:963][815]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.05.07-02.51.38:963][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.07-02.51.38:971][815]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.05.07-02.51.38:972][815]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2026.05.07-02.51.39:473][815]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2026.05.07-02.51.39:973][815]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.05.07-02.51.40:003][815]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.05.07-02.51.40:574][815]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.07-02.51.40:574][815]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.07-02.51.40:574][815]LogAudio: Display: Audio Device unregistered from world 'Mapa_incial'.
+[2026.05.07-02.51.40:574][815]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.07-02.51.40:575][815]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.05.07-02.51.40:581][815]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.05.07-02.51.40:629][815]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.07-02.51.40:629][815]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.07-02.51.40:658][815]LogWindowsTextInputMethodSystem: Activated input method: Español (Colombia) - (Keyboard).
+[2026.05.07-02.51.40:732][815]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.07-02.51.40:735][815]LogExit: Preparing to exit.
+[2026.05.07-02.51.40:914][815]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2026.05.07-02.51.40:923][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:924][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:932][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:932][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:934][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:934][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:934][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:934][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:934][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:934][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:934][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:934][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:934][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:934][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:934][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:934][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:934][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:934][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:935][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:935][815]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.40:935][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.07-02.51.42:255][815]LogEditorDataStorage: Deinitializing
+[2026.05.07-02.51.43:074][815]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.07-02.51.43:550][815]LogExit: Editor shut down
+[2026.05.07-02.51.43:674][815]LogExit: Transaction tracking system shut down
+[2026.05.07-02.51.47:373][815]LogExit: Object subsystem successfully closed.
+[2026.05.07-02.51.47:486][815]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.05.07-02.51.48:010][815]LogMemoryProfiler: Shutdown
+[2026.05.07-02.51.48:010][815]LogNetworkingProfiler: Shutdown
+[2026.05.07-02.51.48:011][815]LoadingProfiler: Shutdown
+[2026.05.07-02.51.48:011][815]LogTimingProfiler: Shutdown
+[2026.05.07-02.51.48:018][815]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.05.07-02.51.48:018][815]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.05.07-02.51.50:856][815]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.05.07-02.51.50:880][815]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.05.07-02.51.50:880][815]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEBC55966-4605-ED9E-E9F9-56AC11A4D3AF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=953a307a402ac84c8b8acfa4add27c66%7C357b3cbff17c4c14bcee9434bd772e88%7C9a4ab650-f32f-4b7c-aa03-0d71afadb5e5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.05.07-02.51.50:932][815]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.05.07-02.51.50:932][815]LogNFORDenoise: NFORDenoise function shutting down
+[2026.05.07-02.51.50:932][815]RenderDocPlugin: plugin has been unloaded.
+[2026.05.07-02.51.50:986][815]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.05.07-02.51.50:986][815]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.05.07-02.51.50:986][815]LogPakFile: Destroying PakPlatformFile
+[2026.05.07-02.51.51:480][815]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.07-02.51.51:584][815]LogExit: Exiting.
+[2026.05.07-02.51.51:774][815]Log file closed, 05/06/26 21:51:51
