@@ -2457,3 +2457,611 @@ Make sure '/Game/TestGame/Games_Instance/BP_GamesInstance.BP_GamesInstance_C' ha
 [2026.05.08-22.01.11:269][321]AssetCheck: /Game/ThirdPerson/DevRoom/lambert41 Validating asset
 [2026.05.08-22.01.11:270][321]AssetCheck: /Game/ThirdPerson/DevRoom/lambert42 Validating asset
 [2026.05.08-22.01.11:305][321]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-22.01.40:852][612]LogHttp: Warning: 0000026A4AC71500: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.05.08-22.01.40:852][612]LogHttp: Warning: 0000026A4AC71500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.05.08-22.01.40:852][613]LogHttp: Warning: 0000026A4AC71500: libcurl info message cache 1 (shutting down connection #9)
+[2026.05.08-22.01.40:852][613]LogHttp: Warning: 0000026A4AC71500 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B02229157-4E3C-5102-EE39-7681B8E47DE7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=953a307a402ac84c8b8acfa4add27c66%7C357b3cbff17c4c14bcee9434bd772e88%7C9a4ab650-f32f-4b7c-aa03-0d71afadb5e5&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.01s
+[2026.05.08-22.04.49:631][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2026.05.08-22.04.50:525][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.04.50:587][897]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.04.50:587][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.04.50:619][897]LogSavePackage: Moving output files for package: /Game/TestGame/Games_Instance/BP_GamesInstance
+[2026.05.08-22.04.50:621][897]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstanceB2BA462745D36102F5DA8FB0616CC5D3.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Games_Instance/BP_GamesInstance.uasset'
+[2026.05.08-22.04.50:636][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.832 ms (total: 1.72 sec)
+[2026.05.08-22.04.50:705][897]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.04.50:705][897]LogContentValidation: Enabled validators:
+[2026.05.08-22.04.50:705][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.04.50:705][897]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.04.50:705][897]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.04.50:705][897]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.04.50:705][897]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.04.50:705][897]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.04.50:706][897]AssetCheck: /Game/TestGame/Games_Instance/BP_GamesInstance Validating asset
+[2026.05.08-22.06.15:991][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2026.05.08-22.06.16:440][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.06.16:519][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.06.16:519][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.06.16:551][103]LogSavePackage: Moving output files for package: /Game/TestGame/Games_Instance/BP_GamesInstance
+[2026.05.08-22.06.16:552][103]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstance3718A86545A068866020C59221003DCE.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Games_Instance/BP_GamesInstance.uasset'
+[2026.05.08-22.06.16:566][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.228 ms (total: 1.85 sec)
+[2026.05.08-22.06.16:636][103]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.06.16:636][103]LogContentValidation: Enabled validators:
+[2026.05.08-22.06.16:636][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.06.16:636][103]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.06.16:636][103]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.06.16:636][103]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.06.16:636][103]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.06.16:636][103]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.06.16:637][103]AssetCheck: /Game/TestGame/Games_Instance/BP_GamesInstance Validating asset
+[2026.05.08-22.07.39:421][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2026.05.08-22.07.40:057][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.07.40:119][798]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.07.40:119][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.07.40:153][798]LogSavePackage: Moving output files for package: /Game/TestGame/Games_Instance/BP_GamesInstance
+[2026.05.08-22.07.40:154][798]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstance535137684B2018733E7EA6B0DEC8C3E9.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Games_Instance/BP_GamesInstance.uasset'
+[2026.05.08-22.07.40:169][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.764 ms (total: 1.96 sec)
+[2026.05.08-22.07.40:218][798]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.07.40:218][798]LogContentValidation: Enabled validators:
+[2026.05.08-22.07.40:218][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.07.40:218][798]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.07.40:218][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.07.40:218][798]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.07.40:218][798]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.07.40:219][798]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.07.40:219][798]AssetCheck: /Game/TestGame/Games_Instance/BP_GamesInstance Validating asset
+[2026.05.08-22.08.36:119][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2026.05.08-22.08.36:629][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.08.36:696][814]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.08.36:696][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.08.36:733][814]LogSavePackage: Moving output files for package: /Game/TestGame/Games_Instance/BP_GamesInstance
+[2026.05.08-22.08.36:734][814]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstance4454361143D7CCB30BD441B9EF41FB73.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Games_Instance/BP_GamesInstance.uasset'
+[2026.05.08-22.08.36:749][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.966 ms (total: 2.08 sec)
+[2026.05.08-22.08.36:853][814]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.08.36:853][814]LogContentValidation: Enabled validators:
+[2026.05.08-22.08.36:853][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.08.36:853][814]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.08.36:853][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.08.36:854][814]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.08.36:854][814]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.08.36:854][814]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.08.36:854][814]AssetCheck: /Game/TestGame/Games_Instance/BP_GamesInstance Validating asset
+[2026.05.08-22.10.21:954][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2026.05.08-22.10.23:033][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.10.23:125][396]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.10.23:125][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.10.23:283][396]LogSavePackage: Moving output files for package: /Game/TestGame/Games_Instance/BP_GamesInstance
+[2026.05.08-22.10.23:284][396]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstanceB72EC4D645B6F17CA9890397358C7DD5.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Games_Instance/BP_GamesInstance.uasset'
+[2026.05.08-22.10.23:300][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 268.155 ms (total: 2.35 sec)
+[2026.05.08-22.10.23:357][396]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.10.23:357][396]LogContentValidation: Enabled validators:
+[2026.05.08-22.10.23:357][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.10.23:357][396]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.10.23:358][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.10.23:358][396]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.10.23:358][396]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.10.23:358][396]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.10.23:358][396]AssetCheck: /Game/TestGame/Games_Instance/BP_GamesInstance Validating asset
+[2026.05.08-22.10.44:661][580]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-22.10.44:662][580]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_SwitchEnum:Enum: unresolved reference to '"/Script/Engine.UserDefinedEnum'/Game/ThirdPerson/Prograsion/E_ActionType.E_ActionType'"'
+[2026.05.08-22.11.19:718][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2026.05.08-22.11.19:721][332]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Blueprints/Niveles/Mapa_incial' took 0.067
+[2026.05.08-22.11.19:723][332]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.11.19:723][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.11.19:765][332]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestGame/Games_Instance/BP_GamesInstance_Auto2
+[2026.05.08-22.11.19:765][332]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstance_Auto22BEED40346AFFBA5A76DD996D4F266F4.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/TestGame/Games_Instance/BP_GamesInstance_Auto2.uasset'
+[2026.05.08-22.11.19:767][332]LogFileHelpers: Auto-saving content packages took 0.046
+[2026.05.08-22.13.18:671][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2026.05.08-22.13.19:589][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.13.19:635][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.13.19:635][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.13.19:677][587]LogSavePackage: Moving output files for package: /Game/TestGame/Games_Instance/BP_GamesInstance
+[2026.05.08-22.13.19:679][587]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstance51997A9A4093A211E4E248869C344731.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Games_Instance/BP_GamesInstance.uasset'
+[2026.05.08-22.13.19:697][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.997 ms (total: 2.46 sec)
+[2026.05.08-22.13.19:784][587]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.13.19:784][587]LogContentValidation: Enabled validators:
+[2026.05.08-22.13.19:784][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.13.19:784][587]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.13.19:784][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.13.19:784][587]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.13.19:784][587]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.13.19:784][587]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.13.19:784][587]AssetCheck: /Game/TestGame/Games_Instance/BP_GamesInstance Validating asset
+[2026.05.08-22.16.13:955][600]LogStreaming: Display: FlushAsyncLoading(626): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-22.16.13:957][600]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_StructOperation:StructType: unresolved reference to '"/Script/CoreUObject.UserDefinedStruct'/Game/ThirdPerson/Prograsion/S_ProgressionStep.S_ProgressionStep'"'
+[2026.05.08-22.16.13:959][600]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_SwitchEnum:Enum: unresolved reference to '"/Script/Engine.UserDefinedEnum'/Game/ThirdPerson/Prograsion/E_conditionTipe.E_conditionTipe'"'
+[2026.05.08-22.16.23:192][117]LogStreaming: Display: FlushAsyncLoading(641): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-22.16.43:175][723]LogEditorTransaction: Undo Delete current selection
+[2026.05.08-22.18.08:569][518]LogEditorTransaction: Undo Move Node
+[2026.05.08-22.18.09:545][548]LogEditorTransaction: Undo Create Pin Link
+[2026.05.08-22.20.49:044][693]LogEditorTransaction: Undo Create Pin Link
+[2026.05.08-22.20.55:455][ 35]LogEditorTransaction: Undo Create Pin Link
+[2026.05.08-22.22.38:284][332]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/ThirdPerson/Progresion/S_ProgressionStep.S_ProgressionStep
+[2026.05.08-22.22.54:698][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.22.54:752][223]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Progresion/S_ProgressionStep] ([1] browsable assets)...
+[2026.05.08-22.22.54:752][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Progresion/S_ProgressionStep]
+[2026.05.08-22.22.54:769][223]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Progresion/S_ProgressionStep
+[2026.05.08-22.22.54:771][223]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/S_ProgressionStep43B66E884FC2573347A1539137AD7255.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Progresion/S_ProgressionStep.uasset'
+[2026.05.08-22.22.54:786][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.891 ms (total: 2.55 sec)
+[2026.05.08-22.22.54:834][223]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.22.54:834][223]LogContentValidation: Enabled validators:
+[2026.05.08-22.22.54:834][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.22.54:834][223]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.22.54:834][223]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.22.54:834][223]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.22.54:834][223]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.22.54:834][223]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.22.54:834][223]AssetCheck: /Game/ThirdPerson/Progresion/S_ProgressionStep Validating asset
+[2026.05.08-22.22.54:866][223]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-22.23.13:400][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2026.05.08-22.23.14:136][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.23.14:219][312]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.23.14:219][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.23.14:271][312]LogSavePackage: Moving output files for package: /Game/TestGame/Games_Instance/BP_GamesInstance
+[2026.05.08-22.23.14:271][312]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstanceCAC9B2914A6DD3D4C2529AA5BC40EF2B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Games_Instance/BP_GamesInstance.uasset'
+[2026.05.08-22.23.14:287][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.587 ms (total: 2.70 sec)
+[2026.05.08-22.23.14:384][312]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.23.14:384][312]LogContentValidation: Enabled validators:
+[2026.05.08-22.23.14:384][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.23.14:384][312]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.23.14:384][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.23.14:384][312]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.23.14:384][312]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.23.14:384][312]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.23.14:384][312]AssetCheck: /Game/TestGame/Games_Instance/BP_GamesInstance Validating asset
+[2026.05.08-22.24.45:531][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2026.05.08-22.24.46:340][513]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.24.46:424][513]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.24.46:424][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.24.46:475][513]LogSavePackage: Moving output files for package: /Game/TestGame/Games_Instance/BP_GamesInstance
+[2026.05.08-22.24.46:476][513]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstance5FFAF74C49F01F668CFC0D9D9285C98D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Games_Instance/BP_GamesInstance.uasset'
+[2026.05.08-22.24.46:494][513]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.893 ms (total: 2.85 sec)
+[2026.05.08-22.24.46:595][513]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.24.46:595][513]LogContentValidation: Enabled validators:
+[2026.05.08-22.24.46:595][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.24.46:595][513]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.24.46:595][513]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.24.46:595][513]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.24.46:597][513]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.24.46:597][513]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.24.46:597][513]AssetCheck: /Game/TestGame/Games_Instance/BP_GamesInstance Validating asset
+[2026.05.08-22.25.14:200][870]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2026.05.08-22.25.14:205][870]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Blueprints/Niveles/Mapa_incial' took 0.082
+[2026.05.08-22.25.14:206][870]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.25.14:206][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.25.14:273][870]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestGame/Games_Instance/BP_GamesInstance_Auto3
+[2026.05.08-22.25.14:273][870]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstance_Auto30B6B4E184334F9E7DA9193958D530E7C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/TestGame/Games_Instance/BP_GamesInstance_Auto3.uasset'
+[2026.05.08-22.25.14:276][870]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Progresion/DT_ProgressionStep] ([1] browsable assets)...
+[2026.05.08-22.25.14:276][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Progresion/DT_ProgressionStep]
+[2026.05.08-22.25.14:302][870]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Progresion/DT_ProgressionStep_Auto3
+[2026.05.08-22.25.14:302][870]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/DT_ProgressionStep_Auto30BFFD4C54EB47F4F1EBA2E88704FB14B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/ThirdPerson/Progresion/DT_ProgressionStep_Auto3.uasset'
+[2026.05.08-22.25.14:303][870]LogFileHelpers: Auto-saving content packages took 0.100
+[2026.05.08-22.37.44:328][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.05.08-22.37.44:332][695]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Blueprints/Niveles/Mapa_incial' took 0.051
+[2026.05.08-22.37.44:332][695]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.37.44:332][695]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.37.44:385][695]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestGame/Games_Instance/BP_GamesInstance_Auto4
+[2026.05.08-22.37.44:385][695]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstance_Auto48695A3DD4FA0126A74BF84A45A1F7BE7.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/TestGame/Games_Instance/BP_GamesInstance_Auto4.uasset'
+[2026.05.08-22.37.44:394][695]LogFileHelpers: Auto-saving content packages took 0.063
+[2026.05.08-22.40.04:899][757]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\Unreal Projects\Nivel_inicial_Dicog\Content\TestGame\Games_Instance\BP_GamesInstance.uasset: [Compiler] Could not find a pin for the parameter StepID of OnProgressionEvent__DelegateSignature on  Call On Progression Event
+[2026.05.08-22.40.04:899][757]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\Unreal Projects\Nivel_inicial_Dicog\Content\TestGame\Games_Instance\BP_GamesInstance.uasset: [Compiler] Could not find a pin for the parameter ActionTarget of OnProgressionEvent__DelegateSignature on  Call On Progression Event
+[2026.05.08-22.40.04:899][757]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\Unreal Projects\Nivel_inicial_Dicog\Content\TestGame\Games_Instance\BP_GamesInstance.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function OnProgressionEvent__DelegateSignature
+[2026.05.08-22.40.04:899][757]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\Unreal Projects\Nivel_inicial_Dicog\Content\TestGame\Games_Instance\BP_GamesInstance.uasset: [Compiler] Pin  New Param 1  named NewParam1 doesn't match any parameters of function OnProgressionEvent__DelegateSignature
+[2026.05.08-22.40.04:899][757]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\Unreal Projects\Nivel_inicial_Dicog\Content\TestGame\Games_Instance\BP_GamesInstance.uasset: [Compiler] Could not find a pin for the parameter StepID of OnProgressionEvent__DelegateSignature on  Call On Progression Event
+[2026.05.08-22.40.04:900][757]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\Unreal Projects\Nivel_inicial_Dicog\Content\TestGame\Games_Instance\BP_GamesInstance.uasset: [Compiler] Could not find a pin for the parameter ActionTarget of OnProgressionEvent__DelegateSignature on  Call On Progression Event
+[2026.05.08-22.40.04:900][757]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\Unreal Projects\Nivel_inicial_Dicog\Content\TestGame\Games_Instance\BP_GamesInstance.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function OnProgressionEvent__DelegateSignature
+[2026.05.08-22.40.04:900][757]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\Unreal Projects\Nivel_inicial_Dicog\Content\TestGame\Games_Instance\BP_GamesInstance.uasset: [Compiler] Pin  New Param 1  named NewParam1 doesn't match any parameters of function OnProgressionEvent__DelegateSignature
+[2026.05.08-22.40.04:965][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2026.05.08-22.40.06:758][840]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.40.06:836][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.40.06:836][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.40.06:890][840]LogSavePackage: Moving output files for package: /Game/TestGame/Games_Instance/BP_GamesInstance
+[2026.05.08-22.40.06:891][840]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstance5520B51242460C725342ECBD712AF3BC.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Games_Instance/BP_GamesInstance.uasset'
+[2026.05.08-22.40.06:907][840]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.672 ms (total: 3.00 sec)
+[2026.05.08-22.40.06:985][840]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.40.06:985][840]LogContentValidation: Enabled validators:
+[2026.05.08-22.40.06:985][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.40.06:985][840]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.40.06:985][840]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.40.06:985][840]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.40.06:985][840]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.40.06:985][840]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.40.06:985][840]AssetCheck: /Game/TestGame/Games_Instance/BP_GamesInstance Validating asset
+[2026.05.08-22.40.14:441][265]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.08-22.40.31:016][179]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\Unreal Projects\Nivel_inicial_Dicog\Content\TestGame\Games_Instance\BP_GamesInstance.uasset: [Compiler] Could not find a pin for the parameter StepID of OnProgressionEvent__DelegateSignature on  Call On Progression Event
+[2026.05.08-22.40.31:016][179]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\Unreal Projects\Nivel_inicial_Dicog\Content\TestGame\Games_Instance\BP_GamesInstance.uasset: [Compiler] Could not find a pin for the parameter ActionTarget of OnProgressionEvent__DelegateSignature on  Call On Progression Event
+[2026.05.08-22.40.31:016][179]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\Unreal Projects\Nivel_inicial_Dicog\Content\TestGame\Games_Instance\BP_GamesInstance.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function OnProgressionEvent__DelegateSignature
+[2026.05.08-22.40.31:016][179]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\Unreal Projects\Nivel_inicial_Dicog\Content\TestGame\Games_Instance\BP_GamesInstance.uasset: [Compiler] Pin  New Param 1  named NewParam1 doesn't match any parameters of function OnProgressionEvent__DelegateSignature
+[2026.05.08-22.40.31:087][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2026.05.08-22.40.31:747][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.40.31:828][207]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.40.31:828][207]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.40.31:881][207]LogSavePackage: Moving output files for package: /Game/TestGame/Games_Instance/BP_GamesInstance
+[2026.05.08-22.40.31:882][207]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstanceAA2A31EC4B78DA1163307A817BB689A9.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Games_Instance/BP_GamesInstance.uasset'
+[2026.05.08-22.40.31:899][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.978 ms (total: 3.15 sec)
+[2026.05.08-22.40.31:995][207]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.40.31:995][207]LogContentValidation: Enabled validators:
+[2026.05.08-22.40.31:995][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.40.31:995][207]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.40.31:995][207]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.40.31:995][207]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.40.31:995][207]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.40.31:995][207]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.40.31:995][207]AssetCheck: /Game/TestGame/Games_Instance/BP_GamesInstance Validating asset
+[2026.05.08-22.40.50:493][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2026.05.08-22.40.51:189][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.40.51:259][313]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.40.51:259][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.40.51:311][313]LogSavePackage: Moving output files for package: /Game/TestGame/Games_Instance/BP_GamesInstance
+[2026.05.08-22.40.51:312][313]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstance03D7A4ED4F082D375D8FD9A71EDFA83A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Games_Instance/BP_GamesInstance.uasset'
+[2026.05.08-22.40.51:332][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.971 ms (total: 3.30 sec)
+[2026.05.08-22.40.51:387][313]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.40.51:388][313]LogContentValidation: Enabled validators:
+[2026.05.08-22.40.51:388][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.40.51:388][313]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.40.51:388][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.40.51:388][313]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.40.51:388][313]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.40.51:388][313]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.40.51:388][313]AssetCheck: /Game/TestGame/Games_Instance/BP_GamesInstance Validating asset
+[2026.05.08-22.41.15:828][173]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2026.05.08-22.41.16:798][222]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.41.16:866][222]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.41.16:866][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.41.16:915][222]LogSavePackage: Moving output files for package: /Game/TestGame/Games_Instance/BP_GamesInstance
+[2026.05.08-22.41.16:916][222]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstance3D0763384638844F49641EAA83819B13.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Games_Instance/BP_GamesInstance.uasset'
+[2026.05.08-22.41.16:931][222]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.140 ms (total: 3.43 sec)
+[2026.05.08-22.41.17:001][222]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.41.17:001][222]LogContentValidation: Enabled validators:
+[2026.05.08-22.41.17:001][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.41.17:001][222]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.41.17:001][222]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.41.17:001][222]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.41.17:001][222]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.41.17:001][222]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.41.17:001][222]AssetCheck: /Game/TestGame/Games_Instance/BP_GamesInstance Validating asset
+[2026.05.08-22.41.31:605][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2026.05.08-22.41.32:182][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.41.32:252][ 84]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.41.32:252][ 84]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.41.32:299][ 84]LogSavePackage: Moving output files for package: /Game/TestGame/Games_Instance/BP_GamesInstance
+[2026.05.08-22.41.32:299][ 84]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstance98A777E6493CE830F2EEE9B9DDD69CC8.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Games_Instance/BP_GamesInstance.uasset'
+[2026.05.08-22.41.32:314][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.400 ms (total: 3.56 sec)
+[2026.05.08-22.41.32:381][ 84]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.41.32:381][ 84]LogContentValidation: Enabled validators:
+[2026.05.08-22.41.32:381][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.41.32:381][ 84]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.41.32:381][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.41.32:381][ 84]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.41.32:381][ 84]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.41.32:381][ 84]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.41.32:381][ 84]AssetCheck: /Game/TestGame/Games_Instance/BP_GamesInstance Validating asset
+[2026.05.08-22.41.38:232][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.41.38:312][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Progresion/S_ProgressionStep] ([1] browsable assets)...
+[2026.05.08-22.41.38:313][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Progresion/S_ProgressionStep]
+[2026.05.08-22.41.38:329][428]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Progresion/S_ProgressionStep
+[2026.05.08-22.41.38:330][428]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/S_ProgressionStep5CAAE6F74BC219E27E8F4CB94694310F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Progresion/S_ProgressionStep.uasset'
+[2026.05.08-22.41.38:345][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.704 ms (total: 3.67 sec)
+[2026.05.08-22.41.38:429][428]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.41.38:429][428]LogContentValidation: Enabled validators:
+[2026.05.08-22.41.38:429][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.41.38:429][428]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.41.38:429][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.41.38:429][428]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.41.38:429][428]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.41.38:429][428]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.41.38:429][428]AssetCheck: /Game/ThirdPerson/Progresion/S_ProgressionStep Validating asset
+[2026.05.08-22.41.59:435][763]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Progresion/BFL_GameInstance.BFL_GameInstance
+[2026.05.08-22.41.59:436][763]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.05.08-22.42.13:701][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2026.05.08-22.42.14:101][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.42.14:160][543]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Progresion/BFL_GameInstance] ([2] browsable assets)...
+[2026.05.08-22.42.14:160][543]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Progresion/BFL_GameInstance]
+[2026.05.08-22.42.14:177][543]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Progresion/BFL_GameInstance
+[2026.05.08-22.42.14:178][543]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BFL_GameInstanceAB4B954F4C73F2772FB2D29C55E3892E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Progresion/BFL_GameInstance.uasset'
+[2026.05.08-22.42.14:194][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.005 ms (total: 3.77 sec)
+[2026.05.08-22.42.14:259][543]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.42.14:259][543]LogContentValidation: Enabled validators:
+[2026.05.08-22.42.14:259][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.42.14:259][543]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.42.14:259][543]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.42.14:259][543]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.42.14:259][543]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.42.14:259][543]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.42.14:260][543]AssetCheck: /Game/ThirdPerson/Progresion/BFL_GameInstance Validating asset
+[2026.05.08-22.42.14:292][543]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-22.42.34:549][864]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/ThirdPerson/Progresion/DT_ProgressionStep.DT_ProgressionStep
+[2026.05.08-22.42.37:200][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.42.37:271][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Progresion/DT_ProgressionStep] ([1] browsable assets)...
+[2026.05.08-22.42.37:271][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Progresion/DT_ProgressionStep]
+[2026.05.08-22.42.37:286][965]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Progresion/DT_ProgressionStep
+[2026.05.08-22.42.37:287][965]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/DT_ProgressionStepDC4BF98F45FA0DCB7EDF08B6FC2CA4C3.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Progresion/DT_ProgressionStep.uasset'
+[2026.05.08-22.42.37:303][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.296 ms (total: 3.87 sec)
+[2026.05.08-22.42.37:370][965]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.42.37:370][965]LogContentValidation: Enabled validators:
+[2026.05.08-22.42.37:370][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.42.37:370][965]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.42.37:370][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.42.37:370][965]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.42.37:370][965]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.42.37:370][965]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.42.37:371][965]AssetCheck: /Game/ThirdPerson/Progresion/DT_ProgressionStep Validating asset
+[2026.05.08-22.42.37:401][965]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-22.43.14:449][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.43.14:516][ 12]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Progresion/DT_ProgressionStep] ([1] browsable assets)...
+[2026.05.08-22.43.14:516][ 12]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Progresion/DT_ProgressionStep]
+[2026.05.08-22.43.14:531][ 12]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Progresion/DT_ProgressionStep
+[2026.05.08-22.43.14:532][ 12]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/DT_ProgressionStepCE1EB1A444034C3647C1BCB52B7E48A3.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Progresion/DT_ProgressionStep.uasset'
+[2026.05.08-22.43.14:546][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.660 ms (total: 3.96 sec)
+[2026.05.08-22.43.14:618][ 12]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.43.14:618][ 12]LogContentValidation: Enabled validators:
+[2026.05.08-22.43.14:618][ 12]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.43.14:618][ 12]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.43.14:618][ 12]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.43.14:618][ 12]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.43.14:618][ 12]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.43.14:618][ 12]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.43.14:618][ 12]AssetCheck: /Game/ThirdPerson/Progresion/DT_ProgressionStep Validating asset
+[2026.05.08-22.43.22:024][444]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.05.08-22.43.39:513][352]LogStreaming: Display: FlushAsyncLoading(642): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-22.43.39:546][352]LogContentBrowser: Deferred new asset file creation: BP_PuertaInteractiva1
+[2026.05.08-22.43.39:546][352]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.05.08-22.43.39:591][352]LogContentBrowser: Creating deferred item: BP_PuertaInteractiva1
+[2026.05.08-22.43.39:660][353]LogContentBrowser: Renaming the item being created (Deferred Item: BP_PuertaInteractiva1).
+[2026.05.08-22.43.46:164][739]LogContentBrowser: Attempting asset rename: BP_PuertaInteractiva1 -> BP_PuertaEnemies
+[2026.05.08-22.43.46:271][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2026.05.08-22.43.46:298][739]LogContentBrowser: End creating deferred item BP_PuertaInteractiva1
+[2026.05.08-22.43.46:300][739]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.05.08-22.43.49:345][843]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies.BP_PuertaEnemies
+[2026.05.08-22.43.49:345][843]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.05.08-22.43.53:979][991]LogSlate: Window 'BP_PuertaEnemies' being destroyed
+[2026.05.08-22.44.42:103][577]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.05.08-22.44.42:144][577]LogSceneTextures: Display: Enforcing FloatRGBA scene color format due to alpha channel requirement.
+[2026.05.08-22.44.42:381][581]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.05.08-22.44.44:392][655]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base
+[2026.05.08-22.44.44:392][655]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.05.08-22.44.46:245][658]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.05.08-22.44.47:251][690]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_1/T_Pack_Bonus_Stone_1_roughness.T_Pack_Bonus_Stone_1_roughness (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.05.08-22.44.47:384][694]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_1/T_Pack_Bonus_Stone_1_basecolor.T_Pack_Bonus_Stone_1_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.05.08-22.44.47:468][696]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_1/T_Pack_Bonus_Stone_1_normal.T_Pack_Bonus_Stone_1_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2026.05.08-22.44.49:314][796]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_2/T_Pack_Bonus_Stone_2_ambientocclusion.T_Pack_Bonus_Stone_2_ambientocclusion (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.05.08-22.44.50:374][849]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_2/T_Pack_Bonus_Stone_2_normal.T_Pack_Bonus_Stone_2_normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2026.05.08-22.44.50:479][853]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Stone_2/T_Pack_Bonus_Stone_2_basecolor.T_Pack_Bonus_Stone_2_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.05.08-22.46.44:550][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.46.44:626][483]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Progresion/BFL_GameInstance] ([2] browsable assets)...
+[2026.05.08-22.46.44:626][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Progresion/BFL_GameInstance]
+[2026.05.08-22.46.44:647][483]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Progresion/BFL_GameInstance
+[2026.05.08-22.46.44:648][483]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BFL_GameInstanceDFF8D97740FF84212E28D8A31240FD12.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Progresion/BFL_GameInstance.uasset'
+[2026.05.08-22.46.44:666][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.178 ms (total: 4.08 sec)
+[2026.05.08-22.46.44:742][483]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.46.44:742][483]LogContentValidation: Enabled validators:
+[2026.05.08-22.46.44:742][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.46.44:742][483]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.46.44:742][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.46.44:742][483]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.46.44:742][483]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.46.44:742][483]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.46.44:742][483]AssetCheck: /Game/ThirdPerson/Progresion/BFL_GameInstance Validating asset
+[2026.05.08-22.46.47:897][630]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2026.05.08-22.46.48:111][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.46.48:212][630]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Base] ([2] browsable assets)...
+[2026.05.08-22.46.48:287][630]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base]
+[2026.05.08-22.46.48:287][630]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Base]
+[2026.05.08-22.46.48:374][630]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base
+[2026.05.08-22.46.48:376][630]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_Enemy_BaseDCCC207244B33B860B7B3396412B920D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Base.uasset'
+[2026.05.08-22.46.48:402][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 289.811 ms (total: 4.37 sec)
+[2026.05.08-22.46.48:490][630]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.46.48:490][630]LogContentValidation: Enabled validators:
+[2026.05.08-22.46.48:490][630]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.46.48:490][630]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.46.48:490][630]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.46.48:490][630]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.46.48:491][630]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.46.48:491][630]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.46.48:491][630]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base Validating asset
+[2026.05.08-22.46.49:212][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2026.05.08-22.47.22:700][ 29]LogStreaming: Display: FlushAsyncLoading(643): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.08-22.47.22:701][ 29]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/ThirdPerson/Prograsion/BFL_GameInstance.BFL_GameInstance_C'",MemberName="GetMyGameInstace",MemberGuid=40360C4442B93F7769B643ABB04798AB)'
+[2026.05.08-22.47.46:241][ 30]LogEditorTransaction: Undo Add Node
+[2026.05.08-22.47.54:419][387]LogEditorTransaction: Undo Add Node
+[2026.05.08-22.48.21:836][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2026.05.08-22.48.22:834][422]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.48.22:913][422]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Games_Instance/BP_GamesInstance] ([2] browsable assets)...
+[2026.05.08-22.48.22:913][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Games_Instance/BP_GamesInstance]
+[2026.05.08-22.48.22:962][422]LogSavePackage: Moving output files for package: /Game/TestGame/Games_Instance/BP_GamesInstance
+[2026.05.08-22.48.22:964][422]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_GamesInstanceE85656AA4D3EBDFB7EDDCAA325761B57.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Games_Instance/BP_GamesInstance.uasset'
+[2026.05.08-22.48.22:983][422]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.155 ms (total: 4.52 sec)
+[2026.05.08-22.48.23:065][422]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.48.23:065][422]LogContentValidation: Enabled validators:
+[2026.05.08-22.48.23:065][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.48.23:065][422]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.48.23:065][422]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.48.23:065][422]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.48.23:065][422]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.48.23:065][422]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.48.23:065][422]AssetCheck: /Game/TestGame/Games_Instance/BP_GamesInstance Validating asset
+[2026.05.08-22.49.08:634][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2026.05.08-22.49.08:637][834]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Blueprints/Niveles/Mapa_incial' took 0.062
+[2026.05.08-22.49.08:638][834]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Base] ([2] browsable assets)...
+[2026.05.08-22.49.08:868][834]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base]
+[2026.05.08-22.49.08:868][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Base]
+[2026.05.08-22.49.08:949][834]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestGame/Blueprints/Enemies/BP_Enemy_Base_Auto5
+[2026.05.08-22.49.08:949][834]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_Enemy_Base_Auto578B1139549D13A9CEA21499FBBF56A0C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/TestGame/Blueprints/Enemies/BP_Enemy_Base_Auto5.uasset'
+[2026.05.08-22.49.08:952][834]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies] ([2] browsable assets)...
+[2026.05.08-22.49.08:966][834]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies.BP_PuertaEnemies]
+[2026.05.08-22.49.08:966][834]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies]
+[2026.05.08-22.49.09:015][834]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies_Auto5
+[2026.05.08-22.49.09:015][834]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_PuertaEnemies_Auto5ED55964A44E2CE9C3B81FF9D7BA01034.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies_Auto5.uasset'
+[2026.05.08-22.49.09:017][834]LogFileHelpers: Auto-saving content packages took 0.380
+[2026.05.08-22.49.21:117][512]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2026.05.08-22.49.21:806][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.49.21:891][545]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Progresion/BFL_GameInstance] ([2] browsable assets)...
+[2026.05.08-22.49.21:891][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Progresion/BFL_GameInstance]
+[2026.05.08-22.49.21:912][545]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Progresion/BFL_GameInstance
+[2026.05.08-22.49.21:912][545]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BFL_GameInstance7B9BA5014619C64388A3E580E6D9FF8C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Progresion/BFL_GameInstance.uasset'
+[2026.05.08-22.49.21:931][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.387 ms (total: 4.64 sec)
+[2026.05.08-22.49.22:005][545]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.49.22:005][545]LogContentValidation: Enabled validators:
+[2026.05.08-22.49.22:005][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.49.22:005][545]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.49.22:005][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.49.22:005][545]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.49.22:005][545]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.49.22:005][545]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.49.22:005][545]AssetCheck: /Game/ThirdPerson/Progresion/BFL_GameInstance Validating asset
+[2026.05.08-22.50.07:714][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2026.05.08-22.50.08:664][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.50.08:751][416]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Base] ([2] browsable assets)...
+[2026.05.08-22.50.08:924][416]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base]
+[2026.05.08-22.50.08:924][416]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Base]
+[2026.05.08-22.50.09:003][416]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base
+[2026.05.08-22.50.09:005][416]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_Enemy_Base6D802F6240D399E96CCCE18369810A86.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Base.uasset'
+[2026.05.08-22.50.09:023][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 358.034 ms (total: 5.00 sec)
+[2026.05.08-22.50.09:078][416]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.50.09:078][416]LogContentValidation: Enabled validators:
+[2026.05.08-22.50.09:078][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.50.09:078][416]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.50.09:078][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.50.09:078][416]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.50.09:078][416]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.50.09:078][416]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.50.09:078][416]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base Validating asset
+[2026.05.08-22.53.59:600][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2026.05.08-22.54.00:761][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.54.00:835][542]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies] ([2] browsable assets)...
+[2026.05.08-22.54.00:994][542]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies.BP_PuertaEnemies]
+[2026.05.08-22.54.00:994][542]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies]
+[2026.05.08-22.54.01:026][542]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies
+[2026.05.08-22.54.01:026][542]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_PuertaEnemiesBB5BFA314F42DEC0445AAE826ABB3322.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Interactables/BP_PuertaEnemies.uasset'
+[2026.05.08-22.54.01:065][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 303.002 ms (total: 5.30 sec)
+[2026.05.08-22.54.01:112][542]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.08-22.54.01:113][542]LogContentValidation: Enabled validators:
+[2026.05.08-22.54.01:113][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.54.01:113][542]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.54.01:113][542]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.54.01:113][542]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.54.01:113][542]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.54.01:113][542]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.54.01:113][542]AssetCheck: /Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies Validating asset
+[2026.05.08-22.54.01:148][542]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.08-22.56.00:393][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2026.05.08-22.56.00:672][690]LogStall: Shutdown...
+[2026.05.08-22.56.00:672][690]LogStall: Shutdown complete.
+[2026.05.08-22.56.00:902][690]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.00:902][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.01:322][690]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.01:322][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.01:704][690]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.01:704][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.01:920][690]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.08-22.56.01:920][690]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.01:920][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.02:093][690]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.08-22.56.02:093][690]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.02:093][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.02:331][690]LogSlate: Window 'Nivel_Inicial - Unreal Editor' being destroyed
+[2026.05.08-22.56.03:323][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2026.05.08-22.56.03:360][690]Cmd: QUIT_EDITOR
+[2026.05.08-22.56.03:361][690]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.08-22.56.03:415][691]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.08-22.56.03:427][691]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.08-22.56.03:428][691]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.08-22.56.03:454][691]LogWorld: UWorld::CleanupWorld for Mapa_incial, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:456][691]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.08-22.56.03:459][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:630][691]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.05.08-22.56.03:636][691]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.05.08-22.56.03:712][691]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.08-22.56.03:819][691]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:819][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:827][691]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:828][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:838][691]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:838][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:849][691]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:849][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:860][691]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:860][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:871][691]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:871][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:883][691]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:884][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:895][691]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:895][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:906][691]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:906][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:917][691]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:917][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:930][691]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:930][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:941][691]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:941][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:950][691]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:951][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:960][691]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:960][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:968][691]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:968][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.03:992][691]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.03:992][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.04:000][691]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.05.08-22.56.04:000][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.08-22.56.04:068][691]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.05.08-22.56.04:071][691]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.05.08-22.56.04:090][691]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.05.08-22.56.04:170][691]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.08-22.56.04:170][691]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.08-22.56.04:170][691]LogAudio: Display: Audio Device unregistered from world 'Mapa_incial'.
+[2026.05.08-22.56.04:170][691]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.08-22.56.04:174][691]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.05.08-22.56.04:186][691]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.05.08-22.56.04:250][691]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.08-22.56.04:252][691]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.08-22.56.04:264][691]LogWindowsTextInputMethodSystem: Activated input method: Español (Colombia) - (Keyboard).
+[2026.05.08-22.56.04:306][691]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.08-22.56.04:308][691]LogExit: Preparing to exit.
+[2026.05.08-22.56.04:645][691]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2026.05.08-22.56.04:657][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:661][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:674][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:674][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:675][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:675][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:675][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:675][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:675][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:675][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:675][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:675][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:675][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:675][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:675][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:675][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:676][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:676][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:677][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:677][691]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.04:677][691]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.08-22.56.05:895][691]LogEditorDataStorage: Deinitializing
+[2026.05.08-22.56.07:026][691]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.08-22.56.07:498][691]LogExit: Editor shut down
+[2026.05.08-22.56.07:602][691]LogExit: Transaction tracking system shut down
+[2026.05.08-22.56.10:665][691]LogExit: Object subsystem successfully closed.
+[2026.05.08-22.56.10:738][691]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.05.08-22.56.12:012][691]LogMemoryProfiler: Shutdown
+[2026.05.08-22.56.12:016][691]LogNetworkingProfiler: Shutdown
+[2026.05.08-22.56.12:016][691]LoadingProfiler: Shutdown
+[2026.05.08-22.56.12:018][691]LogTimingProfiler: Shutdown
+[2026.05.08-22.56.12:048][691]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.05.08-22.56.12:049][691]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.05.08-22.56.15:085][691]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.05.08-22.56.15:121][691]RenderDocPlugin: plugin has been unloaded.
+[2026.05.08-22.56.15:163][691]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.05.08-22.56.15:163][691]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B02229157-4E3C-5102-EE39-7681B8E47DE7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=953a307a402ac84c8b8acfa4add27c66%7C357b3cbff17c4c14bcee9434bd772e88%7C9a4ab650-f32f-4b7c-aa03-0d71afadb5e5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.05.08-22.56.15:297][691]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.05.08-22.56.15:298][691]LogNFORDenoise: NFORDenoise function shutting down
+[2026.05.08-22.56.15:435][691]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.05.08-22.56.15:435][691]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.05.08-22.56.15:439][691]LogPakFile: Destroying PakPlatformFile
+[2026.05.08-22.56.16:129][691]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.08-22.56.16:267][691]LogExit: Exiting.
+[2026.05.08-22.56.16:443][691]Log file closed, 05/08/26 17:56:16
