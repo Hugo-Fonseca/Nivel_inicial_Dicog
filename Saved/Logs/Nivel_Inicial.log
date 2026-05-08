@@ -2430,3 +2430,30 @@ Make sure '/Game/TestGame/Games_Instance/BP_GamesInstance.BP_GamesInstance_C' ha
 [2026.05.08-22.00.09:097][698]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.08-22.00.09:097][698]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.08-22.00.09:097][698]AssetCheck: /Game/TestGame/Games_Instance/BP_GamesInstance Validating asset
+[2026.05.08-22.00.40:981][915]LogHttp: Warning: 0000026A46C76900: request failed, libcurl error: 6 (Could not resolve hostname)
+[2026.05.08-22.00.40:981][915]LogHttp: Warning: 0000026A46C76900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2026.05.08-22.00.40:981][915]LogHttp: Warning: 0000026A46C76900: libcurl info message cache 1 (shutting down connection #8)
+[2026.05.08-22.00.40:981][915]LogHttp: Warning: 0000026A46C76900 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B02229157-4E3C-5102-EE39-7681B8E47DE7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=953a307a402ac84c8b8acfa4add27c66%7C357b3cbff17c4c14bcee9434bd772e88%7C9a4ab650-f32f-4b7c-aa03-0d71afadb5e5&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.01s
+[2026.05.08-22.01.08:388][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2026.05.08-22.01.11:052][321]LogSlate: Window 'Save Content' being destroyed
+[2026.05.08-22.01.11:071][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.08-22.01.11:139][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/DevRoom/lambert41] ([1] browsable assets)...
+[2026.05.08-22.01.11:139][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/DevRoom/lambert41]
+[2026.05.08-22.01.11:159][321]LogSavePackage: Moving output files for package: /Game/ThirdPerson/DevRoom/lambert41
+[2026.05.08-22.01.11:160][321]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/lambert414AECC94142EA21BD838C8A9FD5FE5C0B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/DevRoom/lambert41.uasset'
+[2026.05.08-22.01.11:162][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/DevRoom/lambert42] ([1] browsable assets)...
+[2026.05.08-22.01.11:162][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/DevRoom/lambert42]
+[2026.05.08-22.01.11:181][321]LogSavePackage: Moving output files for package: /Game/ThirdPerson/DevRoom/lambert42
+[2026.05.08-22.01.11:182][321]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/lambert42BFAC60174615251847E41A9D484801F1.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/DevRoom/lambert42.uasset'
+[2026.05.08-22.01.11:198][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.645 ms (total: 1.61 sec)
+[2026.05.08-22.01.11:269][321]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.08-22.01.11:269][321]LogContentValidation: Enabled validators:
+[2026.05.08-22.01.11:269][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.08-22.01.11:269][321]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.08-22.01.11:269][321]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.08-22.01.11:269][321]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.08-22.01.11:269][321]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.08-22.01.11:269][321]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.08-22.01.11:269][321]AssetCheck: /Game/ThirdPerson/DevRoom/lambert41 Validating asset
+[2026.05.08-22.01.11:270][321]AssetCheck: /Game/ThirdPerson/DevRoom/lambert42 Validating asset
+[2026.05.08-22.01.11:305][321]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/SourceControl/UncontrolledChangelists.json
