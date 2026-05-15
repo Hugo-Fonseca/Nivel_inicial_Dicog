@@ -3572,3 +3572,1323 @@ FPackageName: Skipped package /Interchange/gltf/Textures/T_White_srgb has a vali
 [2026.05.15-02.14.56:511][725]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestGame/Blueprints/BP_Player_Auto4
 [2026.05.15-02.14.56:512][725]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_Player_Auto4D47B40B9416BD7A06A97569E0152769E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/TestGame/Blueprints/BP_Player_Auto4.uasset'
 [2026.05.15-02.14.56:514][725]LogFileHelpers: Auto-saving content packages took 0.205
+[2026.05.15-02.19.52:972][616]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.15-02.23.07:606][199]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.05.15-02.23.09:626][204]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:61120'.
+[2026.05.15-02.23.09:632][204]LogUdpMessaging: Display: Added local interface '10.145.125.240' to multicast group '230.0.0.1:6666'
+[2026.05.15-02.23.09:640][204]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.05.15-02.23.58:659][536]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.05.15-02.24.00:865][645]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62645'.
+[2026.05.15-02.24.00:870][645]LogUdpMessaging: Display: Added local interface '192.168.20.2' to multicast group '230.0.0.1:6666'
+[2026.05.15-02.24.00:877][645]LogUdpMessaging: Display: Using asynchronous task graph for message deserialization.
+[2026.05.15-02.42.44:615][942]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2026.05.15-02.42.44:619][942]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_HugoPrueba' took 0.152
+[2026.05.15-02.42.44:621][942]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.05.15-02.42.44:871][942]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/BP_Player.BP_Player]
+[2026.05.15-02.42.44:871][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/BP_Player]
+[2026.05.15-02.42.45:093][942]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestGame/Blueprints/BP_Player_Auto5
+[2026.05.15-02.42.45:094][942]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_Player_Auto5389DB8AB41A8E87CA1123D91899460F1.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/TestGame/Blueprints/BP_Player_Auto5.uasset'
+[2026.05.15-02.42.45:096][942]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestGame/Blueprints/Interactables/BP_Tierra] ([2] browsable assets)...
+[2026.05.15-02.42.45:140][942]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Interactables/BP_Tierra.BP_Tierra]
+[2026.05.15-02.42.45:140][942]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Interactables/BP_Tierra]
+[2026.05.15-02.42.45:214][942]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestGame/Blueprints/Interactables/BP_Tierra_Auto5
+[2026.05.15-02.42.45:214][942]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_Tierra_Auto5CFB1A8814A909DE1F44CD5AFEE62D8DA.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/TestGame/Blueprints/Interactables/BP_Tierra_Auto5.uasset'
+[2026.05.15-02.42.45:217][942]LogFileHelpers: Auto-saving content packages took 0.597
+[2026.05.15-02.43.23:117][298]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/IA_ElementoAgua.IA_ElementoAgua
+[2026.05.15-02.43.45:436][261]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.05.15-02.43.45:456][261]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.05.15-02.43.45:482][262]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.05.15-02.43.53:573][682]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_ElementoFuego
+[2026.05.15-02.43.53:580][682]LogContentBrowser: End creating deferred item NewInputAction
+[2026.05.15-02.43.55:638][775]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/IA_ElementoFuego.IA_ElementoFuego
+[2026.05.15-02.44.02:288][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-02.44.02:355][  9]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IA_ElementoFuego] ([1] browsable assets)...
+[2026.05.15-02.44.02:355][  9]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IA_ElementoFuego]
+[2026.05.15-02.44.02:355][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IA_ElementoFuego" FILE="../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/Input/IA_ElementoFuego.uasset" SILENT=true
+[2026.05.15-02.44.02:364][  9]LogSavePackage: Moving output files for package: /Game/Input/IA_ElementoFuego
+[2026.05.15-02.44.02:364][  9]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/IA_ElementoFuego6B151F6741BCE88D41986BA0034A520E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/Input/IA_ElementoFuego.uasset'
+[2026.05.15-02.44.02:952][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 664.390 ms (total: 2.80 sec)
+[2026.05.15-02.44.03:017][  9]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-02.44.03:017][  9]LogContentValidation: Enabled validators:
+[2026.05.15-02.44.03:017][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-02.44.03:017][  9]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-02.44.03:017][  9]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-02.44.03:017][  9]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-02.44.03:017][  9]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-02.44.03:017][  9]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-02.44.03:018][  9]AssetCheck: /Game/Input/IA_ElementoFuego Validating asset
+[2026.05.15-02.44.03:042][  9]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.15-02.44.11:911][395]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Default.IMC_Default
+[2026.05.15-02.45.24:391][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-02.45.24:459][320]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2026.05.15-02.45.24:459][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2026.05.15-02.45.24:459][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/Input/IMC_Default.uasset" SILENT=true
+[2026.05.15-02.45.24:473][320]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2026.05.15-02.45.24:474][320]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/IMC_DefaultE42768254E1095480C1A01A40495228E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/Input/IMC_Default.uasset'
+[2026.05.15-02.45.24:494][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.361 ms (total: 2.90 sec)
+[2026.05.15-02.45.24:570][320]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-02.45.24:570][320]LogContentValidation: Enabled validators:
+[2026.05.15-02.45.24:570][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-02.45.24:570][320]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-02.45.24:570][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-02.45.24:570][320]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-02.45.24:570][320]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-02.45.24:570][320]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-02.45.24:574][320]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2026.05.15-02.46.05:713][472]LogBlueprint: Warning: Timeline FOV Timeline Track Alpha in /Engine/Transient.REINST_BP_Player_C_1 has an invalid curve.  Please fix!
+[2026.05.15-02.46.06:022][472]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_31:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_0
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-02.46.06:023][472]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_21:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_0
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-02.46.06:164][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2026.05.15-02.46.09:087][578]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-02.46.09:171][578]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.05.15-02.46.09:320][578]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/BP_Player.BP_Player]
+[2026.05.15-02.46.09:320][578]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/BP_Player]
+[2026.05.15-02.46.09:470][578]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/BP_Player
+[2026.05.15-02.46.09:471][578]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_Player58FF9ADB4C940A158BF07883D3643396.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/BP_Player.uasset'
+[2026.05.15-02.46.09:486][578]LogFileHelpers: InternalPromptForCheckoutAndSave took 398.474 ms (total: 3.30 sec)
+[2026.05.15-02.46.09:561][578]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-02.46.09:561][578]LogContentValidation: Enabled validators:
+[2026.05.15-02.46.09:561][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-02.46.09:561][578]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-02.46.09:561][578]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-02.46.09:561][578]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-02.46.09:561][578]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-02.46.09:561][578]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-02.46.09:561][578]AssetCheck: /Game/TestGame/Blueprints/BP_Player Validating asset
+[2026.05.15-02.49.25:489][451]LogBlueprint: Warning: Timeline FOV Timeline Track Alpha in /Engine/Transient.REINST_BP_Player_C_2 has an invalid curve.  Please fix!
+[2026.05.15-02.49.25:675][451]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_21:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_0
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-02.49.25:675][451]LogScript: Warning: Attempted to access REINST_BP_Player_C_1 via property Character, but REINST_BP_Player_C_1 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_31:PersistentLevel.REINST_BP_Player_C_1.CharacterMesh0.ABP_Unarmed_C_1
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-02.49.25:676][451]LogScript: Warning: Attempted to access BP_Player_C_0 via property Character, but BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_21:PersistentLevel.BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_1
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-02.49.25:732][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2026.05.15-02.49.26:917][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-02.49.26:986][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.05.15-02.49.27:135][477]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/BP_Player.BP_Player]
+[2026.05.15-02.49.27:135][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/BP_Player]
+[2026.05.15-02.49.27:286][477]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/BP_Player
+[2026.05.15-02.49.27:286][477]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_PlayerCC649DF74B2EE26A39EB75A1BFE01181.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/BP_Player.uasset'
+[2026.05.15-02.49.27:299][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 382.097 ms (total: 3.68 sec)
+[2026.05.15-02.49.27:365][477]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-02.49.27:365][477]LogContentValidation: Enabled validators:
+[2026.05.15-02.49.27:365][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-02.49.27:365][477]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-02.49.27:365][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-02.49.27:365][477]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-02.49.27:365][477]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-02.49.27:365][477]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-02.49.27:365][477]AssetCheck: /Game/TestGame/Blueprints/BP_Player Validating asset
+[2026.05.15-02.51.53:142][ 81]LogBlueprint: Warning: Timeline FOV Timeline Track Alpha in /Engine/Transient.REINST_BP_Player_C_3 has an invalid curve.  Please fix!
+[2026.05.15-02.51.53:333][ 81]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_21:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_0
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-02.51.53:335][ 81]LogScript: Warning: Attempted to access REINST_BP_Player_C_1 via property Character, but REINST_BP_Player_C_1 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_31:PersistentLevel.REINST_BP_Player_C_1.CharacterMesh0.ABP_Unarmed_C_1
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-02.51.53:335][ 81]LogScript: Warning: Attempted to access BP_Player_C_1 via property Character, but BP_Player_C_1 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_21:PersistentLevel.BP_Player_C_1.CharacterMesh0.ABP_Unarmed_C_1
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-02.51.53:379][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2026.05.15-02.51.54:975][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-02.51.55:054][129]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.05.15-02.51.55:115][129]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/BP_Player.BP_Player]
+[2026.05.15-02.51.55:115][129]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/BP_Player]
+[2026.05.15-02.51.55:267][129]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/BP_Player
+[2026.05.15-02.51.55:268][129]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_Player484165C0440D4D937289149A80BA03D0.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/BP_Player.uasset'
+[2026.05.15-02.51.55:280][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 304.858 ms (total: 3.99 sec)
+[2026.05.15-02.51.55:353][129]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-02.51.55:353][129]LogContentValidation: Enabled validators:
+[2026.05.15-02.51.55:353][129]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-02.51.55:353][129]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-02.51.55:353][129]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-02.51.55:353][129]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-02.51.55:353][129]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-02.51.55:353][129]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-02.51.55:353][129]AssetCheck: /Game/TestGame/Blueprints/BP_Player Validating asset
+[2026.05.15-02.52.41:701][546]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TestGame/Blueprints/Interactables/BP_Fuego.BP_Fuego
+[2026.05.15-02.52.41:702][546]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.05.15-02.53.01:983][575]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TestGame/Blueprints/Interactables/BP_Tierra.BP_Tierra
+[2026.05.15-02.53.01:984][575]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.05.15-02.55.06:010][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2026.05.15-02.55.06:029][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/C/M2/OWFSEZNYMAXL0TOD6W34M1_Auto6
+[2026.05.15-02.55.06:029][903]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/OWFSEZNYMAXL0TOD6W34M1_Auto64FDBD102494B2E1A6D01BFB0272B0C2E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/C/M2/OWFSEZNYMAXL0TOD6W34M1_Auto6.uasset'
+[2026.05.15-02.55.06:043][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/8/IM/VNEB6T3JS0SP66L0ESFFP5_Auto6
+[2026.05.15-02.55.06:043][903]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/VNEB6T3JS0SP66L0ESFFP5_Auto6192951424B62CAA3CEB9678996A5D87B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/8/IM/VNEB6T3JS0SP66L0ESFFP5_Auto6.uasset'
+[2026.05.15-02.55.06:055][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/8/HS/73WS5LIK9NEPZ7IUL1DPVA_Auto6
+[2026.05.15-02.55.06:055][903]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/73WS5LIK9NEPZ7IUL1DPVA_Auto6972F814D4CB76D7A3D510EA91FBAF6C2.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/8/HS/73WS5LIK9NEPZ7IUL1DPVA_Auto6.uasset'
+[2026.05.15-02.55.06:057][903]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_HugoPrueba' took 0.157
+[2026.05.15-02.55.06:057][903]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.157
+[2026.05.15-02.57.08:222][571]LogBlueprint: Warning: Timeline FOV Timeline Track Alpha in /Engine/Transient.REINST_BP_Player_C_4 has an invalid curve.  Please fix!
+[2026.05.15-02.57.08:409][571]LogScript: Warning: Attempted to access REINST_BP_Player_C_1 via property Character, but REINST_BP_Player_C_1 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_31:PersistentLevel.REINST_BP_Player_C_1.CharacterMesh0.ABP_Unarmed_C_1
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-02.57.08:410][571]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_21:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_0
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-02.57.08:454][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2026.05.15-02.57.12:698][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-02.57.12:774][722]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.05.15-02.57.12:889][722]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/BP_Player.BP_Player]
+[2026.05.15-02.57.12:889][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/BP_Player]
+[2026.05.15-02.57.13:294][722]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/BP_Player
+[2026.05.15-02.57.13:294][722]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_PlayerE862896A4FECF6B89222E882AC27B3E0.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/BP_Player.uasset'
+[2026.05.15-02.57.13:307][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 609.027 ms (total: 4.60 sec)
+[2026.05.15-02.57.13:371][722]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-02.57.13:371][722]LogContentValidation: Enabled validators:
+[2026.05.15-02.57.13:371][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-02.57.13:371][722]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-02.57.13:371][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-02.57.13:371][722]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-02.57.13:372][722]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-02.57.13:372][722]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-02.57.13:372][722]AssetCheck: /Game/TestGame/Blueprints/BP_Player Validating asset
+[2026.05.15-02.58.50:291][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2026.05.15-02.58.51:140][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-02.58.51:212][361]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestGame/Blueprints/Interactables/BP_Fuego] ([2] browsable assets)...
+[2026.05.15-02.58.51:243][361]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Interactables/BP_Fuego.BP_Fuego]
+[2026.05.15-02.58.51:243][361]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Interactables/BP_Fuego]
+[2026.05.15-02.58.51:269][361]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Interactables/BP_Fuego
+[2026.05.15-02.58.51:269][361]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_Fuego531BB749403E900E5D738198D80C3965.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Interactables/BP_Fuego.uasset'
+[2026.05.15-02.58.51:281][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.008 ms (total: 4.74 sec)
+[2026.05.15-02.58.51:360][361]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-02.58.51:360][361]LogContentValidation: Enabled validators:
+[2026.05.15-02.58.51:360][361]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-02.58.51:360][361]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-02.58.51:360][361]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-02.58.51:360][361]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-02.58.51:360][361]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-02.58.51:360][361]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-02.58.51:360][361]AssetCheck: /Game/TestGame/Blueprints/Interactables/BP_Fuego Validating asset
+[2026.05.15-02.58.51:391][361]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.15-02.58.54:106][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-02.58.54:172][518]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestGame/Blueprints/Interactables/BP_Agua] ([2] browsable assets)...
+[2026.05.15-02.58.54:190][518]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Interactables/BP_Agua.BP_Agua]
+[2026.05.15-02.58.54:190][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Interactables/BP_Agua]
+[2026.05.15-02.58.54:212][518]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Interactables/BP_Agua
+[2026.05.15-02.58.54:212][518]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_AguaF4C3262340EDE5DBD9838794BBC4B9F8.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Interactables/BP_Agua.uasset'
+[2026.05.15-02.58.54:225][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.352 ms (total: 4.86 sec)
+[2026.05.15-02.58.54:289][518]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-02.58.54:289][518]LogContentValidation: Enabled validators:
+[2026.05.15-02.58.54:289][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-02.58.54:289][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-02.58.54:289][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-02.58.54:289][518]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-02.58.54:289][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-02.58.54:289][518]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-02.58.54:289][518]AssetCheck: /Game/TestGame/Blueprints/Interactables/BP_Agua Validating asset
+[2026.05.15-02.58.58:148][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.05.15-02.58.59:085][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-02.58.59:162][776]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestGame/Blueprints/Interactables/BP_Tierra] ([2] browsable assets)...
+[2026.05.15-02.58.59:191][776]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Interactables/BP_Tierra.BP_Tierra]
+[2026.05.15-02.58.59:191][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Interactables/BP_Tierra]
+[2026.05.15-02.58.59:216][776]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Interactables/BP_Tierra
+[2026.05.15-02.58.59:216][776]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_TierraC1F9C09A4D42E83F40DFDCACFB5D015D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Interactables/BP_Tierra.uasset'
+[2026.05.15-02.58.59:227][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.918 ms (total: 5.00 sec)
+[2026.05.15-02.58.59:299][776]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-02.58.59:300][776]LogContentValidation: Enabled validators:
+[2026.05.15-02.58.59:300][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-02.58.59:300][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-02.58.59:300][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-02.58.59:300][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-02.58.59:300][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-02.58.59:300][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-02.58.59:300][776]AssetCheck: /Game/TestGame/Blueprints/Interactables/BP_Tierra Validating asset
+[2026.05.15-02.58.59:329][776]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/SourceControl/UncontrolledChangelists.json
+[2026.05.15-03.01.22:963][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.05.15-03.01.24:111][776]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-03.01.24:176][776]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestGame/Blueprints/Interactables/BP_Fuego] ([2] browsable assets)...
+[2026.05.15-03.01.24:207][776]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Interactables/BP_Fuego.BP_Fuego]
+[2026.05.15-03.01.24:207][776]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Interactables/BP_Fuego]
+[2026.05.15-03.01.24:243][776]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Interactables/BP_Fuego
+[2026.05.15-03.01.24:243][776]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_FuegoF60D8D0B4ECC80D6980A388976E8DF4D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Interactables/BP_Fuego.uasset'
+[2026.05.15-03.01.24:255][776]LogFileHelpers: InternalPromptForCheckoutAndSave took 143.793 ms (total: 5.14 sec)
+[2026.05.15-03.01.24:326][776]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-03.01.24:326][776]LogContentValidation: Enabled validators:
+[2026.05.15-03.01.24:326][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-03.01.24:326][776]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-03.01.24:326][776]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-03.01.24:326][776]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-03.01.24:326][776]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-03.01.24:326][776]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-03.01.24:326][776]AssetCheck: /Game/TestGame/Blueprints/Interactables/BP_Fuego Validating asset
+[2026.05.15-03.01.40:516][606]LogTexture: Display: Building textures: /Game/Pack_Bonus/Textures/Tile_1/T_Pack_Bonus_Tile_1_basecolor.T_Pack_Bonus_Tile_1_basecolor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.05.15-03.02.07:298][455]LogStreaming: Display: FlushAsyncLoading(963): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.15-03.02.28:472][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-03.02.28:548][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Interactables/BP_Fuego] ([2] browsable assets)...
+[2026.05.15-03.02.28:548][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Interactables/BP_Fuego]
+[2026.05.15-03.02.28:569][355]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Interactables/BP_Fuego
+[2026.05.15-03.02.28:570][355]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_FuegoFE03A3C644D0BF65BE9D0DA3F9BC7DAE.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Interactables/BP_Fuego.uasset'
+[2026.05.15-03.02.28:583][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.617 ms (total: 5.25 sec)
+[2026.05.15-03.02.28:645][355]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-03.02.28:645][355]LogContentValidation: Enabled validators:
+[2026.05.15-03.02.28:645][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-03.02.28:645][355]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-03.02.28:645][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-03.02.28:645][355]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-03.02.28:645][355]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-03.02.28:645][355]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-03.02.28:646][355]AssetCheck: /Game/TestGame/Blueprints/Interactables/BP_Fuego Validating asset
+[2026.05.15-03.02.51:422][194]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.05.15-03.02.51:422][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.02.51:533][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: ================================================
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: Total job queries 623, among them cache hits 70 (11.24%), DDC hits 413 (66.29%), Duplicates 82 (13.16%)
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: Tracking 471 distinct input hashes that result in 344 distinct outputs (73.04%)
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: RAM used: 4,31 MiB of 716,80 MiB budget. Usage: 0.60%
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: Shaders Compiled: 58
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: Jobs assigned 58, completed 58 (100%)
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: Average time worker was idle: 829.03 s
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: Time job spent in pending queue: average 1.92 s, longest 15.15 s
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: Job execution time: average 14.32 s, max 27.09 s
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: Job life time (pending + execution): average 16.25 s, max 27.40
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: Shader code size: total 710,899 KiB, numShaders 61, average 11,653 KiB, min 2,312 KiB, max 31,098 KiB
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 37.13 s
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 2.52 jobs/batch
+[2026.05.15-03.02.56:232][441]LogShaderCompilers: Display: Average processing rate: 1.56 jobs/sec
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display: Total thread time: 159,239 s
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display: Total thread preprocess time: 16,447 s
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display: Percentage time preprocessing: 10.33%
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display: Effective parallelization: 4.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.536063
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 6.33 sec, max 9.07 sec, min 4.63 sec)
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 6.28 sec, max 8.10 sec, min 4.47 sec)
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 5.76 sec, max 6.85 sec, min 4.37 sec)
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 5.45 sec, max 5.45 sec, min 5.45 sec)
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 4.93 sec, max 6.59 sec, min 3.51 sec)
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 11.93% of total time (compiled    3 times, average 6.33 sec, max 9.07 sec, min 4.63 sec)
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display:                                                 FLumenCardCS - 10.85% of total time (compiled    3 times, average 5.76 sec, max 6.85 sec, min 4.37 sec)
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display:                                        FMicropolyRasterizeCS - 10.54% of total time (compiled    5 times, average 3.36 sec, max 3.90 sec, min 2.89 sec)
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.28% of total time (compiled    3 times, average 4.93 sec, max 6.59 sec, min 3.51 sec)
+[2026.05.15-03.02.56:233][441]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.45% of total time (compiled    3 times, average 4.49 sec, max 6.02 sec, min 3.67 sec)
+[2026.05.15-03.02.56:234][441]LogShaderCompilers: Display: === Material stats ===
+[2026.05.15-03.02.56:234][441]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.05.15-03.02.56:234][441]LogShaderCompilers: Display: Materials Translated:    172
+[2026.05.15-03.02.56:234][441]LogShaderCompilers: Display: Material Total Translate Time: 0.34 s
+[2026.05.15-03.02.56:234][441]LogShaderCompilers: Display: Material Translation Only: 0.18 s (54%)
+[2026.05.15-03.02.56:234][441]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (3%)
+[2026.05.15-03.02.56:234][441]LogShaderCompilers: Display: Material Cache Hits: 22 (13%)
+[2026.05.15-03.02.56:234][441]LogShaderCompilers: Display: ================================================
+[2026.05.15-03.03.05:377][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-03.03.05:444][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Interactables/BP_Agua] ([2] browsable assets)...
+[2026.05.15-03.03.05:445][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Interactables/BP_Agua]
+[2026.05.15-03.03.05:464][884]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Interactables/BP_Agua
+[2026.05.15-03.03.05:466][884]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_AguaA7160497481C2E6CB4B2F3998901ED34.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Interactables/BP_Agua.uasset'
+[2026.05.15-03.03.05:480][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.890 ms (total: 5.36 sec)
+[2026.05.15-03.03.05:543][884]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-03.03.05:543][884]LogContentValidation: Enabled validators:
+[2026.05.15-03.03.05:544][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-03.03.05:544][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-03.03.05:544][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-03.03.05:544][884]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-03.03.05:544][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-03.03.05:544][884]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-03.03.05:544][884]AssetCheck: /Game/TestGame/Blueprints/Interactables/BP_Agua Validating asset
+[2026.05.15-03.03.17:745][340]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_Fuego.BP_Fuego_C
+[2026.05.15-03.03.17:749][340]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_Fuego.BP_Fuego_C
+[2026.05.15-03.03.17:761][340]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_Fuego.BP_Fuego as actor: BP_Fuego_C /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba:PersistentLevel.BP_Fuego_C_0
+[2026.05.15-03.03.17:765][340]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_Fuego.BP_Fuego as actor: BP_Fuego_C /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba:PersistentLevel.BP_Fuego_C_0
+[2026.05.15-03.03.18:547][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.05.15-03.03.18:551][363]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2026.05.15-03.03.18:565][363]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_Fuego.BP_Fuego_C
+[2026.05.15-03.03.18:565][363]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_Fuego.BP_Fuego_C
+[2026.05.15-03.03.18:584][363]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_Fuego.BP_Fuego as actor: BP_Fuego_C /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba:PersistentLevel.BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633
+[2026.05.15-03.03.18:586][363]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_Fuego.BP_Fuego as actor: BP_Fuego_C /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba:PersistentLevel.BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633
+[2026.05.15-03.03.50:183][351]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.15-03.03.50:213][351]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.15-03.03.50:213][351]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.15-03.03.50:215][351]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 2.050 ms (total: 36.791 ms)
+[2026.05.15-03.03.50:225][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.15-03.03.50:225][351]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.03.50:240][351]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.15-03.03.50:243][351]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.790 ms (total: 22.584 ms)
+[2026.05.15-03.03.50:243][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017405s)
+[2026.05.15-03.03.50:243][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.017478s)
+[2026.05.15-03.03.50:280][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.05.15-03.03.50:285][351]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.15-03.03.50:288][351]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.15-03.03.50:288][351]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.15-03.03.50:288][351]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.15-03.03.50:288][351]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.15-03.03.50:291][351]LogWorldPartition: Display: WorldPartition initialize took 3.301 ms (total: 1.07 sec)
+[2026.05.15-03.03.50:291][351]LogPlayLevel: PIE: World Init took: (0.006647s)
+[2026.05.15-03.03.50:292][351]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.05.15-03.03.50:292][351]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.15-03.03.50:292][351]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.15-03.03.50:292][351]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.15-03.03.50:292][351]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.15-03.03.50:292][351]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.15-03.03.50:292][351]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.15-03.03.50:292][351]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.15-03.03.50:292][351]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.15-03.03.50:292][351]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.15-03.03.50:292][351]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.15-03.03.50:292][351]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.15-03.03.50:297][351]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.15-03.03.50:330][351]LogAudioMixer: Display: Using Audio Hardware Device 1 - LED MONITOR (AMD High Definition Audio Device)
+[2026.05.15-03.03.50:330][351]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.15-03.03.50:331][351]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.15-03.03.50:331][351]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.15-03.03.50:332][351]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.05.15-03.03.50:332][351]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.05.15-03.03.50:334][351]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.05.15-03.03.50:334][351]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.05.15-03.03.50:334][351]LogInit: FAudioDevice initialized with ID 7.
+[2026.05.15-03.03.50:334][351]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_HugoPrueba'.
+[2026.05.15-03.03.50:334][351]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.05.15-03.03.50:352][351]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.15-03.03.50:370][351]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.14-22.03.50
+[2026.05.15-03.03.50:374][351]LogWorld: Bringing up level for play took: 0.019763
+[2026.05.15-03.03.50:379][351]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.05.15-03.03.50:402][351]PIE: Server logged in
+[2026.05.15-03.03.50:405][351]PIE: Play in editor total start time 0,192 seconds.
+[2026.05.15-03.03.57:322][593]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] BP_Player0
+[2026.05.15-03.03.57:322][593]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Cast Ok
+[2026.05.15-03.03.57:351][593]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Desbloqueado
+[2026.05.15-03.04.02:361][792]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.04.02:361][792]LogBlueprintUserMessages: [BP_Player_C_0] No Desbloqueado
+[2026.05.15-03.04.04:495][878]LogBlueprintUserMessages: [BP_Player_C_0] Estado Base
+[2026.05.15-03.04.14:619][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.04.14:619][298]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.04.14:632][298]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.15-03.04.14:652][298]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.15-03.04.14:677][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.04.14:677][298]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.15-03.04.14:746][298]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.15-03.04.14:763][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.04.14:799][298]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.04.14:800][298]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.05.15-03.04.14:806][298]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.05.15-03.04.14:810][298]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.05.15-03.04.14:945][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.05.15-03.04.15:049][299]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.05.15-03.04.37:119][304]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Default.IMC_Default
+[2026.05.15-03.05.09:380][971]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_EstadoBase.IA_EstadoBase
+[2026.05.15-03.05.21:766][619]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/IA_ElementoFuego.IA_ElementoFuego
+[2026.05.15-03.06.47:821][322]LogBlueprint: Warning: Timeline FOV Timeline Track Alpha in /Engine/Transient.REINST_BP_Player_C_5 has an invalid curve.  Please fix!
+[2026.05.15-03.06.48:018][322]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_31:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_1
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-03.06.48:018][322]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_21:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_0
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-03.06.48:160][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.05.15-03.06.49:691][367]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-03.06.49:753][367]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.05.15-03.06.49:794][367]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/BP_Player.BP_Player]
+[2026.05.15-03.06.49:794][367]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/BP_Player]
+[2026.05.15-03.06.49:951][367]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/BP_Player
+[2026.05.15-03.06.49:952][367]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_Player972EC31A46DE4DEA22A434A709A25314.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/BP_Player.uasset'
+[2026.05.15-03.06.49:964][367]LogFileHelpers: InternalPromptForCheckoutAndSave took 273.248 ms (total: 5.63 sec)
+[2026.05.15-03.06.50:035][367]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-03.06.50:035][367]LogContentValidation: Enabled validators:
+[2026.05.15-03.06.50:035][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-03.06.50:035][367]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-03.06.50:035][367]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-03.06.50:035][367]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-03.06.50:035][367]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-03.06.50:035][367]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-03.06.50:035][367]AssetCheck: /Game/TestGame/Blueprints/BP_Player Validating asset
+[2026.05.15-03.06.52:205][452]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.15-03.06.52:244][452]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.15-03.06.52:244][452]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.15-03.06.52:246][452]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 2.357 ms (total: 39.149 ms)
+[2026.05.15-03.06.52:247][452]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.15-03.06.52:247][452]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.06.52:266][452]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.15-03.06.52:268][452]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.856 ms (total: 25.441 ms)
+[2026.05.15-03.06.52:269][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020919s)
+[2026.05.15-03.06.52:269][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.020995s)
+[2026.05.15-03.06.52:310][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2026.05.15-03.06.52:319][452]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.15-03.06.52:321][452]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.15-03.06.52:321][452]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.15-03.06.52:321][452]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.15-03.06.52:321][452]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.15-03.06.52:326][452]LogWorldPartition: Display: WorldPartition initialize took 3.738 ms (total: 1.07 sec)
+[2026.05.15-03.06.52:326][452]LogPlayLevel: PIE: World Init took: (0.006207s)
+[2026.05.15-03.06.52:327][452]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.05.15-03.06.52:327][452]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.15-03.06.52:327][452]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.15-03.06.52:327][452]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.15-03.06.52:327][452]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.15-03.06.52:327][452]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.15-03.06.52:327][452]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.15-03.06.52:327][452]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.15-03.06.52:327][452]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.15-03.06.52:327][452]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.15-03.06.52:327][452]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.15-03.06.52:327][452]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.15-03.06.52:331][452]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.15-03.06.52:358][452]LogAudioMixer: Display: Using Audio Hardware Device 1 - LED MONITOR (AMD High Definition Audio Device)
+[2026.05.15-03.06.52:358][452]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.15-03.06.52:358][452]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.15-03.06.52:358][452]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.15-03.06.52:359][452]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.05.15-03.06.52:359][452]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.05.15-03.06.52:362][452]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.05.15-03.06.52:362][452]LogInit: FAudioDevice initialized with ID 8.
+[2026.05.15-03.06.52:362][452]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.05.15-03.06.52:362][452]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_HugoPrueba'.
+[2026.05.15-03.06.52:362][452]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.05.15-03.06.52:401][452]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.15-03.06.52:414][452]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.14-22.06.52
+[2026.05.15-03.06.52:414][452]LogWorld: Bringing up level for play took: 0.013497
+[2026.05.15-03.06.52:419][452]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.05.15-03.06.52:431][452]PIE: Server logged in
+[2026.05.15-03.06.52:434][452]PIE: Play in editor total start time 0,191 seconds.
+[2026.05.15-03.06.55:689][561]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.55:715][562]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.55:742][563]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.55:771][564]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.55:804][565]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.56:610][593]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.56:637][594]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.56:669][595]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.56:693][596]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.56:721][597]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.57:073][609]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.57:099][610]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.57:133][611]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.57:160][612]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.57:187][613]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.57:218][614]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.57:534][625]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.57:534][625]LogBlueprintUserMessages: [BP_Player_C_0] No Desbloqueado
+[2026.05.15-03.06.58:167][647]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.58:167][647]LogBlueprintUserMessages: [BP_Player_C_0] No Desbloqueado
+[2026.05.15-03.06.58:762][668]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.58:791][669]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.58:821][670]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.06.58:850][671]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.07.00:960][745]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] BP_Player0
+[2026.05.15-03.07.00:960][745]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Cast Ok
+[2026.05.15-03.07.00:960][745]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Desbloqueado
+[2026.05.15-03.07.03:580][851]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.07.03:602][852]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.07.03:628][853]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.07.03:651][854]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.07.03:673][855]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.07.03:696][856]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.07.05:777][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.07.05:777][938]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.07.05:777][938]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.15-03.07.05:778][938]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.15-03.07.05:781][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.07.05:781][938]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.15-03.07.05:786][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.15-03.07.05:806][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.07.05:840][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.15-03.07.05:841][938]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.05.15-03.07.05:841][938]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.05.15-03.07.05:844][938]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.05.15-03.07.05:855][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.07.05:861][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.05.15-03.07.05:957][939]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2026.05.15-03.07.45:166][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2026.05.15-03.07.45:197][729]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/C/M2/OWFSEZNYMAXL0TOD6W34M1_Auto7
+[2026.05.15-03.07.45:197][729]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/OWFSEZNYMAXL0TOD6W34M1_Auto772EFBC4D4EF18A66A1004AB7B183D263.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/C/M2/OWFSEZNYMAXL0TOD6W34M1_Auto7.uasset'
+[2026.05.15-03.07.45:218][729]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/8/IM/VNEB6T3JS0SP66L0ESFFP5_Auto7
+[2026.05.15-03.07.45:218][729]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/VNEB6T3JS0SP66L0ESFFP5_Auto7F26AB24D487726F5078A3CA0E6C49E16.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/8/IM/VNEB6T3JS0SP66L0ESFFP5_Auto7.uasset'
+[2026.05.15-03.07.45:233][729]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/8/HS/73WS5LIK9NEPZ7IUL1DPVA_Auto7
+[2026.05.15-03.07.45:234][729]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/73WS5LIK9NEPZ7IUL1DPVA_Auto7648772F24B02974CD8E20FAC1894551F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/8/HS/73WS5LIK9NEPZ7IUL1DPVA_Auto7.uasset'
+[2026.05.15-03.07.45:255][729]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/1/9Q/UEJVKGYH6A1EQKCXW7DEAB_Auto7
+[2026.05.15-03.07.45:255][729]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/UEJVKGYH6A1EQKCXW7DEAB_Auto772C930A94FF50C5622F5C89212791CFE.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/1/9Q/UEJVKGYH6A1EQKCXW7DEAB_Auto7.uasset'
+[2026.05.15-03.07.45:258][729]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_HugoPrueba' took 0.152
+[2026.05.15-03.07.45:258][729]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.152
+[2026.05.15-03.09.24:441][710]LogBlueprint: Warning: Timeline FOV Timeline Track Alpha in /Engine/Transient.REINST_BP_Player_C_6 has an invalid curve.  Please fix!
+[2026.05.15-03.09.24:637][710]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_21:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_0
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-03.09.24:638][710]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_31:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_1
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-03.09.24:678][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.05.15-03.09.26:049][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-03.09.26:118][742]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.05.15-03.09.26:229][742]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/BP_Player.BP_Player]
+[2026.05.15-03.09.26:229][742]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/BP_Player]
+[2026.05.15-03.09.26:394][742]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/BP_Player
+[2026.05.15-03.09.26:396][742]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_PlayerDA3CB90145E4019AC3E2B2B4931908F7.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/BP_Player.uasset'
+[2026.05.15-03.09.26:409][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 361.010 ms (total: 5.99 sec)
+[2026.05.15-03.09.26:484][742]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-03.09.26:484][742]LogContentValidation: Enabled validators:
+[2026.05.15-03.09.26:484][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-03.09.26:484][742]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-03.09.26:484][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-03.09.26:484][742]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-03.09.26:484][742]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-03.09.26:484][742]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-03.09.26:485][742]AssetCheck: /Game/TestGame/Blueprints/BP_Player Validating asset
+[2026.05.15-03.09.29:980][921]LogBlueprint: Warning: Timeline FOV Timeline Track Alpha in /Engine/Transient.REINST_BP_Player_C_7 has an invalid curve.  Please fix!
+[2026.05.15-03.09.30:165][921]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_21:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_0
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-03.09.30:165][921]LogScript: Warning: Attempted to access REINST_BP_Player_C_1 via property Character, but REINST_BP_Player_C_1 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_31:PersistentLevel.REINST_BP_Player_C_1.CharacterMesh0.ABP_Unarmed_C_1
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-03.09.30:166][921]LogScript: Warning: Attempted to access BP_Player_C_5 via property Character, but BP_Player_C_5 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_21:PersistentLevel.BP_Player_C_5.CharacterMesh0.ABP_Unarmed_C_1
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-03.09.30:209][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.05.15-03.09.32:018][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-03.09.32:093][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.05.15-03.09.32:116][981]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/BP_Player.BP_Player]
+[2026.05.15-03.09.32:116][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/BP_Player]
+[2026.05.15-03.09.32:263][981]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/BP_Player
+[2026.05.15-03.09.32:263][981]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_Player9773A76A47EDD323509D5684AA30B64A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/BP_Player.uasset'
+[2026.05.15-03.09.32:277][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 258.844 ms (total: 6.25 sec)
+[2026.05.15-03.09.32:343][981]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-03.09.32:343][981]LogContentValidation: Enabled validators:
+[2026.05.15-03.09.32:343][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-03.09.32:343][981]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-03.09.32:343][981]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-03.09.32:343][981]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-03.09.32:343][981]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-03.09.32:343][981]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-03.09.32:343][981]AssetCheck: /Game/TestGame/Blueprints/BP_Player Validating asset
+[2026.05.15-03.09.34:372][ 55]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.15-03.09.34:401][ 55]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.15-03.09.34:401][ 55]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.15-03.09.34:406][ 55]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 4.189 ms (total: 43.338 ms)
+[2026.05.15-03.09.34:407][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.15-03.09.34:407][ 55]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.09.34:429][ 55]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.15-03.09.34:435][ 55]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.495 ms (total: 29.937 ms)
+[2026.05.15-03.09.34:435][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028348s)
+[2026.05.15-03.09.34:435][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.028440s)
+[2026.05.15-03.09.34:490][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.05.15-03.09.34:503][ 55]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.15-03.09.34:506][ 55]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.15-03.09.34:506][ 55]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.15-03.09.34:506][ 55]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.15-03.09.34:506][ 55]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.15-03.09.34:511][ 55]LogWorldPartition: Display: WorldPartition initialize took 4.423 ms (total: 1.07 sec)
+[2026.05.15-03.09.34:511][ 55]LogPlayLevel: PIE: World Init took: (0.007111s)
+[2026.05.15-03.09.34:513][ 55]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.05.15-03.09.34:513][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.15-03.09.34:513][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.15-03.09.34:513][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.15-03.09.34:513][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.15-03.09.34:513][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.15-03.09.34:513][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.15-03.09.34:513][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.15-03.09.34:513][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.15-03.09.34:513][ 55]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.15-03.09.34:513][ 55]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.15-03.09.34:513][ 55]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.15-03.09.34:515][ 55]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.15-03.09.34:545][ 55]LogAudioMixer: Display: Using Audio Hardware Device 1 - LED MONITOR (AMD High Definition Audio Device)
+[2026.05.15-03.09.34:545][ 55]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.15-03.09.34:545][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.15-03.09.34:545][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.15-03.09.34:546][ 55]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.05.15-03.09.34:546][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.05.15-03.09.34:549][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.05.15-03.09.34:549][ 55]LogInit: FAudioDevice initialized with ID 9.
+[2026.05.15-03.09.34:549][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.05.15-03.09.34:549][ 55]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lvl_HugoPrueba'.
+[2026.05.15-03.09.34:549][ 55]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.05.15-03.09.34:585][ 55]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.15-03.09.34:597][ 55]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.14-22.09.34
+[2026.05.15-03.09.34:599][ 55]LogWorld: Bringing up level for play took: 0.012893
+[2026.05.15-03.09.34:604][ 55]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2026.05.15-03.09.34:618][ 55]PIE: Server logged in
+[2026.05.15-03.09.34:620][ 55]PIE: Play in editor total start time 0,219 seconds.
+[2026.05.15-03.09.38:326][192]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] BP_Player0
+[2026.05.15-03.09.38:326][192]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Cast Ok
+[2026.05.15-03.09.38:326][192]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Desbloqueado
+[2026.05.15-03.09.39:111][225]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.09.41:389][319]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.09.41:853][338]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.09.42:235][353]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.09.42:237][353]LogBlueprintUserMessages: [BP_Player_C_0] No Desbloqueado
+[2026.05.15-03.09.45:926][489]LogBlueprintUserMessages: [ObjAgua_C_UAID_E88088548EEC4CBF02_1747401568] BP_Player0
+[2026.05.15-03.09.45:926][489]LogBlueprintUserMessages: [ObjAgua_C_UAID_E88088548EEC4CBF02_1747401568] Cast Ok
+[2026.05.15-03.09.45:926][489]LogBlueprintUserMessages: [ObjAgua_C_UAID_E88088548EEC4CBF02_1747401568] Desbloqueado
+[2026.05.15-03.09.46:824][526]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.09.46:824][526]LogBlueprintUserMessages: [BP_Player_C_0] Estado Agua Activado
+[2026.05.15-03.09.50:885][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.09.50:885][688]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.09.50:885][688]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.15-03.09.50:886][688]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.15-03.09.50:889][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.09.50:889][688]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.15-03.09.50:896][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.15-03.09.50:908][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.09.50:942][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.15-03.09.50:942][688]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.05.15-03.09.50:943][688]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.05.15-03.09.50:944][688]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.05.15-03.09.50:951][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.09.50:957][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.05.15-03.09.51:052][689]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2026.05.15-03.10.08:076][489]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetSystemLibrary::GetDisplayName' [No se ha encontrado el elemento.]
+[2026.05.15-03.10.44:242][434]LogBlueprint: Warning: Timeline FOV Timeline Track Alpha in /Engine/Transient.REINST_BP_Player_C_8 has an invalid curve.  Please fix!
+[2026.05.15-03.10.44:427][434]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_31:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_1
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-03.10.44:427][434]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_21:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_0
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-03.10.44:470][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.05.15-03.10.45:729][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-03.10.45:806][463]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.05.15-03.10.45:843][463]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/BP_Player.BP_Player]
+[2026.05.15-03.10.45:843][463]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/BP_Player]
+[2026.05.15-03.10.46:000][463]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/BP_Player
+[2026.05.15-03.10.46:000][463]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_Player645E0E204367565779321AA1BB7A67FE.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/BP_Player.uasset'
+[2026.05.15-03.10.46:013][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 284.028 ms (total: 6.54 sec)
+[2026.05.15-03.10.46:086][463]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-03.10.46:086][463]LogContentValidation: Enabled validators:
+[2026.05.15-03.10.46:086][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-03.10.46:086][463]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-03.10.46:086][463]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-03.10.46:086][463]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-03.10.46:086][463]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-03.10.46:087][463]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-03.10.46:087][463]AssetCheck: /Game/TestGame/Blueprints/BP_Player Validating asset
+[2026.05.15-03.10.48:990][572]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.15-03.10.49:033][572]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.15-03.10.49:033][572]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.15-03.10.49:034][572]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 2.667 ms (total: 46.005 ms)
+[2026.05.15-03.10.49:036][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.15-03.10.49:037][572]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.10.49:059][572]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.15-03.10.49:062][572]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.356 ms (total: 33.294 ms)
+[2026.05.15-03.10.49:063][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026012s)
+[2026.05.15-03.10.49:063][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.026096s)
+[2026.05.15-03.10.49:102][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2026.05.15-03.10.49:114][572]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.15-03.10.49:116][572]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.15-03.10.49:116][572]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.15-03.10.49:116][572]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.15-03.10.49:116][572]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.15-03.10.49:120][572]LogWorldPartition: Display: WorldPartition initialize took 3.264 ms (total: 1.08 sec)
+[2026.05.15-03.10.49:120][572]LogPlayLevel: PIE: World Init took: (0.005704s)
+[2026.05.15-03.10.49:121][572]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.05.15-03.10.49:121][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.15-03.10.49:121][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.15-03.10.49:121][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.15-03.10.49:121][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.15-03.10.49:121][572]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.15-03.10.49:121][572]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.15-03.10.49:121][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.15-03.10.49:121][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.15-03.10.49:121][572]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.15-03.10.49:121][572]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.15-03.10.49:121][572]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.15-03.10.49:124][572]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.15-03.10.49:147][572]LogAudioMixer: Display: Using Audio Hardware Device 1 - LED MONITOR (AMD High Definition Audio Device)
+[2026.05.15-03.10.49:148][572]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.15-03.10.49:148][572]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.15-03.10.49:148][572]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.15-03.10.49:148][572]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.05.15-03.10.49:148][572]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.05.15-03.10.49:153][572]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.05.15-03.10.49:153][572]LogInit: FAudioDevice initialized with ID 10.
+[2026.05.15-03.10.49:153][572]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.05.15-03.10.49:153][572]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lvl_HugoPrueba'.
+[2026.05.15-03.10.49:153][572]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.15-03.10.49:191][572]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.15-03.10.49:204][572]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.14-22.10.49
+[2026.05.15-03.10.49:205][572]LogWorld: Bringing up level for play took: 0.014477
+[2026.05.15-03.10.49:210][572]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2026.05.15-03.10.49:221][572]PIE: Server logged in
+[2026.05.15-03.10.49:226][572]PIE: Play in editor total start time 0,193 seconds.
+[2026.05.15-03.10.52:829][702]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] BP_Player0
+[2026.05.15-03.10.52:829][702]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Cast Ok
+[2026.05.15-03.10.52:829][702]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Desbloqueado
+[2026.05.15-03.10.53:986][752]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.10.53:986][752]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.10.59:585][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.10.59:585][978]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.10.59:585][978]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.15-03.10.59:586][978]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.15-03.10.59:588][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.10.59:588][978]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.15-03.10.59:628][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.15-03.10.59:644][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.10.59:683][978]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.15-03.10.59:683][978]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.15-03.10.59:683][978]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.05.15-03.10.59:686][978]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.05.15-03.10.59:691][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.10.59:697][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.05.15-03.10.59:791][979]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2026.05.15-03.11.11:248][468]LogBlueprint: Warning: Timeline FOV Timeline Track Alpha in /Engine/Transient.REINST_BP_Player_C_9 has an invalid curve.  Please fix!
+[2026.05.15-03.11.11:438][468]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_31:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_1
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-03.11.11:439][468]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_21:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_0
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-03.11.11:479][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.05.15-03.11.12:912][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-03.11.12:981][499]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.05.15-03.11.13:040][499]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/BP_Player.BP_Player]
+[2026.05.15-03.11.13:040][499]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/BP_Player]
+[2026.05.15-03.11.13:200][499]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/BP_Player
+[2026.05.15-03.11.13:201][499]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_PlayerD56E687740245141C6934EBE35D260C6.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/BP_Player.uasset'
+[2026.05.15-03.11.13:214][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 301.959 ms (total: 6.84 sec)
+[2026.05.15-03.11.13:278][499]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-03.11.13:278][499]LogContentValidation: Enabled validators:
+[2026.05.15-03.11.13:279][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-03.11.13:279][499]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-03.11.13:279][499]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-03.11.13:279][499]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-03.11.13:279][499]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-03.11.13:279][499]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-03.11.13:279][499]AssetCheck: /Game/TestGame/Blueprints/BP_Player Validating asset
+[2026.05.15-03.11.14:954][550]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.15-03.11.14:985][550]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.15-03.11.14:985][550]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.15-03.11.14:988][550]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 3.904 ms (total: 49.910 ms)
+[2026.05.15-03.11.14:989][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.15-03.11.14:990][550]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.11.15:012][550]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.15-03.11.15:017][550]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.653 ms (total: 37.947 ms)
+[2026.05.15-03.11.15:017][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026760s)
+[2026.05.15-03.11.15:018][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.026867s)
+[2026.05.15-03.11.15:080][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.05.15-03.11.15:090][550]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.15-03.11.15:093][550]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.15-03.11.15:093][550]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.15-03.11.15:093][550]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.15-03.11.15:093][550]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.15-03.11.15:097][550]LogWorldPartition: Display: WorldPartition initialize took 4.195 ms (total: 1.08 sec)
+[2026.05.15-03.11.15:097][550]LogPlayLevel: PIE: World Init took: (0.006815s)
+[2026.05.15-03.11.15:099][550]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.05.15-03.11.15:099][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.15-03.11.15:099][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.15-03.11.15:099][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.15-03.11.15:099][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.15-03.11.15:099][550]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.15-03.11.15:099][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.15-03.11.15:099][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.15-03.11.15:099][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.15-03.11.15:099][550]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.15-03.11.15:099][550]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.15-03.11.15:099][550]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.15-03.11.15:101][550]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.15-03.11.15:125][550]LogAudioMixer: Display: Using Audio Hardware Device 1 - LED MONITOR (AMD High Definition Audio Device)
+[2026.05.15-03.11.15:125][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.15-03.11.15:125][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.15-03.11.15:125][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.15-03.11.15:126][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.05.15-03.11.15:126][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.05.15-03.11.15:129][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.05.15-03.11.15:129][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.05.15-03.11.15:129][550]LogInit: FAudioDevice initialized with ID 11.
+[2026.05.15-03.11.15:129][550]LogAudio: Display: Audio Device (ID: 11) registered with world 'Lvl_HugoPrueba'.
+[2026.05.15-03.11.15:129][550]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.05.15-03.11.15:135][550]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.15-03.11.15:145][550]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.14-22.11.15
+[2026.05.15-03.11.15:146][550]LogWorld: Bringing up level for play took: 0.010348
+[2026.05.15-03.11.15:156][550]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2026.05.15-03.11.15:165][550]PIE: Server logged in
+[2026.05.15-03.11.15:168][550]PIE: Play in editor total start time 0,183 seconds.
+[2026.05.15-03.11.17:587][630]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_0] Aplico daño disparo
+[2026.05.15-03.11.17:705][634]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_2] Aplico daño disparo
+[2026.05.15-03.11.17:705][634]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_1] Aplico daño disparo
+[2026.05.15-03.11.17:822][636]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_5] Aplico daño disparo
+[2026.05.15-03.11.17:823][636]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_4] Aplico daño disparo
+[2026.05.15-03.11.18:791][656]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_26] Aplico daño disparo
+[2026.05.15-03.11.18:847][657]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_27] Aplico daño disparo
+[2026.05.15-03.11.18:934][659]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_29] Aplico daño disparo
+[2026.05.15-03.11.18:980][660]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_30] Aplico daño disparo
+[2026.05.15-03.11.19:029][661]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_31] Aplico daño disparo
+[2026.05.15-03.11.19:076][662]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_32] Aplico daño disparo
+[2026.05.15-03.11.19:130][663]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_33] Aplico daño disparo
+[2026.05.15-03.11.19:266][666]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_8] Aplico daño disparo
+[2026.05.15-03.11.19:313][667]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_9] Aplico daño disparo
+[2026.05.15-03.11.19:360][668]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_37] Aplico daño disparo
+[2026.05.15-03.11.19:360][668]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_36] Aplico daño disparo
+[2026.05.15-03.11.19:360][668]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_3] Aplico daño disparo
+[2026.05.15-03.11.19:360][668]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_10] Aplico daño disparo
+[2026.05.15-03.11.19:406][669]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_11] Aplico daño disparo
+[2026.05.15-03.11.19:460][670]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_6] Aplico daño disparo
+[2026.05.15-03.11.19:461][670]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_7] Aplico daño disparo
+[2026.05.15-03.11.19:461][670]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_12] Aplico daño disparo
+[2026.05.15-03.11.19:505][671]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_13] Aplico daño disparo
+[2026.05.15-03.11.19:554][672]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_14] Aplico daño disparo
+[2026.05.15-03.11.19:601][673]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_15] Aplico daño disparo
+[2026.05.15-03.11.19:648][674]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_16] Aplico daño disparo
+[2026.05.15-03.11.19:693][675]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_17] Aplico daño disparo
+[2026.05.15-03.11.19:737][676]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_18] Aplico daño disparo
+[2026.05.15-03.11.19:789][678]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_19] Aplico daño disparo
+[2026.05.15-03.11.19:833][680]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_20] Aplico daño disparo
+[2026.05.15-03.11.19:876][682]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_21] Aplico daño disparo
+[2026.05.15-03.11.19:921][684]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_22] Aplico daño disparo
+[2026.05.15-03.11.19:964][686]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_23] Aplico daño disparo
+[2026.05.15-03.11.20:010][688]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_24] Aplico daño disparo
+[2026.05.15-03.11.20:033][689]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_25] Aplico daño disparo
+[2026.05.15-03.11.20:138][693]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_28] Aplico daño disparo
+[2026.05.15-03.11.20:325][701]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_34] Aplico daño disparo
+[2026.05.15-03.11.20:370][703]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_35] Aplico daño disparo
+[2026.05.15-03.11.20:454][706]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_44] Aplico daño disparo
+[2026.05.15-03.11.20:454][706]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_43] Aplico daño disparo
+[2026.05.15-03.11.20:530][708]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_38] Aplico daño disparo
+[2026.05.15-03.11.20:576][709]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_39] Aplico daño disparo
+[2026.05.15-03.11.20:632][710]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_40] Aplico daño disparo
+[2026.05.15-03.11.20:667][711]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_41] Aplico daño disparo
+[2026.05.15-03.11.20:690][712]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_42] Aplico daño disparo
+[2026.05.15-03.11.21:627][751]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_45] Aplico daño disparo
+[2026.05.15-03.11.21:652][752]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_46] Aplico daño disparo
+[2026.05.15-03.11.21:916][763]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] BP_Player0
+[2026.05.15-03.11.21:917][763]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Cast Ok
+[2026.05.15-03.11.21:917][763]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Desbloqueado
+[2026.05.15-03.11.23:147][815]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.11.23:147][815]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.11.23:171][816]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.11.23:171][816]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.11.23:192][817]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.11.23:193][817]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.11.23:216][818]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.11.23:216][818]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.11.23:239][819]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.11.23:240][819]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.11.23:262][820]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.11.23:262][820]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.11.23:284][821]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.11.23:284][821]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.11.25:897][924]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.11.25:897][924]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.11.25:924][925]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.11.25:924][925]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.11.25:955][926]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.11.25:955][926]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.11.25:983][927]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.11.25:983][927]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.11.26:756][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.11.26:756][955]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.11.26:756][955]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.15-03.11.26:757][955]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.15-03.11.26:760][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.11.26:760][955]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.15-03.11.26:767][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.15-03.11.26:787][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.11.26:824][955]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.15-03.11.26:825][955]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.05.15-03.11.26:825][955]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.05.15-03.11.26:828][955]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.05.15-03.11.26:835][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.11.26:840][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.05.15-03.11.26:936][956]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2026.05.15-03.11.52:306][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-03.11.52:372][674]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.05.15-03.11.52:372][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/BP_Player]
+[2026.05.15-03.11.52:529][674]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/BP_Player
+[2026.05.15-03.11.52:529][674]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_Player086492C64ADD1EEB8A0C74932649718B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/BP_Player.uasset'
+[2026.05.15-03.11.52:543][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 236.334 ms (total: 7.07 sec)
+[2026.05.15-03.11.52:620][674]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-03.11.52:620][674]LogContentValidation: Enabled validators:
+[2026.05.15-03.11.52:620][674]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-03.11.52:620][674]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-03.11.52:620][674]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-03.11.52:620][674]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-03.11.52:620][674]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-03.11.52:620][674]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-03.11.52:620][674]AssetCheck: /Game/TestGame/Blueprints/BP_Player Validating asset
+[2026.05.15-03.12.06:064][322]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.15-03.12.06:095][322]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.15-03.12.06:095][322]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.15-03.12.06:099][322]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 3.379 ms (total: 53.289 ms)
+[2026.05.15-03.12.06:099][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.15-03.12.06:099][322]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.12.06:127][322]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.15-03.12.06:132][322]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.600 ms (total: 42.548 ms)
+[2026.05.15-03.12.06:132][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031872s)
+[2026.05.15-03.12.06:132][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.031953s)
+[2026.05.15-03.12.06:185][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2026.05.15-03.12.06:188][322]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.15-03.12.06:190][322]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.15-03.12.06:190][322]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.15-03.12.06:190][322]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.15-03.12.06:190][322]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.15-03.12.06:193][322]LogWorldPartition: Display: WorldPartition initialize took 3.260 ms (total: 1.08 sec)
+[2026.05.15-03.12.06:194][322]LogPlayLevel: PIE: World Init took: (0.005602s)
+[2026.05.15-03.12.06:195][322]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.05.15-03.12.06:195][322]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.15-03.12.06:195][322]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.15-03.12.06:195][322]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.15-03.12.06:195][322]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.15-03.12.06:195][322]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.15-03.12.06:195][322]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.15-03.12.06:195][322]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.15-03.12.06:195][322]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.15-03.12.06:195][322]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.15-03.12.06:195][322]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.15-03.12.06:195][322]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.15-03.12.06:198][322]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.15-03.12.06:217][322]LogAudioMixer: Display: Using Audio Hardware Device 1 - LED MONITOR (AMD High Definition Audio Device)
+[2026.05.15-03.12.06:217][322]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.15-03.12.06:217][322]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.15-03.12.06:217][322]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.15-03.12.06:218][322]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.05.15-03.12.06:218][322]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.05.15-03.12.06:222][322]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.05.15-03.12.06:222][322]LogInit: FAudioDevice initialized with ID 12.
+[2026.05.15-03.12.06:222][322]LogAudio: Display: Audio Device (ID: 12) registered with world 'Lvl_HugoPrueba'.
+[2026.05.15-03.12.06:222][322]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.05.15-03.12.06:222][322]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.05.15-03.12.06:227][322]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.15-03.12.06:238][322]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.14-22.12.06
+[2026.05.15-03.12.06:239][322]LogWorld: Bringing up level for play took: 0.010770
+[2026.05.15-03.12.06:242][322]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2026.05.15-03.12.06:251][322]PIE: Server logged in
+[2026.05.15-03.12.06:254][322]PIE: Play in editor total start time 0,159 seconds.
+[2026.05.15-03.12.07:437][357]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_1] Aplico daño disparo
+[2026.05.15-03.12.07:437][357]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_0] Aplico daño disparo
+[2026.05.15-03.12.09:344][422]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_3] Aplico daño disparo
+[2026.05.15-03.12.09:375][423]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_4] Aplico daño disparo
+[2026.05.15-03.12.09:478][426]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_2] Aplico daño disparo
+[2026.05.15-03.12.10:376][459]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] BP_Player0
+[2026.05.15-03.12.10:378][459]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Cast Ok
+[2026.05.15-03.12.10:378][459]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Desbloqueado
+[2026.05.15-03.12.12:643][552]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.12.12:643][552]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.12.12:665][553]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.12.12:665][553]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.12.12:691][554]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.12.12:691][554]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.12.12:712][555]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.12.12:712][555]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.12.12:736][556]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.12.12:736][556]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.12.18:826][796]LogBlueprintUserMessages: [BP_Player_C_0] Estado Base
+[2026.05.15-03.12.21:162][882]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_5] Aplico daño disparo
+[2026.05.15-03.12.22:341][909]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_12] Aplico daño disparo
+[2026.05.15-03.12.22:368][910]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_11] Aplico daño disparo
+[2026.05.15-03.12.22:400][911]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_10] Aplico daño disparo
+[2026.05.15-03.12.24:076][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.12.24:076][964]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.12.24:076][964]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.15-03.12.24:076][964]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.15-03.12.24:078][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.12.24:078][964]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.15-03.12.24:092][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.15-03.12.24:112][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.12.24:156][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.12.24:157][964]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.05.15-03.12.24:157][964]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.05.15-03.12.24:161][964]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.05.15-03.12.24:176][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.05.15-03.12.24:261][965]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2026.05.15-03.12.56:911][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.05.15-03.12.58:609][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-03.12.58:672][718]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TestGame/Blueprints/Interactables/BP_Fuego] ([2] browsable assets)...
+[2026.05.15-03.12.58:700][718]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Interactables/BP_Fuego.BP_Fuego]
+[2026.05.15-03.12.58:700][718]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Interactables/BP_Fuego]
+[2026.05.15-03.12.58:723][718]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Interactables/BP_Fuego
+[2026.05.15-03.12.58:724][718]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_FuegoAEA3968E4C95388CA4BE489D9A6C7ACC.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Interactables/BP_Fuego.uasset'
+[2026.05.15-03.12.58:739][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.038 ms (total: 7.20 sec)
+[2026.05.15-03.12.58:808][718]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-03.12.58:808][718]LogContentValidation: Enabled validators:
+[2026.05.15-03.12.58:808][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-03.12.58:808][718]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-03.12.58:808][718]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-03.12.58:808][718]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-03.12.58:808][718]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-03.12.58:808][718]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-03.12.58:808][718]AssetCheck: /Game/TestGame/Blueprints/Interactables/BP_Fuego Validating asset
+[2026.05.15-03.14.15:555][308]LogBlueprint: Warning: Timeline FOV Timeline Track Alpha in /Engine/Transient.REINST_BP_Player_C_10 has an invalid curve.  Please fix!
+[2026.05.15-03.14.15:740][308]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_31:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_1
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-03.14.15:742][308]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_21:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_0
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-03.14.15:785][308]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2026.05.15-03.14.19:173][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-03.14.19:262][448]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.05.15-03.14.19:298][448]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/BP_Player.BP_Player]
+[2026.05.15-03.14.19:298][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/BP_Player]
+[2026.05.15-03.14.19:458][448]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/BP_Player
+[2026.05.15-03.14.19:459][448]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_PlayerC11A28E1454F6A26BE39C1A6A98FCC22.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/BP_Player.uasset'
+[2026.05.15-03.14.19:475][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 302.169 ms (total: 7.51 sec)
+[2026.05.15-03.14.19:544][448]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-03.14.19:544][448]LogContentValidation: Enabled validators:
+[2026.05.15-03.14.19:544][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-03.14.19:544][448]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-03.14.19:544][448]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-03.14.19:544][448]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-03.14.19:544][448]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-03.14.19:544][448]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-03.14.19:545][448]AssetCheck: /Game/TestGame/Blueprints/BP_Player Validating asset
+[2026.05.15-03.14.21:868][516]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.15-03.14.21:893][516]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.15-03.14.21:893][516]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.15-03.14.21:896][516]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 2.817 ms (total: 56.106 ms)
+[2026.05.15-03.14.21:897][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.15-03.14.21:897][516]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.14.21:930][516]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.15-03.14.21:934][516]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.371 ms (total: 45.919 ms)
+[2026.05.15-03.14.21:934][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037022s)
+[2026.05.15-03.14.21:934][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.037097s)
+[2026.05.15-03.14.22:005][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.05.15-03.14.22:018][516]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.15-03.14.22:021][516]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.15-03.14.22:021][516]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.15-03.14.22:021][516]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.15-03.14.22:022][516]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.15-03.14.22:025][516]LogWorldPartition: Display: WorldPartition initialize took 4.028 ms (total: 1.09 sec)
+[2026.05.15-03.14.22:025][516]LogPlayLevel: PIE: World Init took: (0.007157s)
+[2026.05.15-03.14.22:026][516]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.05.15-03.14.22:026][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.15-03.14.22:026][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.15-03.14.22:026][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.15-03.14.22:026][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.15-03.14.22:026][516]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.15-03.14.22:026][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.15-03.14.22:026][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.15-03.14.22:026][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.15-03.14.22:026][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.15-03.14.22:026][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.15-03.14.22:026][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.15-03.14.22:030][516]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.15-03.14.22:050][516]LogAudioMixer: Display: Using Audio Hardware Device 1 - LED MONITOR (AMD High Definition Audio Device)
+[2026.05.15-03.14.22:051][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.15-03.14.22:051][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.15-03.14.22:051][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.15-03.14.22:051][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.05.15-03.14.22:051][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.05.15-03.14.22:054][516]LogInit: FAudioDevice initialized with ID 13.
+[2026.05.15-03.14.22:054][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.05.15-03.14.22:054][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.05.15-03.14.22:055][516]LogAudio: Display: Audio Device (ID: 13) registered with world 'Lvl_HugoPrueba'.
+[2026.05.15-03.14.22:055][516]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.05.15-03.14.22:060][516]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.15-03.14.22:071][516]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.14-22.14.22
+[2026.05.15-03.14.22:072][516]LogWorld: Bringing up level for play took: 0.011421
+[2026.05.15-03.14.22:075][516]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2026.05.15-03.14.22:084][516]PIE: Server logged in
+[2026.05.15-03.14.22:087][516]PIE: Play in editor total start time 0,194 seconds.
+[2026.05.15-03.14.26:878][688]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] BP_Player0
+[2026.05.15-03.14.26:878][688]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Cast Ok
+[2026.05.15-03.14.26:879][688]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Desbloqueado
+[2026.05.15-03.14.28:025][736]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_1] Aplico daño disparo
+[2026.05.15-03.14.28:025][736]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_0] Aplico daño disparo
+[2026.05.15-03.14.28:120][738]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_3] Aplico daño disparo
+[2026.05.15-03.14.28:122][738]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_2] Aplico daño disparo
+[2026.05.15-03.14.28:873][763]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_5] Aplico daño disparo
+[2026.05.15-03.14.28:874][763]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_4] Aplico daño disparo
+[2026.05.15-03.14.29:445][782]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_7] Aplico daño disparo
+[2026.05.15-03.14.29:446][782]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_6] Aplico daño disparo
+[2026.05.15-03.14.29:607][785]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_10] Aplico daño disparo
+[2026.05.15-03.14.29:608][785]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_9] Aplico daño disparo
+[2026.05.15-03.14.29:734][787]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_12] Aplico daño disparo
+[2026.05.15-03.14.29:735][787]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_11] Aplico daño disparo
+[2026.05.15-03.14.29:924][790]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_15] Aplico daño disparo
+[2026.05.15-03.14.29:925][790]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_14] Aplico daño disparo
+[2026.05.15-03.14.31:066][830]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.14.31:066][830]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.14.31:090][831]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.14.31:090][831]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.14.31:113][832]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.14.31:113][832]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.14.31:140][833]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.14.31:140][833]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.14.31:166][834]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.14.31:166][834]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.14.31:188][835]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.14.31:188][835]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.14.31:211][836]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.14.31:212][836]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.14.31:235][837]LogBlueprintUserMessages: [BP_Player_C_0] BP_Player0
+[2026.05.15-03.14.31:236][837]LogBlueprintUserMessages: [BP_Player_C_0] Estado fuego Activado
+[2026.05.15-03.14.31:587][851]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_8] Aplico daño disparo
+[2026.05.15-03.14.31:865][862]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_13] Aplico daño disparo
+[2026.05.15-03.14.32:007][866]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_20] Aplico daño disparo
+[2026.05.15-03.14.32:007][866]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_19] Aplico daño disparo
+[2026.05.15-03.14.32:069][867]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_16] Aplico daño disparo
+[2026.05.15-03.14.34:087][943]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_22] Aplico daño disparo
+[2026.05.15-03.14.34:088][943]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_21] Aplico daño disparo
+[2026.05.15-03.14.34:252][946]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_17] Aplico daño disparo
+[2026.05.15-03.14.34:254][946]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_18] Aplico daño disparo
+[2026.05.15-03.14.34:925][970]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_23] Aplico daño disparo
+[2026.05.15-03.14.34:953][971]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_24] Aplico daño disparo
+[2026.05.15-03.14.35:475][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.14.35:475][990]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.14.35:475][990]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.15-03.14.35:476][990]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.15-03.14.35:478][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.14.35:478][990]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.15-03.14.35:487][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.15-03.14.35:504][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.14.35:543][990]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.15-03.14.35:544][990]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.05.15-03.14.35:544][990]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.05.15-03.14.35:546][990]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.05.15-03.14.35:553][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.14.35:558][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.05.15-03.14.35:648][991]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2026.05.15-03.15.06:641][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-03.15.06:714][572]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.05.15-03.15.06:714][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/BP_Player]
+[2026.05.15-03.15.06:864][572]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/BP_Player
+[2026.05.15-03.15.06:865][572]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_Player9F22E7244FC76352A7E0F2AEF8FA099D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/BP_Player.uasset'
+[2026.05.15-03.15.06:879][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 237.721 ms (total: 7.74 sec)
+[2026.05.15-03.15.06:949][572]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-03.15.06:949][572]LogContentValidation: Enabled validators:
+[2026.05.15-03.15.06:949][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-03.15.06:949][572]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-03.15.06:949][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-03.15.06:949][572]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-03.15.06:949][572]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-03.15.06:949][572]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-03.15.06:949][572]AssetCheck: /Game/TestGame/Blueprints/BP_Player Validating asset
+[2026.05.15-03.17.19:908][296]LogBlueprint: Warning: Timeline FOV Timeline Track Alpha in /Engine/Transient.REINST_BP_Player_C_11 has an invalid curve.  Please fix!
+[2026.05.15-03.17.20:100][296]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_31:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_1
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-03.17.20:100][296]LogScript: Warning: Attempted to access REINST_BP_Player_C_0 via property Character, but REINST_BP_Player_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_21:PersistentLevel.REINST_BP_Player_C_0.CharacterMesh0.ABP_Unarmed_C_0
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:03F6
+[2026.05.15-03.17.20:142][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2026.05.15-03.17.21:535][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-03.17.21:581][332]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.05.15-03.17.21:615][332]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/BP_Player.BP_Player]
+[2026.05.15-03.17.21:615][332]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/BP_Player]
+[2026.05.15-03.17.21:772][332]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/BP_Player
+[2026.05.15-03.17.21:774][332]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/BP_PlayerE6174BDF4BB0C6881E9F9D8C4ED4EFBE.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/TestGame/Blueprints/BP_Player.uasset'
+[2026.05.15-03.17.21:789][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 254.249 ms (total: 8.00 sec)
+[2026.05.15-03.17.21:863][332]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.15-03.17.21:863][332]LogContentValidation: Enabled validators:
+[2026.05.15-03.17.21:863][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-03.17.21:863][332]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-03.17.21:863][332]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-03.17.21:863][332]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-03.17.21:863][332]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-03.17.21:863][332]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-03.17.21:864][332]AssetCheck: /Game/TestGame/Blueprints/BP_Player Validating asset
+[2026.05.15-03.17.23:892][394]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.15-03.17.23:926][394]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.15-03.17.23:926][394]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.15-03.17.23:928][394]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 2.092 ms (total: 58.199 ms)
+[2026.05.15-03.17.23:929][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.15-03.17.23:929][394]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.17.23:949][394]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.15-03.17.23:953][394]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.354 ms (total: 50.274 ms)
+[2026.05.15-03.17.23:954][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024051s)
+[2026.05.15-03.17.23:954][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.024112s)
+[2026.05.15-03.17.24:005][394]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.05.15-03.17.24:017][394]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.15-03.17.24:019][394]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.15-03.17.24:019][394]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.15-03.17.24:019][394]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.15-03.17.24:019][394]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.15-03.17.24:023][394]LogWorldPartition: Display: WorldPartition initialize took 3.569 ms (total: 1.09 sec)
+[2026.05.15-03.17.24:023][394]LogPlayLevel: PIE: World Init took: (0.006011s)
+[2026.05.15-03.17.24:024][394]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.05.15-03.17.24:024][394]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.15-03.17.24:024][394]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.15-03.17.24:024][394]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.15-03.17.24:024][394]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.15-03.17.24:024][394]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.15-03.17.24:024][394]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.15-03.17.24:024][394]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.15-03.17.24:024][394]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.15-03.17.24:024][394]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.15-03.17.24:024][394]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.15-03.17.24:024][394]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.15-03.17.24:026][394]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.15-03.17.24:052][394]LogAudioMixer: Display: Using Audio Hardware Device 1 - LED MONITOR (AMD High Definition Audio Device)
+[2026.05.15-03.17.24:052][394]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.15-03.17.24:052][394]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.15-03.17.24:052][394]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.15-03.17.24:053][394]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.05.15-03.17.24:053][394]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.05.15-03.17.24:056][394]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.05.15-03.17.24:056][394]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.05.15-03.17.24:056][394]LogInit: FAudioDevice initialized with ID 14.
+[2026.05.15-03.17.24:056][394]LogAudio: Display: Audio Device (ID: 14) registered with world 'Lvl_HugoPrueba'.
+[2026.05.15-03.17.24:056][394]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.05.15-03.17.24:061][394]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.15-03.17.24:072][394]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.14-22.17.24
+[2026.05.15-03.17.24:073][394]LogWorld: Bringing up level for play took: 0.011269
+[2026.05.15-03.17.24:077][394]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2026.05.15-03.17.24:086][394]PIE: Server logged in
+[2026.05.15-03.17.24:088][394]PIE: Play in editor total start time 0,163 seconds.
+[2026.05.15-03.17.28:341][539]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] BP_Player0
+[2026.05.15-03.17.28:341][539]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Cast Ok
+[2026.05.15-03.17.28:341][539]LogBlueprintUserMessages: [BP_Fuego_C_UAID_E88088548EEC16DB02_1100010633] Desbloqueado
+[2026.05.15-03.17.30:792][627]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_0] Aplico daño disparo
+[2026.05.15-03.17.31:508][653]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_1] Aplico daño disparo
+[2026.05.15-03.17.31:932][669]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_2] Aplico daño disparo
+[2026.05.15-03.17.32:147][677]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_7] Aplico daño disparo
+[2026.05.15-03.17.32:219][680]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_3] Aplico daño disparo
+[2026.05.15-03.17.32:465][689]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_4] Aplico daño disparo
+[2026.05.15-03.17.32:645][696]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_5] Aplico daño disparo
+[2026.05.15-03.17.34:114][751]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_6] Aplico daño disparo
+[2026.05.15-03.17.35:504][803]LogBlueprintUserMessages: [BP_Player_C_0] None
+[2026.05.15-03.17.36:207][827]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_10] Aplico daño disparo
+[2026.05.15-03.17.36:208][827]LogBlueprintUserMessages: [BP_Enemy_Base_C_UAID_E88088548EEC10DB02_1690547575] None
+[2026.05.15-03.17.36:411][834]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_11] Aplico daño disparo
+[2026.05.15-03.17.36:411][834]LogBlueprintUserMessages: [BP_Enemy_Base_C_UAID_E88088548EEC10DB02_1690547575] None
+[2026.05.15-03.17.36:532][838]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_8] Aplico daño disparo
+[2026.05.15-03.17.36:643][842]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_12] Aplico daño disparo
+[2026.05.15-03.17.36:643][842]LogBlueprintUserMessages: [BP_Enemy_Base_C_UAID_E88088548EEC10DB02_1690547575] None
+[2026.05.15-03.17.36:686][844]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_9] Aplico daño disparo
+[2026.05.15-03.17.36:848][849]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_13] Aplico daño disparo
+[2026.05.15-03.17.36:848][849]LogBlueprintUserMessages: [BP_Enemy_Base_C_UAID_E88088548EEC10DB02_1690547575] None
+[2026.05.15-03.17.37:010][854]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_14] Aplico daño disparo
+[2026.05.15-03.17.37:010][854]LogBlueprintUserMessages: [BP_Enemy_Base_C_UAID_E88088548EEC10DB02_1690547575] None
+[2026.05.15-03.17.37:193][859]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_15] Aplico daño disparo
+[2026.05.15-03.17.37:194][859]LogBlueprintUserMessages: [BP_Enemy_Base_C_UAID_E88088548EEC10DB02_1690547575] None
+[2026.05.15-03.17.37:215][860]LogBlueprintUserMessages: [BP_Player_C_0] None
+[2026.05.15-03.17.37:339][864]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_16] Aplico daño disparo
+[2026.05.15-03.17.37:534][866]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_17] Aplico daño disparo
+[2026.05.15-03.17.37:534][866]LogBlueprintUserMessages: [BPC_DamageSystem] No Damage
+[2026.05.15-03.17.37:654][870]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_18] Aplico daño disparo
+[2026.05.15-03.17.37:654][870]LogBlueprintUserMessages: [BPC_DamageSystem] No Damage
+[2026.05.15-03.17.37:815][874]LogBlueprintUserMessages: [BP_Proyectiles_Basicos_H_C_19] Aplico daño disparo
+[2026.05.15-03.17.37:815][874]LogBlueprintUserMessages: [BPC_DamageSystem] No Damage
+[2026.05.15-03.17.41:705][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.17.41:705][  1]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.15-03.17.41:705][  1]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.15-03.17.41:706][  1]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.15-03.17.41:708][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.17.41:709][  1]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.15-03.17.41:720][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.15-03.17.41:739][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.15-03.17.41:781][  1]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.15-03.17.41:781][  1]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.05.15-03.17.41:781][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.05.15-03.17.41:784][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.05.15-03.17.41:799][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.15-03.17.41:805][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2026.05.15-03.17.41:885][  2]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2026.05.15-03.17.46:427][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.05.15-03.17.48:467][139]LogSlate: Window 'Save Content' being destroyed
+[2026.05.15-03.17.48:482][139]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.15-03.17.48:594][139]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/1/9Q/UEJVKGYH6A1EQKCXW7DEAB
+[2026.05.15-03.17.48:594][139]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/UEJVKGYH6A1EQKCXW7DEAB0A744B7C4366A340EA983A8CEE6B192A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/1/9Q/UEJVKGYH6A1EQKCXW7DEAB.uasset'
+[2026.05.15-03.17.48:618][139]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/8/IM/VNEB6T3JS0SP66L0ESFFP5
+[2026.05.15-03.17.48:619][139]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/VNEB6T3JS0SP66L0ESFFP5E422FA334331A9A0BD7A68B3E1F872DE.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/8/IM/VNEB6T3JS0SP66L0ESFFP5.uasset'
+[2026.05.15-03.17.48:630][139]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/C/M2/OWFSEZNYMAXL0TOD6W34M1
+[2026.05.15-03.17.48:630][139]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/OWFSEZNYMAXL0TOD6W34M14CB45D2649C268A87FD670BBD878834F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/C/M2/OWFSEZNYMAXL0TOD6W34M1.uasset'
+[2026.05.15-03.17.48:644][139]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/8/HS/73WS5LIK9NEPZ7IUL1DPVA
+[2026.05.15-03.17.48:645][139]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/73WS5LIK9NEPZ7IUL1DPVA1C02E79D401EB40B5596A299FE23727A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/__ExternalActors__/ThirdPerson/Lvl_HugoPrueba/8/HS/73WS5LIK9NEPZ7IUL1DPVA.uasset'
+[2026.05.15-03.17.48:660][139]LogFileHelpers: InternalPromptForCheckoutAndSave took 178.700 ms (total: 8.18 sec)
+[2026.05.15-03.17.48:754][139]LogContentValidation: Display: Starting to validate 4 assets
+[2026.05.15-03.17.48:754][139]LogContentValidation: Enabled validators:
+[2026.05.15-03.17.48:754][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.15-03.17.48:754][139]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.15-03.17.48:754][139]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.15-03.17.48:754][139]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.15-03.17.48:754][139]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.15-03.17.48:754][139]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.15-03.17.48:759][139]AssetCheck: /Game/ThirdPerson/Lvl_HugoPrueba Validating asset
+[2026.05.15-03.17.48:861][139]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/SourceControl/UncontrolledChangelists.json
