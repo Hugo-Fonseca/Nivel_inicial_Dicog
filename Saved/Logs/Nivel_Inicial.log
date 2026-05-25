@@ -2456,3 +2456,1394 @@ Make sure '/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon_C' 
 [2026.05.25-01.48.17:604][202]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.25-01.48.17:604][202]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.25-01.48.17:604][202]AssetCheck: /Game/ThirdPerson/Lvl_HugoPrueba Validating asset
+[2026.05.25-01.50.30:735][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2026.05.25-01.50.31:813][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-01.50.31:871][245]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-01.50.31:932][245]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-01.50.31:932][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-01.50.32:874][245]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-01.50.32:875][245]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon20B35E0F4BD9967F75B579A9B5EA289A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-01.50.32:894][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.08 sec (total: 5.40 sec)
+[2026.05.25-01.50.32:953][245]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-01.50.32:953][245]LogContentValidation: Enabled validators:
+[2026.05.25-01.50.32:953][245]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-01.50.32:953][245]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-01.50.32:953][245]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-01.50.32:953][245]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-01.50.32:953][245]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-01.50.32:953][245]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-01.50.32:953][245]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-01.50.37:754][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2026.05.25-01.50.38:445][477]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-01.50.38:516][477]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-01.50.38:538][477]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-01.50.38:538][477]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-01.50.38:571][477]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-01.50.38:572][477]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_GrikonC96CF81F40206271C4DC5F838231359B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-01.50.38:585][477]LogFileHelpers: InternalPromptForCheckoutAndSave took 140.464 ms (total: 5.54 sec)
+[2026.05.25-01.50.38:629][477]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-01.50.38:629][477]LogContentValidation: Enabled validators:
+[2026.05.25-01.50.38:630][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-01.50.38:630][477]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-01.50.38:630][477]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-01.50.38:630][477]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-01.50.38:630][477]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-01.50.38:630][477]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-01.50.38:630][477]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-01.51.12:126][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.05.25-01.51.17:706][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.05.25-01.51.18:285][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-01.51.18:358][348]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-01.51.18:393][348]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-01.51.18:394][348]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-01.51.18:431][348]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-01.51.18:432][348]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon2330D6DD47734902F88C4FA99D89E0DD.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-01.51.18:447][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.557 ms (total: 5.70 sec)
+[2026.05.25-01.51.18:507][348]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-01.51.18:507][348]LogContentValidation: Enabled validators:
+[2026.05.25-01.51.18:507][348]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-01.51.18:507][348]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-01.51.18:507][348]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-01.51.18:507][348]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-01.51.18:507][348]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-01.51.18:507][348]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-01.51.18:507][348]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-01.55.29:735][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.05.25-01.55.29:740][566]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_HugoPrueba' took 0.044
+[2026.05.25-01.55.29:740][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-01.55.29:761][566]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-01.55.29:761][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-01.55.29:797][566]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon_Auto6
+[2026.05.25-01.55.29:797][566]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon_Auto6D668A543495EB4C5F79F1582780F487E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/Autosaves/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon_Auto6.uasset'
+[2026.05.25-01.55.29:799][566]LogFileHelpers: Auto-saving content packages took 0.059
+[2026.05.25-01.58.34:245][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2026.05.25-01.58.34:877][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-01.58.34:943][655]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-01.58.35:051][655]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-01.58.35:051][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-01.58.35:095][655]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-01.58.35:096][655]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_GrikonE444F23A4DACCC4920DEDDAF46C9CA0E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-01.58.35:108][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 231.346 ms (total: 5.93 sec)
+[2026.05.25-01.58.35:177][655]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-01.58.35:177][655]LogContentValidation: Enabled validators:
+[2026.05.25-01.58.35:177][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-01.58.35:177][655]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-01.58.35:177][655]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-01.58.35:177][655]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-01.58.35:177][655]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-01.58.35:177][655]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-01.58.35:177][655]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-01.59.50:283][456]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\Unreal Projects\Videojuegos Final\Nivel_inicial_Dicog\Content\TestGame\Blueprints\Enemies\BP_Enemy_Grikon.uasset: [Compiler] The current value of the ' Delay Settings ' pin is invalid: 'Delay Settings' in action 'Set Delay Length' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2026.05.25-01.59.50:366][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.05.25-01.59.53:749][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.05.25-01.59.56:481][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-01.59.56:549][795]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-01.59.56:578][795]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-01.59.56:578][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-01.59.56:617][795]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-01.59.56:617][795]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon960BAD15422F5E2327EB9FBE81AEA61E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-01.59.56:630][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.420 ms (total: 6.08 sec)
+[2026.05.25-01.59.56:696][795]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-01.59.56:696][795]LogContentValidation: Enabled validators:
+[2026.05.25-01.59.56:696][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-01.59.56:696][795]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-01.59.56:696][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-01.59.56:696][795]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-01.59.56:696][795]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-01.59.56:696][795]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-01.59.56:696][795]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.05.04:878][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2026.05.25-02.05.06:428][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.05.06:493][407]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.05.06:625][407]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.05.06:625][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.05.06:663][407]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.05.06:664][407]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_GrikonECCACB7A472B2369189B2CB4132D7299.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.05.06:674][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 246.358 ms (total: 6.32 sec)
+[2026.05.25-02.05.06:724][407]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.05.06:724][407]LogContentValidation: Enabled validators:
+[2026.05.25-02.05.06:724][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.05.06:724][407]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.05.06:724][407]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.05.06:724][407]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.05.06:724][407]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.05.06:724][407]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.05.06:724][407]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.06.11:931][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.05.25-02.06.11:937][897]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_HugoPrueba' took 0.039
+[2026.05.25-02.06.11:938][897]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.06.11:966][897]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.06.11:966][897]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.06.12:009][897]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon_Auto7
+[2026.05.25-02.06.12:009][897]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon_Auto75BC29C1046AF620731F3F39B2ECD939D.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/Autosaves/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon_Auto7.uasset'
+[2026.05.25-02.06.12:010][897]LogFileHelpers: Auto-saving content packages took 0.074
+[2026.05.25-02.09.25:255][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.05.25-02.09.26:366][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.09.26:436][246]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.09.26:468][246]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.09.26:468][246]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.09.26:512][246]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.09.26:512][246]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon7294A5754AE494207104B8B9D97BC9C4.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.09.26:524][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.385 ms (total: 6.48 sec)
+[2026.05.25-02.09.26:601][246]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.09.26:601][246]LogContentValidation: Enabled validators:
+[2026.05.25-02.09.26:601][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.09.26:601][246]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.09.26:601][246]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.09.26:601][246]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.09.26:601][246]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.09.26:601][246]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.09.26:601][246]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.10.39:865][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.05.25-02.10.40:512][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.10.40:578][604]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.10.40:603][604]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.10.40:604][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.10.40:649][604]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.10.40:650][604]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon262AAC7345BE795975684CBA2E4A570F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.10.40:662][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.200 ms (total: 6.63 sec)
+[2026.05.25-02.10.40:728][604]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.10.40:728][604]LogContentValidation: Enabled validators:
+[2026.05.25-02.10.40:728][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.10.40:728][604]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.10.40:728][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.10.40:728][604]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.10.40:728][604]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.10.40:728][604]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.10.40:728][604]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.12.29:159][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2026.05.25-02.12.29:943][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.12.30:005][ 79]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.12.30:042][ 79]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.12.30:042][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.12.30:089][ 79]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.12.30:089][ 79]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon5553CCAE4518224C5E29F3A22B702B59.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.12.30:102][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.833 ms (total: 6.79 sec)
+[2026.05.25-02.12.30:169][ 79]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.12.30:169][ 79]LogContentValidation: Enabled validators:
+[2026.05.25-02.12.30:169][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.12.30:170][ 79]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.12.30:170][ 79]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.12.30:170][ 79]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.12.30:170][ 79]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.12.30:170][ 79]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.12.30:170][ 79]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.13.51:367][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2026.05.25-02.13.52:123][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.13.52:189][377]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.13.52:219][377]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.13.52:219][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.13.52:268][377]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.13.52:270][377]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_GrikonF40B4AF446F22FFEB98C73802462F05C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.13.52:282][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.874 ms (total: 6.95 sec)
+[2026.05.25-02.13.52:355][377]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.13.52:357][377]LogContentValidation: Enabled validators:
+[2026.05.25-02.13.52:357][377]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.13.52:357][377]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.13.52:357][377]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.13.52:357][377]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.13.52:357][377]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.13.52:357][377]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.13.52:357][377]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.13.54:285][439]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.25-02.13.54:313][439]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-02.13.54:313][439]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.25-02.13.54:316][439]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 3.445 ms (total: 28.621 ms)
+[2026.05.25-02.13.54:318][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.25-02.13.54:318][439]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.13.54:340][439]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-02.13.54:346][439]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.597 ms (total: 38.618 ms)
+[2026.05.25-02.13.54:346][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027708s)
+[2026.05.25-02.13.54:346][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.027800s)
+[2026.05.25-02.13.54:405][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.05.25-02.13.54:410][439]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.25-02.13.54:412][439]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-02.13.54:412][439]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-02.13.54:412][439]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-02.13.54:412][439]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-02.13.54:416][439]LogWorldPartition: Display: WorldPartition initialize took 3.471 ms (total: 3.42 sec)
+[2026.05.25-02.13.54:416][439]LogPlayLevel: PIE: World Init took: (0.005750s)
+[2026.05.25-02.13.54:416][439]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.05.25-02.13.54:417][439]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-02.13.54:417][439]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-02.13.54:417][439]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-02.13.54:417][439]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-02.13.54:417][439]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-02.13.54:417][439]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-02.13.54:417][439]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-02.13.54:417][439]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-02.13.54:417][439]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-02.13.54:417][439]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-02.13.54:417][439]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-02.13.54:420][439]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-02.13.54:452][439]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-02.13.54:452][439]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-02.13.54:452][439]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-02.13.54:452][439]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-02.13.54:453][439]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.05.25-02.13.54:453][439]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.05.25-02.13.54:456][439]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.05.25-02.13.54:456][439]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.05.25-02.13.54:456][439]LogInit: FAudioDevice initialized with ID 10.
+[2026.05.25-02.13.54:456][439]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lvl_HugoPrueba'.
+[2026.05.25-02.13.54:456][439]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.25-02.13.54:462][439]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-02.13.54:467][439]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.24-21.13.54
+[2026.05.25-02.13.54:469][439]LogWorld: Bringing up level for play took: 0.006663
+[2026.05.25-02.13.54:472][439]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2026.05.25-02.13.54:492][439]PIE: Server logged in
+[2026.05.25-02.13.54:494][439]PIE: Play in editor total start time 0,181 seconds.
+[2026.05.25-02.14.11:526][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.14.11:526][ 99]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.14.11:526][ 99]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.25-02.14.11:527][ 99]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-02.14.11:529][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.14.11:530][ 99]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.25-02.14.11:559][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-02.14.11:570][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.14.11:606][ 99]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.25-02.14.11:606][ 99]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.05.25-02.14.11:606][ 99]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2026.05.25-02.14.11:609][ 99]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2026.05.25-02.14.11:619][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.14.11:625][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.05.25-02.14.11:684][100]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2026.05.25-02.16.02:138][282]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\Unreal Projects\Videojuegos Final\Nivel_inicial_Dicog\Content\TestGame\Blueprints\Enemies\BP_Enemy_Grikon.uasset: [Compiler] Sphere Trace By Channel  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2026.05.25-02.16.02:146][282]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\Unreal Projects\Videojuegos Final\Nivel_inicial_Dicog\Content\TestGame\Blueprints\Enemies\BP_Enemy_Grikon.uasset: [Compiler] The current value of the ' Hit ' pin is invalid: 'Hit' in action 'Break Hit Result' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2026.05.25-02.16.02:233][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2026.05.25-02.16.11:459][762]LogBlueprint: Warning: [AssetLog] C:\Users\User\Documents\Unreal Projects\Videojuegos Final\Nivel_inicial_Dicog\Content\TestGame\Blueprints\Enemies\BP_Enemy_Grikon.uasset: [Compiler] Sphere Trace By Channel  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2026.05.25-02.16.11:466][762]LogBlueprint: Error: [AssetLog] C:\Users\User\Documents\Unreal Projects\Videojuegos Final\Nivel_inicial_Dicog\Content\TestGame\Blueprints\Enemies\BP_Enemy_Grikon.uasset: [Compiler] The current value of the ' Hit ' pin is invalid: 'Hit' in action 'Break Hit Result' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2026.05.25-02.16.11:549][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.05.25-02.16.28:972][732]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2026.05.25-02.16.30:093][800]LogEditorTransaction: Undo Break Pin Link
+[2026.05.25-02.17.54:028][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2026.05.25-02.17.56:904][539]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.17.56:947][539]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.17.56:977][539]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.17.56:977][539]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.17.57:028][539]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.17.57:029][539]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon1A81D7B6458604DF4E8C4BA1C6BE3400.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.17.57:041][539]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.058 ms (total: 7.09 sec)
+[2026.05.25-02.17.57:115][539]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.17.57:115][539]LogContentValidation: Enabled validators:
+[2026.05.25-02.17.57:115][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.17.57:115][539]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.17.57:115][539]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.17.57:115][539]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.17.57:115][539]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.17.57:115][539]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.17.57:115][539]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.17.58:582][588]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.25-02.17.58:609][588]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-02.17.58:609][588]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.25-02.17.58:612][588]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 2.771 ms (total: 31.392 ms)
+[2026.05.25-02.17.58:612][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.25-02.17.58:613][588]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.17.58:634][588]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-02.17.58:638][588]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.795 ms (total: 42.413 ms)
+[2026.05.25-02.17.58:638][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024826s)
+[2026.05.25-02.17.58:638][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.024926s)
+[2026.05.25-02.17.58:693][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.05.25-02.17.58:698][588]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.25-02.17.58:700][588]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-02.17.58:700][588]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-02.17.58:700][588]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-02.17.58:700][588]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-02.17.58:703][588]LogWorldPartition: Display: WorldPartition initialize took 3.497 ms (total: 3.43 sec)
+[2026.05.25-02.17.58:703][588]LogPlayLevel: PIE: World Init took: (0.005765s)
+[2026.05.25-02.17.58:704][588]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.05.25-02.17.58:704][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-02.17.58:704][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-02.17.58:704][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-02.17.58:704][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-02.17.58:704][588]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-02.17.58:704][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-02.17.58:704][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-02.17.58:704][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-02.17.58:704][588]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-02.17.58:704][588]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-02.17.58:704][588]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-02.17.58:708][588]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-02.17.58:735][588]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-02.17.58:736][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-02.17.58:736][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-02.17.58:736][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-02.17.58:737][588]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.05.25-02.17.58:737][588]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.05.25-02.17.58:740][588]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.05.25-02.17.58:740][588]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.05.25-02.17.58:740][588]LogInit: FAudioDevice initialized with ID 11.
+[2026.05.25-02.17.58:740][588]LogAudio: Display: Audio Device (ID: 11) registered with world 'Lvl_HugoPrueba'.
+[2026.05.25-02.17.58:740][588]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.05.25-02.17.58:749][588]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-02.17.58:756][588]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.24-21.17.58
+[2026.05.25-02.17.58:757][588]LogWorld: Bringing up level for play took: 0.006424
+[2026.05.25-02.17.58:760][588]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.05.25-02.17.58:771][588]PIE: Server logged in
+[2026.05.25-02.17.58:774][588]PIE: Play in editor total start time 0,165 seconds.
+[2026.05.25-02.18.13:638][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.18.13:638][156]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.18.13:638][156]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.25-02.18.13:639][156]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-02.18.13:642][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.18.13:642][156]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.25-02.18.13:672][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-02.18.13:682][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.18.13:719][156]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.25-02.18.13:719][156]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.05.25-02.18.13:719][156]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2026.05.25-02.18.13:722][156]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2026.05.25-02.18.13:731][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.18.13:737][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.05.25-02.18.13:799][157]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.05.25-02.18.21:344][401]LogSlate: Window 'BP_Enemy_Grikon' being destroyed
+[2026.05.25-02.18.31:580][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.05.25-02.18.32:456][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.05.25-02.18.33:010][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.18.33:083][953]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.18.33:092][953]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.18.33:093][953]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.18.33:143][953]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.18.33:143][953]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon3434D6BA47E423406CA36E8371ADBDA9.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.18.33:156][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.790 ms (total: 7.23 sec)
+[2026.05.25-02.18.33:229][953]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.18.33:230][953]LogContentValidation: Enabled validators:
+[2026.05.25-02.18.33:230][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.18.33:230][953]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.18.33:230][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.18.33:230][953]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.18.33:230][953]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.18.33:230][953]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.18.33:230][953]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.19.35:711][888]LogSlate: Window 'BP_Enemy_Grikon' being destroyed
+[2026.05.25-02.20.19:147][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.05.25-02.20.20:025][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.20.20:072][143]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.20.20:098][143]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.20.20:098][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.20.20:148][143]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.20.20:149][143]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon28EE9A8E48A544E389BC3D9DB920762B.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.20.20:162][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.173 ms (total: 7.37 sec)
+[2026.05.25-02.20.20:223][143]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.20.20:223][143]LogContentValidation: Enabled validators:
+[2026.05.25-02.20.20:223][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.20.20:223][143]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.20.20:223][143]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.20.20:223][143]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.20.20:223][143]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.20.20:223][143]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.20.20:223][143]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.20.23:646][278]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.25-02.20.23:675][278]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-02.20.23:675][278]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.25-02.20.23:678][278]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 2.539 ms (total: 33.931 ms)
+[2026.05.25-02.20.23:678][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.25-02.20.23:678][278]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.20.23:702][278]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-02.20.23:705][278]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.592 ms (total: 46.006 ms)
+[2026.05.25-02.20.23:707][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027462s)
+[2026.05.25-02.20.23:707][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.027572s)
+[2026.05.25-02.20.23:769][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.05.25-02.20.23:774][278]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.25-02.20.23:776][278]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-02.20.23:776][278]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-02.20.23:776][278]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-02.20.23:776][278]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-02.20.23:780][278]LogWorldPartition: Display: WorldPartition initialize took 3.511 ms (total: 3.43 sec)
+[2026.05.25-02.20.23:780][278]LogPlayLevel: PIE: World Init took: (0.005799s)
+[2026.05.25-02.20.23:781][278]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.05.25-02.20.23:781][278]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-02.20.23:781][278]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-02.20.23:781][278]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-02.20.23:781][278]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-02.20.23:781][278]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-02.20.23:781][278]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-02.20.23:781][278]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-02.20.23:781][278]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-02.20.23:781][278]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-02.20.23:781][278]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-02.20.23:781][278]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-02.20.23:784][278]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-02.20.23:813][278]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-02.20.23:813][278]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-02.20.23:813][278]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-02.20.23:813][278]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-02.20.23:814][278]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.05.25-02.20.23:814][278]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.05.25-02.20.23:817][278]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.05.25-02.20.23:817][278]LogInit: FAudioDevice initialized with ID 12.
+[2026.05.25-02.20.23:817][278]LogAudio: Display: Audio Device (ID: 12) registered with world 'Lvl_HugoPrueba'.
+[2026.05.25-02.20.23:817][278]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.05.25-02.20.23:817][278]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.05.25-02.20.23:824][278]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-02.20.23:830][278]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.24-21.20.23
+[2026.05.25-02.20.23:831][278]LogWorld: Bringing up level for play took: 0.006551
+[2026.05.25-02.20.23:834][278]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2026.05.25-02.20.23:844][278]PIE: Server logged in
+[2026.05.25-02.20.23:847][278]PIE: Play in editor total start time 0,172 seconds.
+[2026.05.25-02.20.30:267][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.20.30:267][520]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.20.30:267][520]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.25-02.20.30:268][520]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-02.20.30:270][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.20.30:271][520]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.25-02.20.30:294][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-02.20.30:304][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.20.30:340][520]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.25-02.20.30:340][520]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.05.25-02.20.30:340][520]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2026.05.25-02.20.30:342][520]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2026.05.25-02.20.30:349][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.20.30:355][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.05.25-02.20.30:412][521]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2026.05.25-02.20.35:090][671]LogSlate: Window 'BP_Enemy_Grikon' being destroyed
+[2026.05.25-02.20.49:607][438]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.25-02.20.49:633][438]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-02.20.49:633][438]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.25-02.20.49:636][438]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 2.617 ms (total: 36.549 ms)
+[2026.05.25-02.20.49:636][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.25-02.20.49:637][438]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.20.49:658][438]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-02.20.49:663][438]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.015 ms (total: 50.021 ms)
+[2026.05.25-02.20.49:664][438]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026238s)
+[2026.05.25-02.20.49:664][438]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.026329s)
+[2026.05.25-02.20.49:724][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.05.25-02.20.49:727][438]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.25-02.20.49:729][438]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-02.20.49:729][438]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-02.20.49:729][438]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-02.20.49:729][438]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-02.20.49:733][438]LogWorldPartition: Display: WorldPartition initialize took 3.403 ms (total: 3.43 sec)
+[2026.05.25-02.20.49:733][438]LogPlayLevel: PIE: World Init took: (0.005681s)
+[2026.05.25-02.20.49:734][438]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.05.25-02.20.49:734][438]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-02.20.49:734][438]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-02.20.49:734][438]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-02.20.49:734][438]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-02.20.49:734][438]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-02.20.49:734][438]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-02.20.49:734][438]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-02.20.49:734][438]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-02.20.49:734][438]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-02.20.49:734][438]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-02.20.49:734][438]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-02.20.49:737][438]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-02.20.49:764][438]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-02.20.49:764][438]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-02.20.49:764][438]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-02.20.49:764][438]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-02.20.49:765][438]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.05.25-02.20.49:765][438]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.05.25-02.20.49:768][438]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.05.25-02.20.49:768][438]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.05.25-02.20.49:768][438]LogInit: FAudioDevice initialized with ID 13.
+[2026.05.25-02.20.49:768][438]LogAudio: Display: Audio Device (ID: 13) registered with world 'Lvl_HugoPrueba'.
+[2026.05.25-02.20.49:768][438]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.05.25-02.20.49:773][438]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-02.20.49:779][438]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.24-21.20.49
+[2026.05.25-02.20.49:780][438]LogWorld: Bringing up level for play took: 0.006565
+[2026.05.25-02.20.49:784][438]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2026.05.25-02.20.49:794][438]PIE: Server logged in
+[2026.05.25-02.20.49:796][438]PIE: Play in editor total start time 0,164 seconds.
+[2026.05.25-02.20.56:858][696]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.05.25-02.21.02:471][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.21.02:471][924]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.21.02:471][924]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.25-02.21.02:472][924]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-02.21.02:474][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.21.02:474][924]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.25-02.21.02:507][924]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-02.21.02:517][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.21.02:550][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.21.02:552][924]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.05.25-02.21.02:552][924]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=4
+[2026.05.25-02.21.02:554][924]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13, StreamState=2
+[2026.05.25-02.21.02:570][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.05.25-02.21.02:626][925]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2026.05.25-02.21.43:823][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.05.25-02.21.44:964][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.21.45:041][275]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.21.45:087][275]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.21.45:087][275]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.21.45:139][275]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.21.45:140][275]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon44373C1B4645953F8050329F1629A0CA.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.21.45:154][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 189.807 ms (total: 7.56 sec)
+[2026.05.25-02.21.45:222][275]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.21.45:222][275]LogContentValidation: Enabled validators:
+[2026.05.25-02.21.45:222][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.21.45:222][275]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.21.45:222][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.21.45:222][275]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.21.45:222][275]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.21.45:222][275]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.21.45:222][275]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.21.46:686][319]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.25-02.21.46:710][319]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-02.21.46:710][319]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.25-02.21.46:712][319]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 1.990 ms (total: 38.539 ms)
+[2026.05.25-02.21.46:713][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.25-02.21.46:713][319]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.21.46:738][319]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-02.21.46:741][319]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.759 ms (total: 53.780 ms)
+[2026.05.25-02.21.46:742][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028100s)
+[2026.05.25-02.21.46:742][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.028222s)
+[2026.05.25-02.21.46:807][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.05.25-02.21.46:812][319]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.25-02.21.46:814][319]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-02.21.46:814][319]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-02.21.46:814][319]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-02.21.46:814][319]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-02.21.46:817][319]LogWorldPartition: Display: WorldPartition initialize took 3.624 ms (total: 3.44 sec)
+[2026.05.25-02.21.46:817][319]LogPlayLevel: PIE: World Init took: (0.005864s)
+[2026.05.25-02.21.46:818][319]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.05.25-02.21.46:818][319]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-02.21.46:818][319]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-02.21.46:818][319]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-02.21.46:818][319]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-02.21.46:818][319]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-02.21.46:818][319]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-02.21.46:818][319]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-02.21.46:818][319]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-02.21.46:818][319]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-02.21.46:818][319]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-02.21.46:818][319]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-02.21.46:821][319]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-02.21.46:850][319]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-02.21.46:850][319]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-02.21.46:850][319]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-02.21.46:850][319]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-02.21.46:851][319]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.05.25-02.21.46:852][319]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.05.25-02.21.46:855][319]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.05.25-02.21.46:855][319]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.05.25-02.21.46:855][319]LogInit: FAudioDevice initialized with ID 14.
+[2026.05.25-02.21.46:855][319]LogAudio: Display: Audio Device (ID: 14) registered with world 'Lvl_HugoPrueba'.
+[2026.05.25-02.21.46:855][319]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.05.25-02.21.46:862][319]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-02.21.46:869][319]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.24-21.21.46
+[2026.05.25-02.21.46:870][319]LogWorld: Bringing up level for play took: 0.006519
+[2026.05.25-02.21.46:873][319]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2026.05.25-02.21.46:884][319]PIE: Server logged in
+[2026.05.25-02.21.46:886][319]PIE: Play in editor total start time 0,176 seconds.
+[2026.05.25-02.21.52:197][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.21.52:198][513]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.21.52:198][513]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.25-02.21.52:198][513]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-02.21.52:202][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.21.52:202][513]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.25-02.21.52:235][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-02.21.52:246][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.21.52:280][513]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.25-02.21.52:281][513]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.05.25-02.21.52:281][513]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=4
+[2026.05.25-02.21.52:283][513]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14, StreamState=2
+[2026.05.25-02.21.52:292][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.21.52:298][513]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.05.25-02.21.52:360][514]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2026.05.25-02.21.55:573][626]Cmd: TRANSACTION UNDO
+[2026.05.25-02.21.55:582][626]LogEditorTransaction: Undo Break Pin Link
+[2026.05.25-02.21.55:955][628]Cmd: TRANSACTION UNDO
+[2026.05.25-02.21.55:955][628]LogEditorTransaction: Undo Create Pin Link
+[2026.05.25-02.21.56:515][640]Cmd: TRANSACTION UNDO
+[2026.05.25-02.21.56:515][640]LogEditorTransaction: Undo Move Node
+[2026.05.25-02.21.58:026][715]LogEditorTransaction: Undo Move Node
+[2026.05.25-02.22.25:610][826]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon without an associated node. The blueprint breakpoint has been removed
+[2026.05.25-02.22.25:610][826]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon without an associated node. The blueprint breakpoint has been removed
+[2026.05.25-02.22.27:557][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.22.27:632][938]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.22.27:680][938]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.22.27:680][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.22.27:728][938]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.22.27:729][938]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon97235C3D4B0E3AAD39747884C82123DF.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.22.27:740][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 183.223 ms (total: 7.74 sec)
+[2026.05.25-02.22.27:813][938]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.22.27:813][938]LogContentValidation: Enabled validators:
+[2026.05.25-02.22.27:813][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.22.27:813][938]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.22.27:813][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.22.27:813][938]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.22.27:813][938]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.22.27:813][938]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.22.27:813][938]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.22.45:741][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.05.25-02.22.48:486][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.22.48:527][124]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.22.48:550][124]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.22.48:550][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.22.48:602][124]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.22.48:603][124]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon41715BEA4AB9C71F3722D6958F2914F9.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.22.48:615][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 129.595 ms (total: 7.87 sec)
+[2026.05.25-02.22.48:675][124]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.22.48:675][124]LogContentValidation: Enabled validators:
+[2026.05.25-02.22.48:675][124]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.22.48:675][124]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.22.48:675][124]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.22.48:675][124]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.22.48:675][124]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.22.48:675][124]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.22.48:677][124]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.22.50:156][169]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.25-02.22.50:181][169]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-02.22.50:181][169]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.25-02.22.50:184][169]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 2.315 ms (total: 40.855 ms)
+[2026.05.25-02.22.50:185][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.25-02.22.50:185][169]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.22.50:209][169]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-02.22.50:213][169]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.907 ms (total: 58.688 ms)
+[2026.05.25-02.22.50:214][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028714s)
+[2026.05.25-02.22.50:214][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.028804s)
+[2026.05.25-02.22.50:276][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.05.25-02.22.50:281][169]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.25-02.22.50:283][169]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-02.22.50:283][169]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-02.22.50:283][169]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-02.22.50:283][169]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-02.22.50:286][169]LogWorldPartition: Display: WorldPartition initialize took 3.513 ms (total: 3.44 sec)
+[2026.05.25-02.22.50:286][169]LogPlayLevel: PIE: World Init took: (0.005941s)
+[2026.05.25-02.22.50:287][169]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.05.25-02.22.50:287][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-02.22.50:287][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-02.22.50:287][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-02.22.50:287][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-02.22.50:288][169]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-02.22.50:288][169]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-02.22.50:288][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-02.22.50:288][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-02.22.50:288][169]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-02.22.50:288][169]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-02.22.50:288][169]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-02.22.50:291][169]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-02.22.50:317][169]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-02.22.50:317][169]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-02.22.50:317][169]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-02.22.50:317][169]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-02.22.50:318][169]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.05.25-02.22.50:318][169]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.05.25-02.22.50:322][169]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.05.25-02.22.50:322][169]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.05.25-02.22.50:322][169]LogInit: FAudioDevice initialized with ID 15.
+[2026.05.25-02.22.50:322][169]LogAudio: Display: Audio Device (ID: 15) registered with world 'Lvl_HugoPrueba'.
+[2026.05.25-02.22.50:322][169]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.05.25-02.22.50:330][169]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-02.22.50:336][169]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.24-21.22.50
+[2026.05.25-02.22.50:337][169]LogWorld: Bringing up level for play took: 0.006364
+[2026.05.25-02.22.50:340][169]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2026.05.25-02.22.50:350][169]PIE: Server logged in
+[2026.05.25-02.22.50:354][169]PIE: Play in editor total start time 0,172 seconds.
+[2026.05.25-02.23.01:937][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.23.01:937][619]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.23.01:937][619]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.25-02.23.01:938][619]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-02.23.01:941][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.23.01:941][619]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.25-02.23.01:974][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-02.23.01:985][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.23.02:021][619]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.25-02.23.02:021][619]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.05.25-02.23.02:021][619]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2026.05.25-02.23.02:024][619]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2026.05.25-02.23.02:035][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.23.02:040][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2026.05.25-02.23.02:097][620]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2026.05.25-02.26.11:217][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2026.05.25-02.26.12:410][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.26.12:458][707]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.26.12:513][707]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.26.12:513][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.26.12:564][707]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.26.12:565][707]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_GrikonF82E909949C9EAFB8CD628AFF22712AE.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.26.12:578][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 166.173 ms (total: 8.04 sec)
+[2026.05.25-02.26.12:625][707]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.26.12:625][707]LogContentValidation: Enabled validators:
+[2026.05.25-02.26.12:625][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.26.12:625][707]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.26.12:625][707]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.26.12:625][707]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.26.12:625][707]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.26.12:625][707]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.26.12:625][707]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.26.14:330][754]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.25-02.26.14:359][754]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-02.26.14:359][754]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.25-02.26.14:362][754]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 3.077 ms (total: 43.933 ms)
+[2026.05.25-02.26.14:362][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.25-02.26.14:364][754]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.26.14:387][754]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-02.26.14:391][754]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.012 ms (total: 62.701 ms)
+[2026.05.25-02.26.14:392][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027840s)
+[2026.05.25-02.26.14:392][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.027957s)
+[2026.05.25-02.26.14:456][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.05.25-02.26.14:462][754]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.25-02.26.14:465][754]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-02.26.14:465][754]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-02.26.14:465][754]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-02.26.14:465][754]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-02.26.14:468][754]LogWorldPartition: Display: WorldPartition initialize took 3.519 ms (total: 3.44 sec)
+[2026.05.25-02.26.14:468][754]LogPlayLevel: PIE: World Init took: (0.005810s)
+[2026.05.25-02.26.14:469][754]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.05.25-02.26.14:469][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-02.26.14:469][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-02.26.14:469][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-02.26.14:469][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-02.26.14:469][754]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-02.26.14:469][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-02.26.14:469][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-02.26.14:469][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-02.26.14:469][754]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-02.26.14:469][754]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-02.26.14:469][754]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-02.26.14:473][754]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-02.26.14:501][754]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-02.26.14:501][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-02.26.14:501][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-02.26.14:501][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-02.26.14:501][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.05.25-02.26.14:501][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.05.25-02.26.14:505][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.05.25-02.26.14:505][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.05.25-02.26.14:505][754]LogInit: FAudioDevice initialized with ID 16.
+[2026.05.25-02.26.14:505][754]LogAudio: Display: Audio Device (ID: 16) registered with world 'Lvl_HugoPrueba'.
+[2026.05.25-02.26.14:505][754]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.05.25-02.26.14:511][754]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-02.26.14:517][754]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.24-21.26.14
+[2026.05.25-02.26.14:519][754]LogWorld: Bringing up level for play took: 0.007060
+[2026.05.25-02.26.14:521][754]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2026.05.25-02.26.14:533][754]PIE: Server logged in
+[2026.05.25-02.26.14:535][754]PIE: Play in editor total start time 0,176 seconds.
+[2026.05.25-02.26.20:826][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.26.20:826][987]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.26.20:826][987]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.25-02.26.20:828][987]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-02.26.20:831][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.26.20:831][987]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.25-02.26.20:865][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-02.26.20:875][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.26.20:909][987]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.25-02.26.20:909][987]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.05.25-02.26.20:909][987]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2026.05.25-02.26.20:912][987]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2026.05.25-02.26.20:918][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.26.20:925][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.05.25-02.26.20:984][988]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2026.05.25-02.26.28:460][258]LogSlate: Window 'BP_Enemy_Grikon' being destroyed
+[2026.05.25-02.27.00:318][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.05.25-02.27.01:517][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.27.01:580][ 81]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.27.01:622][ 81]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.27.01:622][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.27.01:668][ 81]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.27.01:669][ 81]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon7D4354B7421D5F2E50D5F8A253558713.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.27.01:681][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.624 ms (total: 8.20 sec)
+[2026.05.25-02.27.01:744][ 81]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.27.01:744][ 81]LogContentValidation: Enabled validators:
+[2026.05.25-02.27.01:744][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.27.01:744][ 81]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.27.01:744][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.27.01:744][ 81]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.27.01:744][ 81]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.27.01:744][ 81]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.27.01:744][ 81]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.27.03:149][130]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.25-02.27.03:178][130]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-02.27.03:179][130]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.25-02.27.03:182][130]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 3.000 ms (total: 46.933 ms)
+[2026.05.25-02.27.03:182][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.25-02.27.03:183][130]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.27.03:207][130]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-02.27.03:211][130]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.789 ms (total: 67.490 ms)
+[2026.05.25-02.27.03:211][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028620s)
+[2026.05.25-02.27.03:211][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.028738s)
+[2026.05.25-02.27.03:276][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2026.05.25-02.27.03:284][130]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.25-02.27.03:286][130]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-02.27.03:286][130]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-02.27.03:286][130]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-02.27.03:286][130]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-02.27.03:290][130]LogWorldPartition: Display: WorldPartition initialize took 4.018 ms (total: 3.45 sec)
+[2026.05.25-02.27.03:290][130]LogPlayLevel: PIE: World Init took: (0.006790s)
+[2026.05.25-02.27.03:291][130]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.05.25-02.27.03:291][130]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-02.27.03:291][130]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-02.27.03:291][130]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-02.27.03:291][130]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-02.27.03:291][130]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-02.27.03:291][130]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-02.27.03:291][130]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-02.27.03:291][130]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-02.27.03:291][130]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-02.27.03:291][130]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-02.27.03:291][130]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-02.27.03:295][130]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-02.27.03:322][130]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-02.27.03:323][130]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-02.27.03:323][130]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-02.27.03:323][130]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-02.27.03:323][130]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.05.25-02.27.03:323][130]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.05.25-02.27.03:327][130]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.05.25-02.27.03:327][130]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.05.25-02.27.03:327][130]LogInit: FAudioDevice initialized with ID 17.
+[2026.05.25-02.27.03:327][130]LogAudio: Display: Audio Device (ID: 17) registered with world 'Lvl_HugoPrueba'.
+[2026.05.25-02.27.03:327][130]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.05.25-02.27.03:333][130]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-02.27.03:339][130]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.24-21.27.03
+[2026.05.25-02.27.03:340][130]LogWorld: Bringing up level for play took: 0.006991
+[2026.05.25-02.27.03:343][130]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2026.05.25-02.27.03:355][130]PIE: Server logged in
+[2026.05.25-02.27.03:357][130]PIE: Play in editor total start time 0,179 seconds.
+[2026.05.25-02.27.09:562][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.27.09:564][354]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.27.09:564][354]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.25-02.27.09:565][354]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-02.27.09:567][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.27.09:567][354]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.25-02.27.09:609][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-02.27.09:620][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.27.09:656][354]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.25-02.27.09:656][354]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.05.25-02.27.09:656][354]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2026.05.25-02.27.09:659][354]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2026.05.25-02.27.09:668][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.27.09:674][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2026.05.25-02.27.09:742][355]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2026.05.25-02.27.38:351][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.05.25-02.27.39:127][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.27.39:191][384]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.27.39:231][384]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.27.39:231][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.27.39:279][384]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.27.39:281][384]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon645F977146933538915C20AFC1B0B17F.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.27.39:295][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.967 ms (total: 8.37 sec)
+[2026.05.25-02.27.39:356][384]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.27.39:356][384]LogContentValidation: Enabled validators:
+[2026.05.25-02.27.39:356][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.27.39:356][384]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.27.39:356][384]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.27.39:356][384]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.27.39:356][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.27.39:356][384]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.27.39:356][384]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.27.50:863][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.05.25-02.27.51:551][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.27.51:611][ 21]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.27.51:632][ 21]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.27.51:632][ 21]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.27.51:675][ 21]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.27.51:675][ 21]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_GrikonAAEF8AD5466FC9AD719CE9B07D99DA79.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.27.51:689][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.581 ms (total: 8.51 sec)
+[2026.05.25-02.27.51:763][ 21]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.27.51:763][ 21]LogContentValidation: Enabled validators:
+[2026.05.25-02.27.51:763][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.27.51:763][ 21]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.27.51:763][ 21]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.27.51:763][ 21]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.27.51:763][ 21]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.27.51:763][ 21]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.27.51:763][ 21]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.27.53:360][ 73]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.25-02.27.53:388][ 73]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-02.27.53:388][ 73]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.25-02.27.53:391][ 73]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 2.683 ms (total: 49.616 ms)
+[2026.05.25-02.27.53:392][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.25-02.27.53:392][ 73]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.27.53:416][ 73]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-02.27.53:422][ 73]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 4.272 ms (total: 71.763 ms)
+[2026.05.25-02.27.53:422][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029054s)
+[2026.05.25-02.27.53:422][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.029152s)
+[2026.05.25-02.27.53:485][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.05.25-02.27.53:493][ 73]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.25-02.27.53:495][ 73]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-02.27.53:495][ 73]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-02.27.53:495][ 73]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-02.27.53:495][ 73]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-02.27.53:499][ 73]LogWorldPartition: Display: WorldPartition initialize took 4.353 ms (total: 3.45 sec)
+[2026.05.25-02.27.53:499][ 73]LogPlayLevel: PIE: World Init took: (0.006889s)
+[2026.05.25-02.27.53:500][ 73]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.05.25-02.27.53:500][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-02.27.53:500][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-02.27.53:500][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-02.27.53:500][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-02.27.53:500][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-02.27.53:500][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-02.27.53:500][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-02.27.53:500][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-02.27.53:500][ 73]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-02.27.53:500][ 73]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-02.27.53:500][ 73]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-02.27.53:503][ 73]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-02.27.53:534][ 73]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-02.27.53:534][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-02.27.53:534][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-02.27.53:534][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-02.27.53:536][ 73]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.05.25-02.27.53:536][ 73]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.05.25-02.27.53:539][ 73]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.05.25-02.27.53:539][ 73]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.05.25-02.27.53:539][ 73]LogInit: FAudioDevice initialized with ID 18.
+[2026.05.25-02.27.53:539][ 73]LogAudio: Display: Audio Device (ID: 18) registered with world 'Lvl_HugoPrueba'.
+[2026.05.25-02.27.53:539][ 73]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.05.25-02.27.53:544][ 73]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-02.27.53:551][ 73]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.24-21.27.53
+[2026.05.25-02.27.53:552][ 73]LogWorld: Bringing up level for play took: 0.007887
+[2026.05.25-02.27.53:556][ 73]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2026.05.25-02.27.53:567][ 73]PIE: Server logged in
+[2026.05.25-02.27.53:569][ 73]PIE: Play in editor total start time 0,182 seconds.
+[2026.05.25-02.28.01:072][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.28.01:072][349]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.28.01:072][349]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.25-02.28.01:074][349]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-02.28.01:076][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.28.01:076][349]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.25-02.28.01:118][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-02.28.01:130][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.28.01:167][349]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.25-02.28.01:167][349]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.05.25-02.28.01:167][349]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=4
+[2026.05.25-02.28.01:170][349]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18, StreamState=2
+[2026.05.25-02.28.01:179][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.28.01:185][349]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2026.05.25-02.28.01:251][350]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2026.05.25-02.28.21:967][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.05.25-02.28.22:668][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.28.22:732][420]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.28.22:773][420]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.28.22:773][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.28.22:817][420]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.28.22:819][420]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_GrikonD7BF0EB544CC82A2BD5E0EB89567F93A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.28.22:834][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.912 ms (total: 8.67 sec)
+[2026.05.25-02.28.22:896][420]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.28.22:896][420]LogContentValidation: Enabled validators:
+[2026.05.25-02.28.22:896][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.28.22:896][420]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.28.22:896][420]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.28.22:896][420]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.28.22:896][420]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.28.22:896][420]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.28.22:896][420]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.28.55:480][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.05.25-02.28.56:383][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.28.56:449][358]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.28.56:469][358]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.28.56:469][358]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.28.56:515][358]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.28.56:516][358]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_GrikonFFACAD5041DA83B236E42DAB83BCCB96.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.28.56:529][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.930 ms (total: 8.82 sec)
+[2026.05.25-02.28.56:579][358]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.28.56:579][358]LogContentValidation: Enabled validators:
+[2026.05.25-02.28.56:579][358]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.28.56:579][358]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.28.56:579][358]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.28.56:579][358]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.28.56:579][358]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.28.56:579][358]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.28.56:580][358]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.28.58:844][440]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.25-02.28.58:868][440]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-02.28.58:868][440]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.25-02.28.58:870][440]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 2.699 ms (total: 52.316 ms)
+[2026.05.25-02.28.58:872][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.25-02.28.58:872][440]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.28.58:895][440]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-02.28.58:899][440]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.867 ms (total: 75.630 ms)
+[2026.05.25-02.28.58:900][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027303s)
+[2026.05.25-02.28.58:900][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.027394s)
+[2026.05.25-02.28.58:958][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.05.25-02.28.58:964][440]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.25-02.28.58:966][440]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-02.28.58:966][440]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-02.28.58:966][440]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-02.28.58:966][440]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-02.28.58:970][440]LogWorldPartition: Display: WorldPartition initialize took 3.503 ms (total: 3.46 sec)
+[2026.05.25-02.28.58:970][440]LogPlayLevel: PIE: World Init took: (0.005724s)
+[2026.05.25-02.28.58:971][440]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.05.25-02.28.58:971][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-02.28.58:971][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-02.28.58:971][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-02.28.58:971][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-02.28.58:971][440]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-02.28.58:971][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-02.28.58:971][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-02.28.58:971][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-02.28.58:971][440]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-02.28.58:971][440]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-02.28.58:971][440]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-02.28.58:974][440]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-02.28.58:999][440]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-02.28.59:000][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-02.28.59:000][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-02.28.59:000][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-02.28.59:000][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.05.25-02.28.59:000][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.05.25-02.28.59:004][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.05.25-02.28.59:004][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.05.25-02.28.59:004][440]LogInit: FAudioDevice initialized with ID 19.
+[2026.05.25-02.28.59:004][440]LogAudio: Display: Audio Device (ID: 19) registered with world 'Lvl_HugoPrueba'.
+[2026.05.25-02.28.59:004][440]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.05.25-02.28.59:012][440]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-02.28.59:018][440]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.24-21.28.59
+[2026.05.25-02.28.59:019][440]LogWorld: Bringing up level for play took: 0.006682
+[2026.05.25-02.28.59:023][440]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2026.05.25-02.28.59:033][440]PIE: Server logged in
+[2026.05.25-02.28.59:035][440]PIE: Play in editor total start time 0,167 seconds.
+[2026.05.25-02.29.05:775][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.29.05:775][697]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.29.05:775][697]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.25-02.29.05:775][697]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-02.29.05:778][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.29.05:778][697]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.25-02.29.05:807][697]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-02.29.05:817][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.29.05:850][697]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.25-02.29.05:850][697]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.05.25-02.29.05:850][697]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=4
+[2026.05.25-02.29.05:853][697]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19, StreamState=2
+[2026.05.25-02.29.05:862][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.29.05:868][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2026.05.25-02.29.05:927][698]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2026.05.25-02.29.38:178][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.05.25-02.29.38:829][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.29.38:888][669]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.29.38:931][669]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.29.38:931][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.29.38:977][669]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.29.38:977][669]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon7A40371D487BF0119F71288774EEB096.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.29.38:989][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.685 ms (total: 8.98 sec)
+[2026.05.25-02.29.39:072][669]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.29.39:073][669]LogContentValidation: Enabled validators:
+[2026.05.25-02.29.39:073][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.29.39:073][669]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.29.39:073][669]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.29.39:073][669]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.29.39:073][669]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.29.39:073][669]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.29.39:073][669]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.29.40:687][723]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.25-02.29.40:716][723]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-02.29.40:717][723]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.25-02.29.40:721][723]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 3.815 ms (total: 56.132 ms)
+[2026.05.25-02.29.40:722][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.25-02.29.40:723][723]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.29.40:744][723]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-02.29.40:747][723]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.715 ms (total: 79.346 ms)
+[2026.05.25-02.29.40:747][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025420s)
+[2026.05.25-02.29.40:748][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.025546s)
+[2026.05.25-02.29.40:802][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.05.25-02.29.40:807][723]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.25-02.29.40:809][723]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-02.29.40:809][723]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-02.29.40:809][723]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-02.29.40:809][723]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-02.29.40:813][723]LogWorldPartition: Display: WorldPartition initialize took 3.505 ms (total: 3.46 sec)
+[2026.05.25-02.29.40:813][723]LogPlayLevel: PIE: World Init took: (0.005883s)
+[2026.05.25-02.29.40:815][723]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2026.05.25-02.29.40:815][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-02.29.40:815][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-02.29.40:815][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-02.29.40:815][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-02.29.40:815][723]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-02.29.40:815][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-02.29.40:815][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-02.29.40:815][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-02.29.40:815][723]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-02.29.40:815][723]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-02.29.40:815][723]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-02.29.40:817][723]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-02.29.40:846][723]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-02.29.40:846][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-02.29.40:846][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-02.29.40:846][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-02.29.40:847][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2026.05.25-02.29.40:847][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2026.05.25-02.29.40:850][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2026.05.25-02.29.40:850][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2026.05.25-02.29.40:850][723]LogInit: FAudioDevice initialized with ID 20.
+[2026.05.25-02.29.40:850][723]LogAudio: Display: Audio Device (ID: 20) registered with world 'Lvl_HugoPrueba'.
+[2026.05.25-02.29.40:850][723]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2026.05.25-02.29.40:856][723]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-02.29.40:862][723]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.24-21.29.40
+[2026.05.25-02.29.40:864][723]LogWorld: Bringing up level for play took: 0.007200
+[2026.05.25-02.29.40:867][723]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2026.05.25-02.29.40:878][723]PIE: Server logged in
+[2026.05.25-02.29.40:881][723]PIE: Play in editor total start time 0,164 seconds.
+[2026.05.25-02.29.45:360][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.29.45:360][884]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.29.45:360][884]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.25-02.29.45:361][884]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-02.29.45:362][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.29.45:362][884]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.25-02.29.45:392][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-02.29.45:402][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.29.45:434][884]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.25-02.29.45:436][884]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2026.05.25-02.29.45:436][884]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=4
+[2026.05.25-02.29.45:438][884]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20, StreamState=2
+[2026.05.25-02.29.45:449][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.29.45:454][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.05.25-02.29.45:515][885]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2026.05.25-02.29.59:481][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2026.05.25-02.30.00:454][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.30.00:518][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.30.00:563][611]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.30.00:563][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.30.00:611][611]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.30.00:611][611]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon966ADF8C483F5E6CCD7D379ECAAEEA8C.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.30.00:624][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 170.239 ms (total: 9.15 sec)
+[2026.05.25-02.30.00:701][611]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.30.00:701][611]LogContentValidation: Enabled validators:
+[2026.05.25-02.30.00:701][611]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.30.00:701][611]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.30.00:701][611]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.30.00:701][611]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.30.00:701][611]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.30.00:701][611]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.30.00:701][611]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.30.02:720][687]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.25-02.30.02:745][687]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-02.30.02:745][687]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.25-02.30.02:747][687]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 2.470 ms (total: 58.602 ms)
+[2026.05.25-02.30.02:748][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.25-02.30.02:748][687]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.30.02:770][687]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-02.30.02:773][687]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.703 ms (total: 83.049 ms)
+[2026.05.25-02.30.02:774][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025552s)
+[2026.05.25-02.30.02:774][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.025629s)
+[2026.05.25-02.30.02:834][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.05.25-02.30.02:841][687]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.25-02.30.02:843][687]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-02.30.02:843][687]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-02.30.02:843][687]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-02.30.02:843][687]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-02.30.02:847][687]LogWorldPartition: Display: WorldPartition initialize took 3.537 ms (total: 3.46 sec)
+[2026.05.25-02.30.02:847][687]LogPlayLevel: PIE: World Init took: (0.005903s)
+[2026.05.25-02.30.02:847][687]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2026.05.25-02.30.02:848][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-02.30.02:848][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-02.30.02:848][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-02.30.02:848][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-02.30.02:848][687]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-02.30.02:848][687]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-02.30.02:848][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-02.30.02:848][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-02.30.02:848][687]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-02.30.02:848][687]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-02.30.02:848][687]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-02.30.02:850][687]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-02.30.02:877][687]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-02.30.02:878][687]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-02.30.02:878][687]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-02.30.02:878][687]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-02.30.02:878][687]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2026.05.25-02.30.02:878][687]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2026.05.25-02.30.02:881][687]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2026.05.25-02.30.02:881][687]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2026.05.25-02.30.02:881][687]LogInit: FAudioDevice initialized with ID 21.
+[2026.05.25-02.30.02:881][687]LogAudio: Display: Audio Device (ID: 21) registered with world 'Lvl_HugoPrueba'.
+[2026.05.25-02.30.02:883][687]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2026.05.25-02.30.02:888][687]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-02.30.02:894][687]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.24-21.30.02
+[2026.05.25-02.30.02:895][687]LogWorld: Bringing up level for play took: 0.006905
+[2026.05.25-02.30.02:898][687]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2026.05.25-02.30.02:909][687]PIE: Server logged in
+[2026.05.25-02.30.02:912][687]PIE: Play in editor total start time 0,167 seconds.
+[2026.05.25-02.30.09:221][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.30.09:222][920]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.30.09:222][920]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.25-02.30.09:223][920]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-02.30.09:225][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.30.09:225][920]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.25-02.30.09:257][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-02.30.09:267][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.30.09:302][920]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.25-02.30.09:302][920]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2026.05.25-02.30.09:302][920]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=4
+[2026.05.25-02.30.09:304][920]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21, StreamState=2
+[2026.05.25-02.30.09:313][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.30.09:320][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2026.05.25-02.30.09:380][921]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2026.05.25-02.30.38:604][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.05.25-02.30.39:769][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.30.39:830][912]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.30.39:870][912]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.30.39:870][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.30.39:916][912]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.30.39:917][912]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon887E4B154236131D34C14899683B8EE2.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.30.39:929][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.564 ms (total: 9.31 sec)
+[2026.05.25-02.30.39:995][912]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.30.39:995][912]LogContentValidation: Enabled validators:
+[2026.05.25-02.30.39:995][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.30.39:995][912]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.30.39:995][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.30.39:995][912]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.30.39:995][912]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.30.39:995][912]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.30.39:995][912]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.30.41:578][970]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.25-02.30.41:605][970]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-02.30.41:605][970]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.25-02.30.41:609][970]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 3.815 ms (total: 62.417 ms)
+[2026.05.25-02.30.41:610][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.25-02.30.41:611][970]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.30.41:631][970]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-02.30.41:637][970]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 5.199 ms (total: 88.248 ms)
+[2026.05.25-02.30.41:638][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026068s)
+[2026.05.25-02.30.41:638][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.026196s)
+[2026.05.25-02.30.41:697][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.05.25-02.30.41:702][970]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.25-02.30.41:704][970]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-02.30.41:704][970]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-02.30.41:704][970]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-02.30.41:704][970]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-02.30.41:708][970]LogWorldPartition: Display: WorldPartition initialize took 3.550 ms (total: 3.47 sec)
+[2026.05.25-02.30.41:708][970]LogPlayLevel: PIE: World Init took: (0.005816s)
+[2026.05.25-02.30.41:709][970]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2026.05.25-02.30.41:709][970]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-02.30.41:709][970]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-02.30.41:709][970]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-02.30.41:709][970]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-02.30.41:709][970]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-02.30.41:709][970]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-02.30.41:709][970]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-02.30.41:709][970]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-02.30.41:709][970]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-02.30.41:709][970]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-02.30.41:709][970]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-02.30.41:712][970]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-02.30.41:739][970]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-02.30.41:739][970]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-02.30.41:739][970]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-02.30.41:739][970]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-02.30.41:740][970]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2026.05.25-02.30.41:740][970]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2026.05.25-02.30.41:744][970]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2026.05.25-02.30.41:744][970]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2026.05.25-02.30.41:744][970]LogInit: FAudioDevice initialized with ID 22.
+[2026.05.25-02.30.41:744][970]LogAudio: Display: Audio Device (ID: 22) registered with world 'Lvl_HugoPrueba'.
+[2026.05.25-02.30.41:744][970]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2026.05.25-02.30.41:750][970]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-02.30.41:757][970]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.24-21.30.41
+[2026.05.25-02.30.41:758][970]LogWorld: Bringing up level for play took: 0.007806
+[2026.05.25-02.30.41:761][970]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2026.05.25-02.30.41:773][970]PIE: Server logged in
+[2026.05.25-02.30.41:776][970]PIE: Play in editor total start time 0,172 seconds.
+[2026.05.25-02.30.48:922][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.30.48:922][234]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.30.48:922][234]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.25-02.30.48:923][234]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-02.30.48:925][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.30.48:925][234]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.25-02.30.48:963][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-02.30.48:973][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.30.49:005][234]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.25-02.30.49:007][234]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2026.05.25-02.30.49:007][234]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2026.05.25-02.30.49:009][234]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2026.05.25-02.30.49:018][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.30.49:025][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2026.05.25-02.30.49:082][235]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2026.05.25-02.32.43:061][356]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2026.05.25-02.32.43:065][356]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_HugoPrueba' took 0.039
+[2026.05.25-02.32.43:066][356]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.32.43:066][356]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.32.43:112][356]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon_Auto8
+[2026.05.25-02.32.43:113][356]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon_Auto8FC75CCAB45EE4F733470609D923B4490.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/Autosaves/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon_Auto8.uasset'
+[2026.05.25-02.32.43:114][356]LogFileHelpers: Auto-saving content packages took 0.049
+[2026.05.25-02.33.54:036][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.05.25-02.33.54:596][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.33.54:670][479]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.33.54:722][479]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.33.54:723][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.33.54:772][479]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.33.54:772][479]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_GrikonCB8889F8426AADC3FD5B40835D6C5F2A.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.33.54:788][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.838 ms (total: 9.50 sec)
+[2026.05.25-02.33.54:835][479]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.33.54:835][479]LogContentValidation: Enabled validators:
+[2026.05.25-02.33.54:835][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.33.54:835][479]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.33.54:835][479]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.33.54:835][479]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.33.54:835][479]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.33.54:835][479]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.33.54:835][479]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.34.32:128][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.05.25-02.34.32:908][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.25-02.34.32:983][604]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon] ([2] browsable assets)...
+[2026.05.25-02.34.33:018][604]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon]
+[2026.05.25-02.34.33:018][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon]
+[2026.05.25-02.34.33:067][604]LogSavePackage: Moving output files for package: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon
+[2026.05.25-02.34.33:068][604]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Saved/BP_Enemy_Grikon04BC433740815A93AC23FBA6E3D175FE.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Videojuegos Final/Nivel_inicial_Dicog/Content/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.uasset'
+[2026.05.25-02.34.33:081][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.316 ms (total: 9.68 sec)
+[2026.05.25-02.34.33:132][604]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.25-02.34.33:132][604]LogContentValidation: Enabled validators:
+[2026.05.25-02.34.33:132][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.25-02.34.33:132][604]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.25-02.34.33:133][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.25-02.34.33:133][604]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.25-02.34.33:133][604]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.25-02.34.33:133][604]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.25-02.34.33:133][604]AssetCheck: /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon Validating asset
+[2026.05.25-02.34.42:084][833]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.25-02.34.42:109][833]LogContentBundle: [Lvl_HugoPrueba(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.25-02.34.42:109][833]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' started...
+[2026.05.25-02.34.42:112][833]LogWorldPartition: Display: GenerateStreaming for 'Lvl_HugoPrueba' took 1.926 ms (total: 64.344 ms)
+[2026.05.25-02.34.42:112][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.25-02.34.42:113][833]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.34.42:138][833]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.25-02.34.42:142][833]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.734 ms (total: 91.983 ms)
+[2026.05.25-02.34.42:142][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028503s)
+[2026.05.25-02.34.42:142][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_HugoPrueba.Lvl_HugoPrueba to /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba (0.028603s)
+[2026.05.25-02.34.42:205][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.05.25-02.34.42:211][833]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_HugoPrueba
+[2026.05.25-02.34.42:213][833]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_HugoPrueba)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.25-02.34.42:213][833]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.25-02.34.42:213][833]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.25-02.34.42:213][833]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.25-02.34.42:217][833]LogWorldPartition: Display: WorldPartition initialize took 3.456 ms (total: 3.47 sec)
+[2026.05.25-02.34.42:217][833]LogPlayLevel: PIE: World Init took: (0.005760s)
+[2026.05.25-02.34.42:219][833]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2026.05.25-02.34.42:219][833]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.25-02.34.42:219][833]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.25-02.34.42:219][833]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.25-02.34.42:219][833]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.25-02.34.42:219][833]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.25-02.34.42:219][833]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.25-02.34.42:219][833]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.25-02.34.42:219][833]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.25-02.34.42:219][833]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.25-02.34.42:219][833]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.25-02.34.42:219][833]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.25-02.34.42:221][833]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.25-02.34.42:255][833]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2026.05.25-02.34.42:256][833]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.25-02.34.42:256][833]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.25-02.34.42:256][833]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.25-02.34.42:257][833]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2026.05.25-02.34.42:257][833]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2026.05.25-02.34.42:262][833]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2026.05.25-02.34.42:262][833]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2026.05.25-02.34.42:262][833]LogInit: FAudioDevice initialized with ID 23.
+[2026.05.25-02.34.42:262][833]LogAudio: Display: Audio Device (ID: 23) registered with world 'Lvl_HugoPrueba'.
+[2026.05.25-02.34.42:262][833]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2026.05.25-02.34.42:274][833]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.25-02.34.42:280][833]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba up for play (max tick rate 60) at 2026.05.24-21.34.42
+[2026.05.25-02.34.42:281][833]LogWorld: Bringing up level for play took: 0.006538
+[2026.05.25-02.34.42:284][833]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2026.05.25-02.34.42:295][833]PIE: Server logged in
+[2026.05.25-02.34.42:298][833]PIE: Play in editor total start time 0,188 seconds.
+[2026.05.25-02.34.44:615][912]LogBlueprintUserMessages: [BP_Enemy_Grikon_C_UAID_E88088548EEC34DE02_2044847079] Ataque
+[2026.05.25-02.34.48:510][ 71]LogBlueprintUserMessages: [BP_Enemy_Grikon_C_UAID_E88088548EEC34DE02_2044847079] Ataque
+[2026.05.25-02.34.52:423][227]LogBlueprintUserMessages: [BP_Enemy_Grikon_C_UAID_E88088548EEC34DE02_2044847079] Ataque
+[2026.05.25-02.34.54:735][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.34.54:735][317]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba
+[2026.05.25-02.34.54:735][317]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.25-02.34.54:736][317]LogWorld: UWorld::CleanupWorld for Lvl_HugoPrueba, bSessionEnded=true, bCleanupResources=true
+[2026.05.25-02.34.54:737][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.34.54:738][317]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_HugoPrueba.Lvl_HugoPrueba
+[2026.05.25-02.34.54:777][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.25-02.34.54:787][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.25-02.34.54:824][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.05.25-02.34.54:825][317]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2026.05.25-02.34.54:825][317]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2026.05.25-02.34.54:827][317]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2026.05.25-02.34.54:837][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.25-02.34.54:843][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2026.05.25-02.34.54:902][318]LogPlayLevel: Display: Destroying online subsystem :Context_49
