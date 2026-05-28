@@ -1,0 +1,101 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+
+# Rider
+.idea/
+
+# Binaries
+Binaries/
+Plugins/*/Binaries/
+
+# Build files
+Build/
+
+# Intermediate files
+Intermediate/
+Plugins/*/Intermediate/
+
+# Saved files
+Saved/
+
+# Derived data cache
+DerivedDataCache/
+
+# Generated project files
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+*.DS_Store
+
+# Unreal auto-generated files
+*.generated.h
+*.gen.cpp
+
+# Logs
+*.log
+
+# Crash reports
+Crashes/
+
+# Local config
+*.tmp
+
+# Python cache
+__pycache__/
+
+# Ignore cooked content
+Saved/Cooked/
+Saved/StagedBuilds/
+
+# Ignore shader cache
+Saved/Shaders/
+
+# Ignore backup files
+*.bak
+*.backup
+
+# Ignore Windows thumbnails
+Thumbs.db
+
+# Ignore Mac files
+.DS_Store
+
+# Ignore JetBrains Rider cache
+.idea/
+
+# Ignore VSCode settings
+.vscode/
+
+# Git LFS lock files
+*.lock
+
+# Ignore autosaves
+Saved/Autosaves/
+
+# Ignore collections
+Saved/Collections/
+
+# Ignore material stats
+Saved/MaterialStats/
+
+# Ignore web cache
+Saved/webcache/
+
+# Ignore temporary Unreal files
+*.uatbuildrecord
+*.tmp
+
+# Keep these important folders
+!Source/
+!Config/
+!Content/
+!Plugins/
+
+# Keep uproject file
+!*.uproject
