@@ -5112,3 +5112,789 @@ FPackageName: Skipped package /Interchange/gltf/MaterialInstances/MI_Default_Opa
 [2026.06.02-16.51.00:386][629]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.06.02-16.51.00:386][629]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.06.02-16.51.00:388][629]AssetCheck: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua Validating asset
+[2026.06.02-16.55.10:067][625]Cmd: DELETE
+[2026.06.02-16.55.10:067][625]Cmd: ACTOR DELETE
+[2026.06.02-16.55.10:090][625]LogEditorActor: Deleted Actor: BP_Plataforma_C
+[2026.06.02-16.55.10:166][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.06.02-16.55.10:170][625]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2026.06.02-16.55.28:098][ 47]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_41
+[2026.06.02-16.55.28:150][ 48]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.06.02-16.55.31:600][123]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Dianas.BP_Dianas_C
+[2026.06.02-16.55.31:600][123]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Dianas.BP_Dianas_C
+[2026.06.02-16.55.31:603][123]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Dianas.BP_Dianas as actor: BP_Dianas_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Dianas_C_0
+[2026.06.02-16.55.31:606][123]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Dianas.BP_Dianas as actor: BP_Dianas_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Dianas_C_0
+[2026.06.02-16.55.33:234][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.02-16.55.33:239][161]LogEditorActor: Deleted 0 Actors (0.042 secs)
+[2026.06.02-16.55.33:252][161]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Dianas.BP_Dianas_C
+[2026.06.02-16.55.33:252][161]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Dianas.BP_Dianas_C
+[2026.06.02-16.55.33:257][161]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Dianas.BP_Dianas as actor: BP_Dianas_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Dianas_C_2
+[2026.06.02-16.55.33:261][161]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Dianas.BP_Dianas as actor: BP_Dianas_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Dianas_C_2
+[2026.06.02-16.55.35:680][215]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_PlataformaDianas.BP_PlataformaDianas_C
+[2026.06.02-16.55.35:680][215]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_PlataformaDianas.BP_PlataformaDianas_C
+[2026.06.02-16.55.35:683][215]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_PlataformaDianas.BP_PlataformaDianas as actor: BP_PlataformaDianas_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_PlataformaDianas_C_0
+[2026.06.02-16.55.35:686][215]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_PlataformaDianas.BP_PlataformaDianas as actor: BP_PlataformaDianas_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_PlataformaDianas_C_0
+[2026.06.02-16.55.37:655][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.06.02-16.55.37:658][259]LogEditorActor: Deleted 0 Actors (0.043 secs)
+[2026.06.02-16.55.37:675][259]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_PlataformaDianas.BP_PlataformaDianas_C
+[2026.06.02-16.55.37:675][259]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_PlataformaDianas.BP_PlataformaDianas_C
+[2026.06.02-16.55.37:678][259]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_PlataformaDianas.BP_PlataformaDianas as actor: BP_PlataformaDianas_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_PlataformaDianas_C_2
+[2026.06.02-16.55.37:682][259]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_PlataformaDianas.BP_PlataformaDianas as actor: BP_PlataformaDianas_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_PlataformaDianas_C_2
+[2026.06.02-17.00.22:037][ 70]LogStreaming: Display: FlushAsyncLoading(647): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.02-17.00.41:066][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.02-17.00.41:367][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2026.06.02-17.00.41:480][495]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua
+[2026.06.02-17.00.41:481][495]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Mapa_AguaF1FC8CBE4AF41F064709F6BE86DB1832.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_Agua.umap'
+[2026.06.02-17.00.41:563][495]LogFileHelpers: Saving map 'Mapa_Agua' took 0.369
+[2026.06.02-17.00.41:575][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 508.609 ms (total: 5.11 sec)
+[2026.06.02-17.00.41:648][495]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.02-17.00.41:648][495]LogContentValidation: Enabled validators:
+[2026.06.02-17.00.41:648][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.02-17.00.41:648][495]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.02-17.00.41:648][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.02-17.00.41:648][495]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.02-17.00.41:648][495]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.02-17.00.41:648][495]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.02-17.00.41:649][495]AssetCheck: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua Validating asset
+[2026.06.02-17.24.17:303][266]Cmd: DELETE
+[2026.06.02-17.24.17:303][266]Cmd: ACTOR DELETE
+[2026.06.02-17.24.17:330][266]LogEditorActor: Deleted Actor: BP_Plataforma_C
+[2026.06.02-17.24.17:492][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.06.02-17.24.17:497][266]LogEditorActor: Deleted 1 Actors (0.194 secs)
+[2026.06.02-17.24.34:354][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.02-17.24.34:554][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.06.02-17.24.34:669][752]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua
+[2026.06.02-17.24.34:669][752]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Mapa_Agua208081F246428127A910F3913A46F22E.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_Agua.umap'
+[2026.06.02-17.24.34:706][752]LogFileHelpers: Saving map 'Mapa_Agua' took 0.258
+[2026.06.02-17.24.34:717][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 363.451 ms (total: 5.47 sec)
+[2026.06.02-17.24.34:782][752]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.02-17.24.34:782][752]LogContentValidation: Enabled validators:
+[2026.06.02-17.24.34:782][752]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.02-17.24.34:782][752]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.02-17.24.34:782][752]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.02-17.24.34:782][752]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.02-17.24.34:782][752]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.02-17.24.34:782][752]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.02-17.24.34:783][752]AssetCheck: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua Validating asset
+[2026.06.02-17.24.44:185][ 20]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.06.02-17.25.01:546][337]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.06.02-17.25.33:411][167]LogStreaming: Display: FlushAsyncLoading(648): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.02-17.25.38:981][305]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_PisoAguaResbalozo.BP_PisoAguaResbalozo_C
+[2026.06.02-17.25.38:981][305]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_PisoAguaResbalozo.BP_PisoAguaResbalozo_C
+[2026.06.02-17.25.38:984][305]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_PisoAguaResbalozo.BP_PisoAguaResbalozo as actor: BP_PisoAguaResbalozo_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_PisoAguaResbalozo_C_33
+[2026.06.02-17.25.38:987][305]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_PisoAguaResbalozo.BP_PisoAguaResbalozo as actor: BP_PisoAguaResbalozo_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_PisoAguaResbalozo_C_33
+[2026.06.02-17.25.44:281][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.06.02-17.25.44:287][446]LogEditorActor: Deleted 0 Actors (0.047 secs)
+[2026.06.02-17.25.44:299][446]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_PisoAguaResbalozo.BP_PisoAguaResbalozo_C
+[2026.06.02-17.25.44:299][446]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_PisoAguaResbalozo.BP_PisoAguaResbalozo_C
+[2026.06.02-17.25.44:303][446]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_PisoAguaResbalozo.BP_PisoAguaResbalozo as actor: BP_PisoAguaResbalozo_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_PisoAguaResbalozo_C_34
+[2026.06.02-17.25.44:305][446]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_PisoAguaResbalozo.BP_PisoAguaResbalozo as actor: BP_PisoAguaResbalozo_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_PisoAguaResbalozo_C_34
+[2026.06.02-17.26.26:213][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.02-17.26.26:383][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.06.02-17.26.26:498][402]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua
+[2026.06.02-17.26.26:499][402]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Mapa_Agua47615BE24065DCD990050F8076C35236.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_Agua.umap'
+[2026.06.02-17.26.26:534][402]LogFileHelpers: Saving map 'Mapa_Agua' took 0.262
+[2026.06.02-17.26.26:545][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 331.076 ms (total: 5.80 sec)
+[2026.06.02-17.26.26:584][402]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.02-17.26.26:584][402]LogContentValidation: Enabled validators:
+[2026.06.02-17.26.26:584][402]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.02-17.26.26:584][402]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.02-17.26.26:584][402]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.02-17.26.26:584][402]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.02-17.26.26:584][402]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.02-17.26.26:584][402]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.02-17.26.26:584][402]AssetCheck: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua Validating asset
+[2026.06.02-17.26.58:874][257]Cmd: DUPLICATE
+[2026.06.02-17.26.58:874][257]Cmd: ACTOR DUPLICATE
+[2026.06.02-17.29.46:514][573]LogSlate: Window 'Color Picker' being destroyed
+[2026.06.02-17.31.07:238][586]Cmd: DUPLICATE
+[2026.06.02-17.31.07:238][586]Cmd: ACTOR DUPLICATE
+[2026.06.02-17.31.58:413][894]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.06.02-17.31.58:489][895]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2026.06.02-17.31.58:566][896]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_46
+[2026.06.02-17.31.58:651][897]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2026.06.02-17.32.01:732][972]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok_C
+[2026.06.02-17.32.01:733][972]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok_C
+[2026.06.02-17.32.01:771][972]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok as actor: BP_Enemy_TokPok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_TokPok_C_0
+[2026.06.02-17.32.01:783][972]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok as actor: BP_Enemy_TokPok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_TokPok_C_0
+[2026.06.02-17.32.03:912][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2026.06.02-17.32.03:918][ 24]LogEditorActor: Deleted 0 Actors (0.058 secs)
+[2026.06.02-17.32.03:927][ 24]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok_C
+[2026.06.02-17.32.03:927][ 24]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok_C
+[2026.06.02-17.32.03:959][ 24]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok as actor: BP_Enemy_TokPok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_TokPok_C_2
+[2026.06.02-17.32.03:995][ 24]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok as actor: BP_Enemy_TokPok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_TokPok_C_2
+[2026.06.02-17.32.05:140][ 26]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2026.06.02-17.32.09:005][125]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.32.09:005][125]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.32.09:025][125]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_0
+[2026.06.02-17.32.09:035][125]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_0
+[2026.06.02-17.32.09:764][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.06.02-17.32.09:768][140]LogEditorActor: Deleted 0 Actors (0.042 secs)
+[2026.06.02-17.32.09:777][140]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.32.09:777][140]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.32.09:797][140]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_4
+[2026.06.02-17.32.09:807][140]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_4
+[2026.06.02-17.32.46:114][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.02-17.32.46:341][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.06.02-17.32.46:458][114]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua
+[2026.06.02-17.32.46:459][114]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Mapa_Agua98C7D39F4D3C194E7CF90E9A182F6AEF.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_Agua.umap'
+[2026.06.02-17.32.46:496][114]LogFileHelpers: Saving map 'Mapa_Agua' took 0.265
+[2026.06.02-17.32.46:505][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 391.106 ms (total: 6.19 sec)
+[2026.06.02-17.32.46:562][114]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.02-17.32.46:562][114]LogContentValidation: Enabled validators:
+[2026.06.02-17.32.46:563][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.02-17.32.46:563][114]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.02-17.32.46:563][114]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.02-17.32.46:563][114]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.02-17.32.46:563][114]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.02-17.32.46:563][114]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.02-17.32.46:563][114]AssetCheck: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua Validating asset
+[2026.06.02-17.32.55:101][325]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.32.55:101][325]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.32.55:114][325]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_8
+[2026.06.02-17.32.55:124][325]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_8
+[2026.06.02-17.32.56:877][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.06.02-17.32.57:015][360]LogEditorActor: Deleted 0 Actors (0.178 secs)
+[2026.06.02-17.32.57:025][360]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.32.57:025][360]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.32.57:039][360]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_12
+[2026.06.02-17.32.57:050][360]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_12
+[2026.06.02-17.32.59:637][415]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.32.59:637][415]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.32.59:647][415]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_18
+[2026.06.02-17.32.59:656][415]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_18
+[2026.06.02-17.33.00:610][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.06.02-17.33.00:614][429]LogEditorActor: Deleted 0 Actors (0.046 secs)
+[2026.06.02-17.33.00:626][429]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.33.00:626][429]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.33.00:639][429]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_20
+[2026.06.02-17.33.00:649][429]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_20
+[2026.06.02-17.33.04:872][520]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.33.04:872][520]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.33.04:879][520]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_0
+[2026.06.02-17.33.04:884][520]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_0
+[2026.06.02-17.33.06:669][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.06.02-17.33.06:673][561]LogEditorActor: Deleted 0 Actors (0.043 secs)
+[2026.06.02-17.33.06:685][561]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.33.06:685][561]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.33.06:692][561]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_1
+[2026.06.02-17.33.06:696][561]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_1
+[2026.06.02-17.33.27:229][ 61]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.33.27:230][ 61]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.33.27:234][ 61]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_2
+[2026.06.02-17.33.27:238][ 61]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_2
+[2026.06.02-17.33.29:809][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.06.02-17.33.29:815][117]LogEditorActor: Deleted 0 Actors (0.044 secs)
+[2026.06.02-17.33.29:828][117]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.33.29:828][117]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.33.29:835][117]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_3
+[2026.06.02-17.33.29:838][117]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_3
+[2026.06.02-17.34.10:422][ 31]Cmd: DELETE
+[2026.06.02-17.34.10:422][ 31]Cmd: ACTOR DELETE
+[2026.06.02-17.34.10:448][ 31]LogEditorActor: Deleted Actor: BP_Enemy_Blastok_C
+[2026.06.02-17.34.10:535][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.06.02-17.34.10:542][ 31]LogEditorActor: Deleted 1 Actors (0.120 secs)
+[2026.06.02-17.34.15:399][132]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.34.15:399][132]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.34.15:403][132]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_4
+[2026.06.02-17.34.15:406][132]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_4
+[2026.06.02-17.34.17:028][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.06.02-17.34.17:033][168]LogEditorActor: Deleted 0 Actors (0.043 secs)
+[2026.06.02-17.34.17:049][168]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.34.17:049][168]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.34.17:056][168]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_5
+[2026.06.02-17.34.17:059][168]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_5
+[2026.06.02-17.34.26:702][373]Cmd: DELETE
+[2026.06.02-17.34.26:702][373]Cmd: ACTOR DELETE
+[2026.06.02-17.34.26:730][373]LogEditorActor: Deleted Actor: BP_Enemy_Blastok_C
+[2026.06.02-17.34.26:808][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2026.06.02-17.34.26:813][373]LogEditorActor: Deleted 1 Actors (0.110 secs)
+[2026.06.02-17.34.29:775][448]Cmd: TRANSACTION UNDO
+[2026.06.02-17.34.29:775][448]LogEditorTransaction: Undo Delete Elements
+[2026.06.02-17.34.31:511][483]Cmd: TRANSACTION UNDO
+[2026.06.02-17.34.31:511][483]LogEditorTransaction: Undo Move Elements
+[2026.06.02-17.34.32:300][501]Cmd: TRANSACTION UNDO
+[2026.06.02-17.34.32:300][501]LogEditorTransaction: Undo Place Objects
+[2026.06.02-17.34.33:036][519]Cmd: TRANSACTION UNDO
+[2026.06.02-17.34.33:037][519]LogEditorTransaction: Undo Delete Elements
+[2026.06.02-17.34.33:397][521]Cmd: TRANSACTION UNDO
+[2026.06.02-17.34.33:397][521]LogEditorTransaction: Undo Clicking on Elements
+[2026.06.02-17.34.33:785][524]Cmd: TRANSACTION UNDO
+[2026.06.02-17.34.33:785][524]LogEditorTransaction: Undo Scale Elements
+[2026.06.02-17.34.34:502][541]Cmd: TRANSACTION UNDO
+[2026.06.02-17.34.34:502][541]LogEditorTransaction: Undo Scale Elements
+[2026.06.02-17.34.35:116][557]Cmd: TRANSACTION UNDO
+[2026.06.02-17.34.35:116][557]LogEditorTransaction: Undo Scale Elements
+[2026.06.02-17.34.40:603][693]Cmd: DELETE
+[2026.06.02-17.34.40:603][693]Cmd: ACTOR DELETE
+[2026.06.02-17.34.40:635][693]LogEditorActor: Deleted Actor: BP_Enemy_Blastok_C
+[2026.06.02-17.34.40:705][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.06.02-17.34.40:711][693]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2026.06.02-17.34.43:943][771]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.34.43:943][771]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.34.43:948][771]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_6
+[2026.06.02-17.34.43:950][771]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_6
+[2026.06.02-17.34.45:690][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.06.02-17.34.45:695][812]LogEditorActor: Deleted 0 Actors (0.043 secs)
+[2026.06.02-17.34.45:708][812]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.34.45:708][812]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.34.45:715][812]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_7
+[2026.06.02-17.34.45:724][812]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_7
+[2026.06.02-17.34.49:742][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.02-17.34.49:983][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.06.02-17.34.50:113][909]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua
+[2026.06.02-17.34.50:114][909]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Mapa_AguaBB0510DF420B871CC5DB18906219C9DD.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_Agua.umap'
+[2026.06.02-17.34.50:150][909]LogFileHelpers: Saving map 'Mapa_Agua' took 0.273
+[2026.06.02-17.34.50:163][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 421.275 ms (total: 6.62 sec)
+[2026.06.02-17.34.50:224][909]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.02-17.34.50:224][909]LogContentValidation: Enabled validators:
+[2026.06.02-17.34.50:224][909]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.02-17.34.50:224][909]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.02-17.34.50:224][909]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.02-17.34.50:224][909]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.02-17.34.50:224][909]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.02-17.34.50:224][909]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.02-17.34.50:225][909]AssetCheck: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua Validating asset
+[2026.06.02-17.35.45:814][687]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.06.02-17.35.45:814][687]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.06.02-17.35.45:815][687]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.NavMeshBoundsVolume_7
+[2026.06.02-17.35.45:816][687]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.NavMeshBoundsVolume_7
+[2026.06.02-17.35.51:215][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.06.02-17.35.51:218][839]LogEditorActor: Deleted 0 Actors (0.055 secs)
+[2026.06.02-17.35.51:227][839]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.06.02-17.35.51:227][839]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.06.02-17.35.51:229][839]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.NavMeshBoundsVolume_8
+[2026.06.02-17.35.51:230][839]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.NavMeshBoundsVolume_8
+[2026.06.02-17.36.23:977][658]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon_C
+[2026.06.02-17.36.23:977][658]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon_C
+[2026.06.02-17.36.23:993][658]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon as actor: BP_Enemy_Grikon_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Grikon_C_0
+[2026.06.02-17.36.24:002][658]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon as actor: BP_Enemy_Grikon_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Grikon_C_0
+[2026.06.02-17.36.25:381][689]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon_C
+[2026.06.02-17.36.25:381][689]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon_C
+[2026.06.02-17.36.25:408][689]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon as actor: BP_Enemy_Grikon_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Grikon_C_1
+[2026.06.02-17.36.25:418][689]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon as actor: BP_Enemy_Grikon_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Grikon_C_1
+[2026.06.02-17.36.28:073][754]Cmd: TRANSACTION UNDO
+[2026.06.02-17.36.28:073][754]LogEditorTransaction: Undo Place Objects
+[2026.06.02-17.36.43:624][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.02-17.36.43:867][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.06.02-17.36.43:990][145]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua
+[2026.06.02-17.36.43:990][145]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Mapa_Agua3E07C7DB4613E5232992159DFCCCA412.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_Agua.umap'
+[2026.06.02-17.36.44:025][145]LogFileHelpers: Saving map 'Mapa_Agua' took 0.263
+[2026.06.02-17.36.44:035][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 411.569 ms (total: 7.03 sec)
+[2026.06.02-17.36.44:112][145]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.02-17.36.44:112][145]LogContentValidation: Enabled validators:
+[2026.06.02-17.36.44:112][145]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.02-17.36.44:112][145]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.02-17.36.44:112][145]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.02-17.36.44:112][145]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.02-17.36.44:112][145]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.02-17.36.44:112][145]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.02-17.36.44:113][145]AssetCheck: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua Validating asset
+[2026.06.02-17.37.57:370][848]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2026.06.02-17.37.58:746][872]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2026.06.02-17.38.03:938][991]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.38.03:938][991]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.38.03:940][991]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_2
+[2026.06.02-17.38.03:944][991]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_2
+[2026.06.02-17.38.05:208][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.06.02-17.38.05:338][ 16]LogEditorActor: Deleted 0 Actors (0.196 secs)
+[2026.06.02-17.38.05:351][ 16]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.38.05:351][ 16]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.38.05:355][ 16]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_4
+[2026.06.02-17.38.05:357][ 16]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_4
+[2026.06.02-17.38.11:306][148]Cmd: DELETE
+[2026.06.02-17.38.11:306][148]Cmd: ACTOR DELETE
+[2026.06.02-17.38.11:339][148]LogEditorActor: Deleted Actor: BotiquinHealth_C
+[2026.06.02-17.38.11:415][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2026.06.02-17.38.11:419][148]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2026.06.02-17.38.14:387][211]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.38.14:388][211]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.38.14:389][211]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_6
+[2026.06.02-17.38.14:393][211]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_6
+[2026.06.02-17.38.16:700][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.06.02-17.38.16:703][260]LogEditorActor: Deleted 0 Actors (0.038 secs)
+[2026.06.02-17.38.16:717][260]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.38.16:717][260]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.38.16:721][260]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_7
+[2026.06.02-17.38.16:723][260]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_7
+[2026.06.02-17.38.41:822][863]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.38.41:822][863]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.38.41:825][863]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_8
+[2026.06.02-17.38.41:828][863]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_8
+[2026.06.02-17.38.47:017][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.06.02-17.38.47:022][988]LogEditorActor: Deleted 0 Actors (0.046 secs)
+[2026.06.02-17.38.47:035][988]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.38.47:035][988]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.38.47:039][988]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_9
+[2026.06.02-17.38.47:041][988]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_9
+[2026.06.02-17.39.02:275][395]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.39.02:275][395]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.39.02:279][395]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_8
+[2026.06.02-17.39.02:282][395]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_8
+[2026.06.02-17.39.04:176][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.06.02-17.39.04:183][443]LogEditorActor: Deleted 0 Actors (0.046 secs)
+[2026.06.02-17.39.04:192][443]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.39.04:193][443]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.39.04:199][443]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_9
+[2026.06.02-17.39.04:202][443]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_9
+[2026.06.02-17.39.12:400][662]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.06.02-17.39.12:400][662]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.06.02-17.39.12:401][662]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.NavMeshBoundsVolume_9
+[2026.06.02-17.39.12:403][662]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.NavMeshBoundsVolume_9
+[2026.06.02-17.39.17:827][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.06.02-17.39.17:830][802]LogEditorActor: Deleted 0 Actors (0.050 secs)
+[2026.06.02-17.39.17:840][802]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.06.02-17.39.17:840][802]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.06.02-17.39.17:842][802]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.NavMeshBoundsVolume_10
+[2026.06.02-17.39.17:843][802]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.NavMeshBoundsVolume_10
+[2026.06.02-17.39.53:084][692]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.39.53:084][692]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.39.53:098][692]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_10
+[2026.06.02-17.39.53:101][692]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_10
+[2026.06.02-17.39.54:435][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.06.02-17.39.54:440][719]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2026.06.02-17.39.54:452][719]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.39.54:452][719]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.39.54:459][719]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_11
+[2026.06.02-17.39.54:462][719]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_11
+[2026.06.02-17.41.36:090][999]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.06.02-17.41.36:090][999]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.06.02-17.41.36:091][999]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.NavMeshBoundsVolume_11
+[2026.06.02-17.41.36:092][999]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.NavMeshBoundsVolume_11
+[2026.06.02-17.41.37:873][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2026.06.02-17.41.37:877][ 24]LogEditorActor: Deleted 0 Actors (0.047 secs)
+[2026.06.02-17.41.37:910][ 24]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.06.02-17.41.37:910][ 24]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.06.02-17.41.37:913][ 24]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.NavMeshBoundsVolume_12
+[2026.06.02-17.41.37:914][ 24]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.NavMeshBoundsVolume_12
+[2026.06.02-17.42.10:817][682]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok_C
+[2026.06.02-17.42.10:817][682]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok_C
+[2026.06.02-17.42.10:835][682]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok as actor: BP_Enemy_TokPok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_TokPok_C_3
+[2026.06.02-17.42.10:845][682]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok as actor: BP_Enemy_TokPok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_TokPok_C_3
+[2026.06.02-17.42.12:532][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.06.02-17.42.12:538][710]LogEditorActor: Deleted 0 Actors (0.047 secs)
+[2026.06.02-17.42.12:567][710]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok_C
+[2026.06.02-17.42.12:568][710]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok_C
+[2026.06.02-17.42.12:586][710]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok as actor: BP_Enemy_TokPok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_TokPok_C_4
+[2026.06.02-17.42.12:596][710]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok as actor: BP_Enemy_TokPok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_TokPok_C_4
+[2026.06.02-17.42.22:358][912]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon_C
+[2026.06.02-17.42.22:358][912]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon_C
+[2026.06.02-17.42.22:371][912]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon as actor: BP_Enemy_Grikon_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Grikon_C_2
+[2026.06.02-17.42.22:380][912]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon as actor: BP_Enemy_Grikon_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Grikon_C_2
+[2026.06.02-17.42.23:538][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.06.02-17.42.23:543][933]LogEditorActor: Deleted 0 Actors (0.046 secs)
+[2026.06.02-17.42.23:571][933]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon_C
+[2026.06.02-17.42.23:571][933]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon_C
+[2026.06.02-17.42.23:587][933]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon as actor: BP_Enemy_Grikon_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Grikon_C_3
+[2026.06.02-17.42.23:596][933]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Grikon.BP_Enemy_Grikon as actor: BP_Enemy_Grikon_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Grikon_C_3
+[2026.06.02-17.42.25:109][963]Cmd: DELETE
+[2026.06.02-17.42.25:109][963]Cmd: ACTOR DELETE
+[2026.06.02-17.42.25:147][963]LogEditorActor: Deleted Actor: BP_Enemy_Grikon_C
+[2026.06.02-17.42.25:213][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.06.02-17.42.25:219][963]LogEditorActor: Deleted 1 Actors (0.109 secs)
+[2026.06.02-17.42.30:599][ 75]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.42.30:599][ 75]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.42.30:613][ 75]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_12
+[2026.06.02-17.42.30:616][ 75]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_12
+[2026.06.02-17.42.32:010][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2026.06.02-17.42.32:015][104]LogEditorActor: Deleted 0 Actors (0.040 secs)
+[2026.06.02-17.42.32:044][104]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.42.32:045][104]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.42.32:052][104]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_13
+[2026.06.02-17.42.32:055][104]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_13
+[2026.06.02-17.42.42:624][308]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.42.42:624][308]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.42.42:639][308]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_14
+[2026.06.02-17.42.42:643][308]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_14
+[2026.06.02-17.42.44:105][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.06.02-17.42.44:111][336]LogEditorActor: Deleted 0 Actors (0.052 secs)
+[2026.06.02-17.42.44:143][336]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.42.44:143][336]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok_C
+[2026.06.02-17.42.44:150][336]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_15
+[2026.06.02-17.42.44:153][336]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Blastok.BP_Enemy_Blastok as actor: BP_Enemy_Blastok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Blastok_C_15
+[2026.06.02-17.43.00:099][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.02-17.43.00:350][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.06.02-17.43.00:490][680]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua
+[2026.06.02-17.43.00:491][680]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Mapa_Agua829AC33343ED7899C9D05AB3CE8CD4EA.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_Agua.umap'
+[2026.06.02-17.43.00:526][680]LogFileHelpers: Saving map 'Mapa_Agua' took 0.284
+[2026.06.02-17.43.00:538][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 440.093 ms (total: 7.47 sec)
+[2026.06.02-17.43.00:606][680]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.02-17.43.00:606][680]LogContentValidation: Enabled validators:
+[2026.06.02-17.43.00:606][680]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.02-17.43.00:606][680]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.02-17.43.00:606][680]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.02-17.43.00:606][680]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.02-17.43.00:606][680]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.02-17.43.00:606][680]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.02-17.43.00:608][680]AssetCheck: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua Validating asset
+[2026.06.02-17.43.47:134][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.02-17.43.47:231][233]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Progresion/DT_ProgressionStep] ([1] browsable assets)...
+[2026.06.02-17.43.47:231][233]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Progresion/DT_ProgressionStep]
+[2026.06.02-17.43.47:244][233]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Progresion/DT_ProgressionStep
+[2026.06.02-17.43.47:245][233]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/DT_ProgressionStep224A38354D01DFC102930EB25D48EFE7.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Progresion/DT_ProgressionStep.uasset'
+[2026.06.02-17.43.47:258][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.154 ms (total: 7.59 sec)
+[2026.06.02-17.43.47:331][233]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.02-17.43.47:331][233]LogContentValidation: Enabled validators:
+[2026.06.02-17.43.47:331][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.02-17.43.47:331][233]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.02-17.43.47:331][233]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.02-17.43.47:331][233]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.02-17.43.47:331][233]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.02-17.43.47:331][233]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.02-17.43.47:332][233]AssetCheck: /Game/ThirdPerson/Progresion/DT_ProgressionStep Validating asset
+[2026.06.02-17.43.56:259][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.02-17.43.56:322][601]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Progresion/DT_ProgressionStep] ([1] browsable assets)...
+[2026.06.02-17.43.56:322][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Progresion/DT_ProgressionStep]
+[2026.06.02-17.43.56:326][601]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Progresion/DT_ProgressionStep
+[2026.06.02-17.43.56:326][601]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/DT_ProgressionStep94144CF84A6AB2ADF04A01864B467233.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Progresion/DT_ProgressionStep.uasset'
+[2026.06.02-17.43.56:338][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.773 ms (total: 7.67 sec)
+[2026.06.02-17.43.56:405][601]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.02-17.43.56:405][601]LogContentValidation: Enabled validators:
+[2026.06.02-17.43.56:405][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.02-17.43.56:405][601]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.02-17.43.56:405][601]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.02-17.43.56:405][601]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.02-17.43.56:405][601]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.02-17.43.56:406][601]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.02-17.43.56:406][601]AssetCheck: /Game/ThirdPerson/Progresion/DT_ProgressionStep Validating asset
+[2026.06.02-17.44.14:602][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.02-17.44.14:822][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.06.02-17.44.14:969][ 38]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua
+[2026.06.02-17.44.14:969][ 38]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Mapa_Agua2F014CB04B430E329515C2BE2ABBE945.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_Agua.umap'
+[2026.06.02-17.44.15:006][ 38]LogFileHelpers: Saving map 'Mapa_Agua' took 0.287
+[2026.06.02-17.44.15:016][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 415.411 ms (total: 8.09 sec)
+[2026.06.02-17.44.15:066][ 38]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.02-17.44.15:066][ 38]LogContentValidation: Enabled validators:
+[2026.06.02-17.44.15:066][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.02-17.44.15:066][ 38]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.02-17.44.15:066][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.02-17.44.15:067][ 38]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.02-17.44.15:067][ 38]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.02-17.44.15:067][ 38]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.02-17.44.15:067][ 38]AssetCheck: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua Validating asset
+[2026.06.02-17.44.31:077][414]LogDerivedDataCache: C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.02-17.45.25:262][664]Cmd: DUPLICATE
+[2026.06.02-17.45.25:262][664]Cmd: ACTOR DUPLICATE
+[2026.06.02-17.46.04:479][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.02-17.46.04:716][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2026.06.02-17.46.04:849][497]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua
+[2026.06.02-17.46.04:849][497]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Mapa_Agua408FE8BA43659FFC422B4DA7EF0E2FB0.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_Agua.umap'
+[2026.06.02-17.46.04:884][497]LogFileHelpers: Saving map 'Mapa_Agua' took 0.272
+[2026.06.02-17.46.04:895][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 416.344 ms (total: 8.50 sec)
+[2026.06.02-17.46.04:960][497]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.02-17.46.04:960][497]LogContentValidation: Enabled validators:
+[2026.06.02-17.46.04:960][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.02-17.46.04:960][497]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.02-17.46.04:960][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.02-17.46.04:960][497]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.02-17.46.04:960][497]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.02-17.46.04:960][497]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.02-17.46.04:961][497]AssetCheck: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua Validating asset
+[2026.06.02-17.46.40:911][355]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok_C
+[2026.06.02-17.46.40:911][355]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok_C
+[2026.06.02-17.46.40:926][355]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok as actor: BP_Enemy_TokPok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_TokPok_C_5
+[2026.06.02-17.46.40:944][355]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok as actor: BP_Enemy_TokPok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_TokPok_C_5
+[2026.06.02-17.46.45:528][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.06.02-17.46.45:535][443]LogEditorActor: Deleted 0 Actors (0.049 secs)
+[2026.06.02-17.46.45:549][443]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok_C
+[2026.06.02-17.46.45:549][443]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok_C
+[2026.06.02-17.46.45:565][443]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok as actor: BP_Enemy_TokPok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_TokPok_C_6
+[2026.06.02-17.46.45:575][443]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_TokPok.BP_Enemy_TokPok as actor: BP_Enemy_TokPok_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_TokPok_C_6
+[2026.06.02-17.46.48:909][514]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.46.48:909][514]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.46.48:918][514]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_22
+[2026.06.02-17.46.48:929][514]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_22
+[2026.06.02-17.46.49:685][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2026.06.02-17.46.49:689][524]LogEditorActor: Deleted 0 Actors (0.042 secs)
+[2026.06.02-17.46.49:701][524]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.46.49:701][524]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.46.49:715][524]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_24
+[2026.06.02-17.46.49:725][524]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_24
+[2026.06.02-17.46.55:374][645]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.46.55:374][645]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.46.55:385][645]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_26
+[2026.06.02-17.46.55:396][645]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_26
+[2026.06.02-17.46.56:411][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.06.02-17.46.56:417][662]LogEditorActor: Deleted 0 Actors (0.042 secs)
+[2026.06.02-17.46.56:430][662]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.46.56:430][662]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base_C
+[2026.06.02-17.46.56:443][662]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_30
+[2026.06.02-17.46.56:453][662]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Enemies/BP_Enemy_Base.BP_Enemy_Base as actor: BP_Enemy_Base_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_Enemy_Base_C_30
+[2026.06.02-17.47.19:960][166]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.47.19:960][166]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.47.19:962][166]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_10
+[2026.06.02-17.47.19:966][166]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_10
+[2026.06.02-17.47.22:481][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2026.06.02-17.47.22:608][216]LogEditorActor: Deleted 0 Actors (0.166 secs)
+[2026.06.02-17.47.22:624][216]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.47.22:624][216]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.47.22:628][216]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_11
+[2026.06.02-17.47.22:632][216]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_11
+[2026.06.02-17.47.25:740][274]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.47.25:740][274]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.47.25:743][274]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_12
+[2026.06.02-17.47.25:746][274]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_12
+[2026.06.02-17.47.29:833][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.06.02-17.47.29:838][357]LogEditorActor: Deleted 0 Actors (0.044 secs)
+[2026.06.02-17.47.29:853][357]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.47.29:854][357]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.47.29:858][357]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_13
+[2026.06.02-17.47.29:860][357]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_13
+[2026.06.02-17.47.35:143][462]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.47.35:143][462]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.47.35:146][462]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_14
+[2026.06.02-17.47.35:149][462]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_14
+[2026.06.02-17.47.40:606][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.06.02-17.47.40:610][576]LogEditorActor: Deleted 0 Actors (0.042 secs)
+[2026.06.02-17.47.40:625][576]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.47.40:625][576]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth_C
+[2026.06.02-17.47.40:629][576]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_15
+[2026.06.02-17.47.40:633][576]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BotiquinHealth.BotiquinHealth as actor: BotiquinHealth_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BotiquinHealth_C_15
+[2026.06.02-17.48.04:549][108]Cmd: DUPLICATE
+[2026.06.02-17.48.04:549][108]Cmd: ACTOR DUPLICATE
+[2026.06.02-17.48.38:908][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.02-17.48.39:114][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.06.02-17.48.39:252][816]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua
+[2026.06.02-17.48.39:253][816]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Mapa_Agua2373E85F49CC98B67FBC979DE9712437.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_Agua.umap'
+[2026.06.02-17.48.39:289][816]LogFileHelpers: Saving map 'Mapa_Agua' took 0.279
+[2026.06.02-17.48.39:300][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 392.129 ms (total: 8.90 sec)
+[2026.06.02-17.48.39:372][816]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.02-17.48.39:372][816]LogContentValidation: Enabled validators:
+[2026.06.02-17.48.39:372][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.02-17.48.39:372][816]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.02-17.48.39:372][816]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.02-17.48.39:372][816]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.02-17.48.39:372][816]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.02-17.48.39:372][816]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.02-17.48.39:373][816]AssetCheck: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua Validating asset
+[2026.06.02-17.48.52:439][ 90]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies.BP_PuertaEnemies_C
+[2026.06.02-17.48.52:439][ 90]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies.BP_PuertaEnemies_C
+[2026.06.02-17.48.52:442][ 90]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies.BP_PuertaEnemies as actor: BP_PuertaEnemies_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_PuertaEnemies_C_0
+[2026.06.02-17.48.52:445][ 90]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies.BP_PuertaEnemies as actor: BP_PuertaEnemies_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_PuertaEnemies_C_0
+[2026.06.02-17.48.56:576][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2026.06.02-17.48.56:580][182]LogEditorActor: Deleted 0 Actors (0.044 secs)
+[2026.06.02-17.48.56:594][182]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies.BP_PuertaEnemies_C
+[2026.06.02-17.48.56:595][182]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies.BP_PuertaEnemies_C
+[2026.06.02-17.48.56:596][182]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies.BP_PuertaEnemies as actor: BP_PuertaEnemies_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_PuertaEnemies_C_2
+[2026.06.02-17.48.56:598][182]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_PuertaEnemies.BP_PuertaEnemies as actor: BP_PuertaEnemies_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_PuertaEnemies_C_2
+[2026.06.02-17.50.31:584][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.02-17.50.31:647][ 41]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Progresion/DT_ProgressionStep] ([1] browsable assets)...
+[2026.06.02-17.50.31:648][ 41]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Progresion/DT_ProgressionStep]
+[2026.06.02-17.50.31:659][ 41]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Progresion/DT_ProgressionStep
+[2026.06.02-17.50.31:660][ 41]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/DT_ProgressionStep1904C3974EA526A18720FCA19EF2FD77.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Progresion/DT_ProgressionStep.uasset'
+[2026.06.02-17.50.31:672][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.572 ms (total: 8.98 sec)
+[2026.06.02-17.50.31:745][ 41]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.02-17.50.31:745][ 41]LogContentValidation: Enabled validators:
+[2026.06.02-17.50.31:745][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.02-17.50.31:745][ 41]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.02-17.50.31:745][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.02-17.50.31:745][ 41]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.02-17.50.31:745][ 41]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.02-17.50.31:745][ 41]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.02-17.50.31:746][ 41]AssetCheck: /Game/ThirdPerson/Progresion/DT_ProgressionStep Validating asset
+[2026.06.02-17.51.16:952][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.02-17.51.17:213][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2026.06.02-17.51.17:346][ 36]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua
+[2026.06.02-17.51.17:347][ 36]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Mapa_Agua7590A4954C579004AE22CDBD5BDC9891.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_Agua.umap'
+[2026.06.02-17.51.17:383][ 36]LogFileHelpers: Saving map 'Mapa_Agua' took 0.281
+[2026.06.02-17.51.17:395][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 443.184 ms (total: 9.43 sec)
+[2026.06.02-17.51.17:466][ 36]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.02-17.51.17:468][ 36]LogContentValidation: Enabled validators:
+[2026.06.02-17.51.17:468][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.02-17.51.17:468][ 36]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.02-17.51.17:468][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.02-17.51.17:468][ 36]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.02-17.51.17:468][ 36]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.02-17.51.17:468][ 36]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.02-17.51.17:468][ 36]AssetCheck: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua Validating asset
+[2026.06.02-17.51.30:693][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.06.02-17.51.30:878][321]LogStall: Shutdown...
+[2026.06.02-17.51.30:878][321]LogStall: Shutdown complete.
+[2026.06.02-17.51.31:060][321]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.31:062][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.31:396][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.02-17.51.31:396][321]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.31:396][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.31:734][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.02-17.51.31:734][321]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.31:734][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.31:978][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.02-17.51.31:979][321]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.31:979][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.32:238][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.02-17.51.32:238][321]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.32:240][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.32:450][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.02-17.51.32:450][321]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.32:450][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.32:638][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.02-17.51.32:640][321]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.32:640][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.32:828][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.02-17.51.32:828][321]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.32:828][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.33:045][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.02-17.51.33:045][321]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.33:045][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.33:276][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.02-17.51.33:276][321]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.33:276][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.33:474][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.02-17.51.33:474][321]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.33:474][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.33:633][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.02-17.51.33:633][321]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.33:633][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.33:807][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.02-17.51.33:807][321]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.33:807][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.33:968][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.02-17.51.33:968][321]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.33:968][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.34:114][321]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.02-17.51.34:115][321]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.34:115][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.34:264][321]LogSlate: Window 'Nivel_Inicial - Unreal Editor' being destroyed
+[2026.06.02-17.51.35:253][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2026.06.02-17.51.35:305][321]Cmd: QUIT_EDITOR
+[2026.06.02-17.51.35:305][322]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.06.02-17.51.35:343][322]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.06.02-17.51.35:350][322]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.06.02-17.51.35:350][322]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.06.02-17.51.35:438][322]LogWorld: UWorld::CleanupWorld for Mapa_Agua, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:438][322]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.02-17.51.35:438][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:607][322]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.06.02-17.51.35:617][322]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.06.02-17.51.35:653][322]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.06.02-17.51.35:781][322]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:782][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:788][322]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:788][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:793][322]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:793][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:799][322]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:799][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:805][322]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:805][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:810][322]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:810][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:816][322]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:816][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:822][322]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:822][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:827][322]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:827][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:834][322]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:834][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:839][322]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:839][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:843][322]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:843][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:850][322]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:850][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:855][322]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:855][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:860][322]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:860][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:865][322]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:865][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:871][322]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:872][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:878][322]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:879][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:886][322]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:886][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:894][322]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:894][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:901][322]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:901][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:906][322]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:906][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:911][322]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:911][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:916][322]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:917][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:921][322]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:921][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:926][322]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:926][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:931][322]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:931][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:936][322]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:936][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:941][322]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:942][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:946][322]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:948][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:952][322]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:952][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:956][322]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:956][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:962][322]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:962][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:967][322]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:967][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:983][322]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:983][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.35:989][322]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.06.02-17.51.35:989][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.02-17.51.36:039][322]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.06.02-17.51.36:043][322]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.06.02-17.51.36:073][322]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.06.02-17.51.36:863][322]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.06.02-17.51.36:863][322]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.06.02-17.51.36:864][322]LogAudio: Display: Audio Device unregistered from world 'Mapa_Agua'.
+[2026.06.02-17.51.36:864][322]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.06.02-17.51.36:865][322]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.06.02-17.51.36:871][322]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.06.02-17.51.36:939][322]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.06.02-17.51.36:940][322]LogAudio: Display: Audio Device Manager Shutdown
+[2026.06.02-17.51.36:949][322]LogWindowsTextInputMethodSystem: Activated input method: Español (Colombia) - (Keyboard).
+[2026.06.02-17.51.36:980][322]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.06.02-17.51.36:984][322]LogExit: Preparing to exit.
+[2026.06.02-17.51.37:311][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2026.06.02-17.51.37:322][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:335][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.37:345][322]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.02-17.51.38:464][322]LogEditorDataStorage: Deinitializing
+[2026.06.02-17.51.39:566][322]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.06.02-17.51.40:178][322]LogExit: Editor shut down
+[2026.06.02-17.51.40:275][322]LogExit: Transaction tracking system shut down
+[2026.06.02-17.51.43:812][322]LogExit: Object subsystem successfully closed.
+[2026.06.02-17.51.43:930][322]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.06.02-17.51.45:566][322]LogMemoryProfiler: Shutdown
+[2026.06.02-17.51.45:568][322]LogNetworkingProfiler: Shutdown
+[2026.06.02-17.51.45:568][322]LoadingProfiler: Shutdown
+[2026.06.02-17.51.45:570][322]LogTimingProfiler: Shutdown
+[2026.06.02-17.51.45:607][322]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.06.02-17.51.45:608][322]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.06.02-17.51.51:411][322]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.06.02-17.51.51:433][322]RenderDocPlugin: plugin has been unloaded.
+[2026.06.02-17.51.51:572][322]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.06.02-17.51.51:572][322]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6BA4120A-4C4E-E5B0-EDF0-83AA11FE3246%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=953a307a402ac84c8b8acfa4add27c66%7C357b3cbff17c4c14bcee9434bd772e88%7C9a4ab650-f32f-4b7c-aa03-0d71afadb5e5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.06.02-17.51.51:845][322]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.06.02-17.51.51:870][322]LogNFORDenoise: NFORDenoise function shutting down
+[2026.06.02-17.51.51:997][322]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.06.02-17.51.51:997][322]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.06.02-17.51.51:997][322]LogPakFile: Destroying PakPlatformFile
+[2026.06.02-17.51.52:520][322]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.06.02-17.51.52:675][322]LogExit: Exiting.
+[2026.06.02-17.51.52:770][322]Log file closed, 06/02/26 12:51:52
