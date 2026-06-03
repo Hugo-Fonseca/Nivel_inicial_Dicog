@@ -2428,3 +2428,295 @@ FPackageName: Skipped package /Interchange/gltf/MaterialInstances/MI_Default_Opa
 [2026.06.03-12.46.31:628][893]LogHttp: Warning: 00000170F9233100: libcurl info message cache 9 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
 [2026.06.03-12.46.31:628][893]LogHttp: Warning: 00000170F9233100: libcurl info message cache 10 (closing connection #41)
 [2026.06.03-12.46.31:628][893]LogHttp: Warning: 00000170F9233100 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAE27039-4D6E-971A-AD2A-63815062C56A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=953a307a402ac84c8b8acfa4add27c66%7C357b3cbff17c4c14bcee9434bd772e88%7C9a4ab650-f32f-4b7c-aa03-0d71afadb5e5&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.15s
+[2026.06.03-12.47.31:134][485]LogHttp: Warning: 00000170F9239300: request failed, libcurl error: 35 (SSL connect error)
+[2026.06.03-12.47.31:135][485]LogHttp: Warning: 00000170F9239300: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2026.06.03-12.47.31:135][485]LogHttp: Warning: 00000170F9239300: libcurl info message cache 1 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.06.03-12.47.31:135][485]LogHttp: Warning: 00000170F9239300: libcurl info message cache 2 (IPv6: (none))
+[2026.06.03-12.47.31:135][485]LogHttp: Warning: 00000170F9239300: libcurl info message cache 3 (IPv4: 54.210.81.242, 34.203.15.245, 54.83.53.44, 100.28.107.214, 3.94.155.232, 54.174.170.30, 34.230.185.62, 44.208.102.57)
+[2026.06.03-12.47.31:135][485]LogHttp: Warning: 00000170F9239300: libcurl info message cache 4 (  Trying 54.210.81.242:443...)
+[2026.06.03-12.47.31:135][485]LogHttp: Warning: 00000170F9239300: libcurl info message cache 5 (ALPN: curl offers http/1.1)
+[2026.06.03-12.47.31:135][485]LogHttp: Warning: 00000170F9239300: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.06.03-12.47.31:135][485]LogHttp: Warning: 00000170F9239300: libcurl info message cache 7 (Recv failure: Connection was reset)
+[2026.06.03-12.47.31:135][485]LogHttp: Warning: 00000170F9239300: libcurl info message cache 8 (TLS connect error: error:00000000:lib(0):func(0):reason(0))
+[2026.06.03-12.47.31:135][485]LogHttp: Warning: 00000170F9239300: libcurl info message cache 9 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2026.06.03-12.47.31:135][486]LogHttp: Warning: 00000170F9239300: libcurl info message cache 10 (closing connection #42)
+[2026.06.03-12.47.31:135][486]LogHttp: Warning: 00000170F9239300 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAE27039-4D6E-971A-AD2A-63815062C56A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=953a307a402ac84c8b8acfa4add27c66%7C357b3cbff17c4c14bcee9434bd772e88%7C9a4ab650-f32f-4b7c-aa03-0d71afadb5e5&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.12s
+[2026.06.03-12.47.44:550][849]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterTrapZone.BP_WaterTrapZone_C
+[2026.06.03-12.47.44:550][849]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterTrapZone.BP_WaterTrapZone_C
+[2026.06.03-12.47.44:554][849]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterTrapZone.BP_WaterTrapZone as actor: BP_WaterTrapZone_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterTrapZone_C_0
+[2026.06.03-12.47.44:557][849]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterTrapZone.BP_WaterTrapZone as actor: BP_WaterTrapZone_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterTrapZone_C_0
+[2026.06.03-12.47.44:564][849]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.06.03-12.47.46:932][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2026.06.03-12.47.46:935][913]LogEditorActor: Deleted 0 Actors (0.101 secs)
+[2026.06.03-12.47.46:950][913]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterTrapZone.BP_WaterTrapZone_C
+[2026.06.03-12.47.46:950][913]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterTrapZone.BP_WaterTrapZone_C
+[2026.06.03-12.47.46:953][913]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterTrapZone.BP_WaterTrapZone as actor: BP_WaterTrapZone_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterTrapZone_C_2
+[2026.06.03-12.47.46:956][913]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterTrapZone.BP_WaterTrapZone as actor: BP_WaterTrapZone_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterTrapZone_C_2
+[2026.06.03-12.48.09:602][548]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1_C
+[2026.06.03-12.48.09:602][548]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1_C
+[2026.06.03-12.48.09:606][548]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1 as actor: BP_WaterPillar1_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterPillar1_C_0
+[2026.06.03-12.48.09:612][548]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1 as actor: BP_WaterPillar1_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterPillar1_C_0
+[2026.06.03-12.48.11:295][602]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2026.06.03-12.48.11:302][602]LogEditorActor: Deleted 0 Actors (0.055 secs)
+[2026.06.03-12.48.11:313][602]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1_C
+[2026.06.03-12.48.11:314][602]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1_C
+[2026.06.03-12.48.11:319][602]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1 as actor: BP_WaterPillar1_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterPillar1_C_1
+[2026.06.03-12.48.11:324][602]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1 as actor: BP_WaterPillar1_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterPillar1_C_1
+[2026.06.03-12.48.14:249][687]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1_C
+[2026.06.03-12.48.14:249][687]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1_C
+[2026.06.03-12.48.14:253][687]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1 as actor: BP_WaterPillar1_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterPillar1_C_3
+[2026.06.03-12.48.14:259][687]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1 as actor: BP_WaterPillar1_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterPillar1_C_3
+[2026.06.03-12.48.16:526][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2026.06.03-12.48.16:532][758]LogEditorActor: Deleted 0 Actors (0.052 secs)
+[2026.06.03-12.48.16:543][758]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1_C
+[2026.06.03-12.48.16:544][758]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1_C
+[2026.06.03-12.48.16:549][758]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1 as actor: BP_WaterPillar1_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterPillar1_C_5
+[2026.06.03-12.48.16:555][758]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1 as actor: BP_WaterPillar1_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterPillar1_C_5
+[2026.06.03-12.48.21:159][887]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1_C
+[2026.06.03-12.48.21:159][887]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1_C
+[2026.06.03-12.48.21:163][887]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1 as actor: BP_WaterPillar1_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterPillar1_C_7
+[2026.06.03-12.48.21:167][887]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1 as actor: BP_WaterPillar1_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterPillar1_C_7
+[2026.06.03-12.48.22:485][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2026.06.03-12.48.22:491][911]LogEditorActor: Deleted 0 Actors (0.063 secs)
+[2026.06.03-12.48.22:981][934]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1_C
+[2026.06.03-12.48.22:981][934]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1_C
+[2026.06.03-12.48.22:986][934]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1 as actor: BP_WaterPillar1_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterPillar1_C_9
+[2026.06.03-12.48.22:991][934]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1 as actor: BP_WaterPillar1_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterPillar1_C_9
+[2026.06.03-12.48.23:639][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.06.03-12.48.23:642][949]LogEditorActor: Deleted 0 Actors (0.059 secs)
+[2026.06.03-12.48.23:657][949]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1_C
+[2026.06.03-12.48.23:657][949]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1_C
+[2026.06.03-12.48.23:665][949]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1 as actor: BP_WaterPillar1_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterPillar1_C_11
+[2026.06.03-12.48.23:672][949]LogActorFactory: Actor Factory spawned Blueprint /Game/TestGame/Blueprints/Interactables/BP_WaterPillar1.BP_WaterPillar1 as actor: BP_WaterPillar1_C /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua.Mapa_Agua:PersistentLevel.BP_WaterPillar1_C_11
+[2026.06.03-12.48.31:115][171]LogHttp: Warning: 00000170F2211500: request failed, libcurl error: 35 (SSL connect error)
+[2026.06.03-12.48.31:115][171]LogHttp: Warning: 00000170F2211500: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2026.06.03-12.48.31:115][171]LogHttp: Warning: 00000170F2211500: libcurl info message cache 1 (  Trying 54.210.81.242:443...)
+[2026.06.03-12.48.31:115][171]LogHttp: Warning: 00000170F2211500: libcurl info message cache 2 (ALPN: curl offers http/1.1)
+[2026.06.03-12.48.31:115][171]LogHttp: Warning: 00000170F2211500: libcurl info message cache 3 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.06.03-12.48.31:115][171]LogHttp: Warning: 00000170F2211500: libcurl info message cache 4 (Recv failure: Connection was reset)
+[2026.06.03-12.48.31:115][171]LogHttp: Warning: 00000170F2211500: libcurl info message cache 5 (TLS connect error: error:00000000:lib(0):func(0):reason(0))
+[2026.06.03-12.48.31:116][171]LogHttp: Warning: 00000170F2211500: libcurl info message cache 6 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2026.06.03-12.48.31:116][171]LogHttp: Warning: 00000170F2211500: libcurl info message cache 7 (closing connection #43)
+[2026.06.03-12.48.31:116][171]LogHttp: Warning: 00000170F2211500 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAE27039-4D6E-971A-AD2A-63815062C56A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=953a307a402ac84c8b8acfa4add27c66%7C357b3cbff17c4c14bcee9434bd772e88%7C9a4ab650-f32f-4b7c-aa03-0d71afadb5e5&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.09s
+[2026.06.03-12.49.31:131][214]LogHttp: Warning: 000001707932AF00: request failed, libcurl error: 35 (SSL connect error)
+[2026.06.03-12.49.31:131][214]LogHttp: Warning: 000001707932AF00: libcurl info message cache 0 (Host datarouter.ol.epicgames.com:443 was resolved.)
+[2026.06.03-12.49.31:131][214]LogHttp: Warning: 000001707932AF00: libcurl info message cache 1 (IPv6: (none))
+[2026.06.03-12.49.31:131][214]LogHttp: Warning: 000001707932AF00: libcurl info message cache 2 (IPv4: 100.31.225.147, 52.20.124.242, 44.208.42.215, 44.214.27.181, 3.222.1.37, 34.237.231.56, 67.202.42.97, 52.201.25.51)
+[2026.06.03-12.49.31:131][214]LogHttp: Warning: 000001707932AF00: libcurl info message cache 3 (  Trying 100.31.225.147:443...)
+[2026.06.03-12.49.31:131][215]LogHttp: Warning: 000001707932AF00: libcurl info message cache 4 (ALPN: curl offers http/1.1)
+[2026.06.03-12.49.31:133][215]LogHttp: Warning: 000001707932AF00: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.06.03-12.49.31:133][215]LogHttp: Warning: 000001707932AF00: libcurl info message cache 6 (Recv failure: Connection was reset)
+[2026.06.03-12.49.31:133][215]LogHttp: Warning: 000001707932AF00: libcurl info message cache 7 (TLS connect error: error:00000000:lib(0):func(0):reason(0))
+[2026.06.03-12.49.31:133][215]LogHttp: Warning: 000001707932AF00: libcurl info message cache 8 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2026.06.03-12.49.31:133][215]LogHttp: Warning: 000001707932AF00: libcurl info message cache 9 (closing connection #44)
+[2026.06.03-12.49.31:133][215]LogHttp: Warning: 000001707932AF00 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAE27039-4D6E-971A-AD2A-63815062C56A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=953a307a402ac84c8b8acfa4add27c66%7C357b3cbff17c4c14bcee9434bd772e88%7C9a4ab650-f32f-4b7c-aa03-0d71afadb5e5&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.12s
+[2026.06.03-12.49.50:728][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.03-12.49.50:962][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2026.06.03-12.49.51:346][813]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua
+[2026.06.03-12.49.51:347][813]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Mapa_AguaF97557BD49CCE201AB420EA8F050FEA6.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_Agua.umap'
+[2026.06.03-12.49.51:415][813]LogFileHelpers: Saving map 'Mapa_Agua' took 0.636
+[2026.06.03-12.49.51:429][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 701.105 ms (total: 15.1 sec)
+[2026.06.03-12.49.51:515][813]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.03-12.49.51:515][813]LogContentValidation: Enabled validators:
+[2026.06.03-12.49.51:515][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.03-12.49.51:515][813]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.03-12.49.51:515][813]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.03-12.49.51:515][813]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.03-12.49.51:515][813]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.03-12.49.51:515][813]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.03-12.49.51:516][813]AssetCheck: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua Validating asset
+[2026.06.03-12.50.15:440][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.03-12.50.15:680][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.06.03-12.50.15:947][577]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua
+[2026.06.03-12.50.15:948][577]LogSavePackage: Moving '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Saved/Mapa_Agua7D6DBD50449A984BD6CA0C91C0EEFDB0.tmp' to '../../../../../../Users/User/Documents/Unreal Projects/Nivel_inicial_Dicog/Content/ThirdPerson/Blueprints/Niveles/Mapa_Agua.umap'
+[2026.06.03-12.50.16:018][577]LogFileHelpers: Saving map 'Mapa_Agua' took 0.512
+[2026.06.03-12.50.16:033][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 590.826 ms (total: 15.7 sec)
+[2026.06.03-12.50.16:108][577]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.03-12.50.16:108][577]LogContentValidation: Enabled validators:
+[2026.06.03-12.50.16:108][577]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.03-12.50.16:108][577]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.03-12.50.16:108][577]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.03-12.50.16:109][577]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.03-12.50.16:109][577]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.03-12.50.16:109][577]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.03-12.50.16:109][577]AssetCheck: /Game/ThirdPerson/Blueprints/Niveles/Mapa_Agua Validating asset
+[2026.06.03-12.50.24:144][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.06.03-12.50.24:564][812]LogStall: Shutdown...
+[2026.06.03-12.50.24:564][812]LogStall: Shutdown complete.
+[2026.06.03-12.50.24:909][812]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.24:909][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.25:155][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.03-12.50.25:156][812]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.25:156][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.25:426][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.03-12.50.25:426][812]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.25:426][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.25:618][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.03-12.50.25:618][812]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.25:618][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.25:853][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.03-12.50.25:853][812]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.25:854][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.26:066][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.03-12.50.26:066][812]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.26:066][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.26:352][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.03-12.50.26:352][812]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.26:352][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.27:012][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.03-12.50.27:013][812]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.27:013][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.28:484][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.03-12.50.28:484][812]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.28:484][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.28:940][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.03-12.50.28:940][812]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.28:940][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.29:150][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.03-12.50.29:150][812]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.29:150][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.29:385][812]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.03-12.50.29:386][812]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.29:386][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.29:620][812]LogSlate: Window 'Nivel_Inicial - Unreal Editor' being destroyed
+[2026.06.03-12.50.30:153][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2026.06.03-12.50.30:182][812]LogAutomationController: Ignoring very large delta of 6.17 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.06.03-12.50.30:184][812]Cmd: QUIT_EDITOR
+[2026.06.03-12.50.30:184][813]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.06.03-12.50.30:234][813]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.06.03-12.50.30:240][813]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.06.03-12.50.30:240][813]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.06.03-12.50.30:287][813]LogWorld: UWorld::CleanupWorld for Mapa_Agua, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:288][813]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.06.03-12.50.30:288][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:420][813]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.06.03-12.50.30:422][813]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.06.03-12.50.30:452][813]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.06.03-12.50.30:499][813]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:499][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:507][813]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:507][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:514][813]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:515][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:522][813]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:523][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:530][813]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:530][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:537][813]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:537][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:546][813]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:546][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:555][813]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:555][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:564][813]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:564][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:573][813]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:573][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:585][813]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:585][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:594][813]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:594][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:605][813]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:605][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:617][813]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:617][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:627][813]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:627][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:637][813]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:638][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:649][813]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:649][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:658][813]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:658][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:668][813]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:668][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:680][813]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:680][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:690][813]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:690][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:699][813]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:699][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:709][813]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:709][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:718][813]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:719][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:730][813]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:731][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:742][813]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:742][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:751][813]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:752][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:768][813]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:768][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:778][813]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2026.06.03-12.50.30:779][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.03-12.50.30:821][813]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.06.03-12.50.30:822][813]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.06.03-12.50.30:834][813]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.06.03-12.50.30:870][813]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.06.03-12.50.30:870][813]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.06.03-12.50.30:870][813]LogAudio: Display: Audio Device unregistered from world 'Mapa_Agua'.
+[2026.06.03-12.50.30:870][813]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.06.03-12.50.30:875][813]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.06.03-12.50.30:882][813]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.06.03-12.50.30:909][813]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.06.03-12.50.30:909][813]LogAudio: Display: Audio Device Manager Shutdown
+[2026.06.03-12.50.30:914][813]LogWindowsTextInputMethodSystem: Activated input method: Español (Colombia) - (Keyboard).
+[2026.06.03-12.50.30:924][813]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.06.03-12.50.30:927][813]LogExit: Preparing to exit.
+[2026.06.03-12.50.31:225][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2026.06.03-12.50.31:232][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:249][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:250][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:250][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:250][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:250][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:250][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:250][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:251][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:251][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:251][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:251][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:251][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:251][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:251][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:251][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:251][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:251][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:251][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:251][813]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.31:251][813]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.03-12.50.32:292][813]LogEditorDataStorage: Deinitializing
+[2026.06.03-12.50.33:024][813]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.06.03-12.50.33:226][813]LogExit: Editor shut down
+[2026.06.03-12.50.33:245][813]LogExit: Transaction tracking system shut down
+[2026.06.03-12.50.35:300][813]LogExit: Object subsystem successfully closed.
+[2026.06.03-12.50.35:334][813]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.06.03-12.50.36:242][813]LogMemoryProfiler: Shutdown
+[2026.06.03-12.50.36:245][813]LogNetworkingProfiler: Shutdown
+[2026.06.03-12.50.36:246][813]LoadingProfiler: Shutdown
+[2026.06.03-12.50.36:248][813]LogTimingProfiler: Shutdown
+[2026.06.03-12.50.36:269][813]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.06.03-12.50.36:271][813]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.06.03-12.50.37:350][813]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.06.03-12.50.37:421][813]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.06.03-12.50.37:421][813]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAE27039-4D6E-971A-AD2A-63815062C56A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=953a307a402ac84c8b8acfa4add27c66%7C357b3cbff17c4c14bcee9434bd772e88%7C9a4ab650-f32f-4b7c-aa03-0d71afadb5e5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.06.03-12.50.37:421][813]LogHttp: Warning: 0000016FF59E3100: request failed, libcurl error: 35 (SSL connect error)
+[2026.06.03-12.50.37:421][813]LogHttp: Warning: 0000016FF59E3100: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2026.06.03-12.50.37:421][813]LogHttp: Warning: 0000016FF59E3100: libcurl info message cache 1 (  Trying 100.31.225.147:443...)
+[2026.06.03-12.50.37:421][813]LogHttp: Warning: 0000016FF59E3100: libcurl info message cache 2 (ALPN: curl offers http/1.1)
+[2026.06.03-12.50.37:421][813]LogHttp: Warning: 0000016FF59E3100: libcurl info message cache 3 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2026.06.03-12.50.37:421][813]LogHttp: Warning: 0000016FF59E3100: libcurl info message cache 4 (Recv failure: Connection was reset)
+[2026.06.03-12.50.37:421][813]LogHttp: Warning: 0000016FF59E3100: libcurl info message cache 5 (TLS connect error: error:00000000:lib(0):func(0):reason(0))
+[2026.06.03-12.50.37:421][813]LogHttp: Warning: 0000016FF59E3100: libcurl info message cache 6 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2026.06.03-12.50.37:421][813]LogHttp: Warning: 0000016FF59E3100: libcurl info message cache 7 (closing connection #45)
+[2026.06.03-12.50.37:421][813]LogHttp: Warning: 0000016FF59E3100 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEAE27039-4D6E-971A-AD2A-63815062C56A%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=953a307a402ac84c8b8acfa4add27c66%7C357b3cbff17c4c14bcee9434bd772e88%7C9a4ab650-f32f-4b7c-aa03-0d71afadb5e5&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.09s
+[2026.06.03-12.50.37:505][813]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.06.03-12.50.37:521][813]RenderDocPlugin: plugin has been unloaded.
+[2026.06.03-12.50.37:522][813]LogNFORDenoise: NFORDenoise function shutting down
+[2026.06.03-12.50.37:561][813]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.06.03-12.50.37:561][813]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.06.03-12.50.37:561][813]LogPakFile: Destroying PakPlatformFile
+[2026.06.03-12.50.37:877][813]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.06.03-12.50.37:965][813]LogExit: Exiting.
+[2026.06.03-12.50.38:034][813]Log file closed, 06/03/26 07:50:38
